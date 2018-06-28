@@ -41,6 +41,7 @@ def restricted_float(x, inter):
 parser = argparse.ArgumentParser(description='Neural message passing')
 
 parser.add_argument('--dataset', default='qm9', help='QM9')
+parser.add_argument('--edge-rep', default='raw_distance', choices=['raw_distance','chem_graph','distance_bin'] )
 parser.add_argument('--datasetPath', default='./data/qm9/dsgdb9nsd/', help='dataset path')
 parser.add_argument('--logPath', default='./log/qm9/mpnn/', help='log path')
 parser.add_argument('--plotLr', default=False, help='allow plotting the data')
@@ -96,9 +97,9 @@ def main(args):
     test_ids = [files[i] for i in idx[10000:20000]]
     train_ids = [files[i] for i in idx[20000:]]
 
-    data_train = utils.Qm9(root, train_ids, edge_transform=datasets.qm9_edges, e_representation='raw_distance')
-    data_valid = utils.Qm9(root, valid_ids, edge_transform=datasets.qm9_edges, e_representation='raw_distance')
-    data_test = utils.Qm9(root, test_ids, edge_transform=datasets.qm9_edges, e_representation='raw_distance')
+    data_train = utils.Qm9(root, train_ids, edge_transform=datasets.qm9_edges, e_representation=args.edge_rep)
+    data_valid = utils.Qm9(root, valid_ids, edge_transform=datasets.qm9_edges, e_representation=args.edge_rep)
+    data_test = utils.Qm9(root, test_ids, edge_transform=datasets.qm9_edges, e_representation=args.edge_rep)
 
     # Define model and optimizer
     print('Define model')
