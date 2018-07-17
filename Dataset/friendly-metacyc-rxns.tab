@@ -1,0 +1,1258 @@
+FrameId	Name	dG	Equation
+MANDELATE-RACEMASE-RXN	EC 5.1.2.2	0.0	(R)-mandelate  ->  (S)-mandelate
+L-ARABINONATE-DEHYDRATASE-RXN	EC 4.2.1.25	-8.166992	L-arabinonate  ->  2-dehydro-3-deoxy-L-arabinonate + H2O
+RXN-7	RXN-7	-13.22287	2-amino-4-carboxypyrimidine + L-serine + H+  ->  lathyrine + CO2 + H2O
+L-LYSINE-OXIDASE-RXN	EC 1.4.3.14	-22.962997	L-lysine + H2O + oxygen  ->  6-amino-2-oxohexanoate + ammonium + hydrogen peroxide
+RXN-12213	RXN-12213	-95.207	4-hydroxylaminobenzoate + oxygen  ->  4-nitrobenzoate + H2O
+GALACTARDEHYDRA-RXN	EC 4.2.1.42	-8.166992	D-galactarate  ->  5-dehydro-4-deoxy-D-glucarate + H2O
+RXN-14049	RXN-14049	-2.0711174	L-homoserine  ->  (2Z)-2-aminobut-2-enoate + H+ + H2O
+ACETOOHBUTSYN-RXN	EC 2.2.1.6	-9.695862	pyruvate + 2-oxobutanoate + H+  ->  (S)-2-aceto-2-hydroxybutanoate + CO2
+RXN-16306	RXN-16306	-3.2341156	O-[5-(hydroxynitroso)-3-(oxidonitroso)-2-oxocyclohexylidenenitroso]oxidanidolate  ->  O-[5-(oxidonitroso)-4-oxocyclohex-2-en-1-ylidenenitroso]oxidanidolate + nitrite + H+
+AMACETOXID-RXN	EC 1.4.3.21	-21.503006	aminoacetone + H2O + oxygen  ->  methylglyoxal + ammonium + hydrogen peroxide
+RXN-9559	RXN-9559	-9.846996	norfuraneol + formaldehyde  ->  4-hydroxy-5-methyl-2-methylene-3(2H)-furanone + H2O
+RXN-14850	RXN-14850	2.319992	D-altropyranose  <-->  aldehydo-D-altrose
+LACTATE-2-MONOOXYGENASE-RXN	EC 1.1.3.j	-25.220001	(S)-lactate + oxygen  ->  pyruvate + hydrogen peroxide
+RXN0-6981	EC 3.4.13.18	-1.2130127	L-alanyl-L-glutamate + H2O  ->  L-alanine + L-glutamate
+2.6.1.72-RXN	EC 2.6.1.72	-2.6858978	2-oxoglutarate + D-(4-hydroxyphenyl)glycine  <-->  L-glutamate + 2-(4-hydroxyphenyl)-2-oxoacetate
+ACETYLSPERMIDINE-DEACETYLASE-RXN	EC 3.5.1.48	-3.8553772	N8-acetylspermidine + H2O  =  spermidine + acetate
+RXN-11318	EC 3.5.1.106	-15.4171295	N-formylmaleamate + H2O  ->  maleamate + formate + H+
+RXN-13100	EC 1.1.3.-	-52.804108	2-(dihydroxymethyl)furan + oxygen  ->  2-furoate + hydrogen peroxide + H+
+TYROSINE-PHENOL-LYASE-RXN	EC 4.1.99.2	0.35287666	L-tyrosine + H2O  =  phenol + pyruvate + ammonium
+RXN-12613	EC 3.5.99.2	2.4770126	aminomethylpyrimidine + H2O  ->  4-amino-2-methyl-5-pyrimidinemethanol + ammonium
+METHYLGUANIDINASE-RXN	EC 3.5.3.16	15.267002	methylguanidine + H2O  ->  urea + methylamine
+RXN0-3921	EC 1.4.3.M3	-23.962997	gamma-glutamyl-L-putrescine + H2O + oxygen  ->  4-(gamma-L-glutamylamino)butanal + hydrogen peroxide + ammonium
+RXN-14253	RXN-14253	-68.59823	5-nitrosalicylate + oxygen  ->  4-nitro-6-oxohepta-2,4-dienedioate + H+
+PROTOCATECHUATE-45-DIOXYGENASE-RXN	EC 1.13.11.8	-73.25825	protocatechuate + oxygen  ->  4-carboxy-2-hydroxymuconate-6-semialdehyde + H+
+RXN-13635	EC 1.14.11.45	-112.29004	L-isoleucine + 2-oxoglutarate + oxygen  ->  (2S,3R,4S)-4-hydroxy-L-isoleucine + succinate + CO2
+RXN-13117	EC 2.6.1.100	7.8058853	L-glutamine + 2-deoxy-L-scyllo-inosose  <-->  2-oxoglutaramate + 2-deoxy-scyllo-inosamine
+RXN-10723	RXN-10723	-48.637	(2Z,4E)-2-amino-6-oxohexa-2,4-dienoate  ->  picolinate + H2O
+RXN-8460	EC 1.13.11.29	-72.63414	L-dopa + oxygen  ->  4,5-seco-dopa + H+
+RXN-10897	EC 4.1.1.-	1.1482391	5-carboxyvanillate + H+  ->  vanillate + CO2
+RXN-3541	EC 1.10.3.3	-111.47748	4 L-ascorbate + oxygen + 4 H+  ->  4 monodehydroascorbate radical + 2 H2O
+DHDOGALDOL-RXN	EC 4.1.2.51	2.6399994	2-dehydro-3-deoxy-D-gluconate  <-->  D-glyceraldehyde + pyruvate
+1.13.11.41-RXN	EC 1.13.11.41	-122.93825	2,4'-dihydroxyacetophenone + oxygen  ->  formate + 4-hydroxybenzoate + 2 H+
+RXN-8483	RXN-8483	-0.5441208	dopaquinone  ->  leucodopachrome + H+
+RXN-15579	RXN-15579	7.8200016	L-tyrosine  ->  phenol + 2-aminoprop-2-enoate
+1.14.11.21-RXN	EC 1.14.11.21	-109.619995	deoxyamidinoproclavaminate + 2-oxoglutarate + oxygen  ->  amidinoproclavaminate + succinate + CO2
+AGMATINE-DEIMINASE-RXN	EC 3.5.3.12	-11.648888	agmatine + H2O  ->  ammonium + N-carbamoylputrescine
+RXN-11210	EC 3.5.1.6	3.3610992	3-(carbamoylamino)-2-methylpropanoate + H2O + 2 H+  ->  (R)-3-amino-2-methylpropanoate + ammonium + CO2
+PYRIDOXINE-4-OXIDASE-RXN	EC 1.1.3.12	-27.989998	pyridoxine + oxygen  ->  hydrogen peroxide + pyridoxal
+RXN-13159	RXN-13159	-372.78796	4 2-aminophenol + 2 oxygen  ->  4 1,2-benzoquinone monoimine + 4 H2O
+RXN-9641	RXN-9641	-18.487003	(1Z,2S)-2-methylbutanal oxime  ->  (2S)-methylbutanenitrile + H2O
+RXN-14930	EC 2.6.1.105	1.460022	L-lysine + 8-amino-7-oxononanoate  <-->  (S)-2-amino-6-oxohexanoate + 7,8-diaminopelargonate
+N-ACYLHEXOSAMINE-OXIDASE-RXN	EC 1.1.3.29	-39.76712	N-acetyl-beta-D-glucosamine + oxygen + H2O  ->  N-acetyl-D-glucosaminate + hydrogen peroxide + H+
+RXN-3945	RXN-3945	24.39	isatinate  ->  anthranilate
+RXN-12316	EC 1.7.6.1	24.811249	3 nitrite + 2 H+  =  2 nitric oxide + nitrate + H2O
+DIHYDROOROT-RXN	EC 3.5.2.3	-6.5312195	(S)-dihydroorotate + H2O  <-->  N-carbamoyl-L-aspartate + H+
+RXN-13697	EC 2.6.1.1	2.9700012	L-aspartate + 2-oxoglutarate  <-->  L-glutamate + oxaloacetate
+MALEATE-HYDRATASE-RXN	EC 4.2.1.31	-0.09700012	(R)-malate  =  maleate + H2O
+RXN-17560	EC 1.13.11.M3	-89.81412	hydroxyquinol + oxygen  =  2,4,6-trioxohexanoate + H+
+RXN-17153	RXN-17153	-43.34601	3-[(2-aminophenyl)amino]-2-oxopropanoate  ->  3,4-dihydroquinoxaline-2-carboxylate + H2O
+ALDOSE-1-EPIMERASE-RXN	EC 5.1.3.3	0.0	alpha-D-glucopyranose  <-->  beta-D-glucopyranose
+RXN-8246	RXN-8246	3.0030003	N-methylaminobutanal  ->  N-methyl-Delta1-pyrrolinium cation + H2O
+RXN-17577	EC 3.1.1.M4	-4.4771156	ethyl acetate + H2O  ->  acetate + ethanol + H+
+D-GLUTAMATE-OXIDASE-RXN	EC 1.4.3.7/1.4.3.15	-22.341255	D-glutamate + H2O + oxygen  ->  ammonium + 2-oxoglutarate + hydrogen peroxide
+2.5.1.45-RXN	EC 2.5.1.45	0.0	putrescine + spermidine  ->  propane-1,3-diamine + sym-homospermidine
+RXN-16480	EC 1.13.11.81	-89.02512	7,8-dihydroneopterin + oxygen  =  7,8-dihydroxanthopterin + formate + glycolaldehyde + H+
+RXN-11269	RXN-11269	2.6569977	trans-cinnamate + H2O  ->  3-hydroxy-3-phenylpropanoate
+RXN-16013	RXN-16013	-3.625885	3-oxopropanoate + H+  ->  acetaldehyde + CO2
+RXNQT-4352	RXNQT-4352	-6.0619965	indole-3-carbinonium ion + H2O  ->  indole-3-carbinol + H+
+RXN-15192	RXN-15192	-1.1069984	(R)-synephrine  ->  4-[(E)-2-(methylamino)ethenyl]phenol + H2O
+RXN-12902	EC 2.1.1.21	-1.5971222	N5-methyl-L-glutamine + L-glutamate + H2O  <-->  L-glutamate + N-methyl-L-glutamate + ammonium
+RXN-12205	RXN-12205	-63.283173	indole-3-carboxaldehyde  ->  indole-3-carboxylate
+TARTRATE-EPIMERASE-RXN	EC 5.1.2.5	0.0	L-tartrate  =  meso-tartrate
+RXN-14541	EC 1.14.11.40	-109.619995	L-enduracididine + 2-oxoglutarate + oxygen  ->  (3S)-3-hydroxy-L-enduracididine + succinate + CO2
+RXN66-145	RXN66-145	-44.324482	4-(3-pyridyl)-butanoate  ->  3-pyridylacetate
+RXN-14206	EC 1.14.16.1	-89.65799	L-phenylalanine + (6R)-L-erythro-5,6,7,8-tetrahydrobiopterin + oxygen  ->  L-tyrosine + (6R)-6,7-dihydrobiopterin + H2O
+RXN-11733	EC 4.1.2.46	25.089998	(2R)-2-hydroxy-2-methylbutanenitrile  ->  hydrogen cyanide + butan-2-one
+RXN-18502	EC 4.2.1.172	-17.551125	trans-4-hydroxy-L-proline  ->  (S)-1-pyrroline-5-carboxylate + H2O + H+
+RXN-1346	RXN-1346	-1.55	(Z)-3-hexanal  ->  (E)-2-hexenal
+S-2-METHYLMALATE-DEHYDRATASE-RXN	EC 4.2.1.34	1.4730072	(S)-citramalate  <-->  mesaconate + H2O
+RXN-17611	RXN-17611	-9.620003	tert-butoxymethanol  ->  tert-butyl alcohol + formaldehyde
+RXN-10122	RXN-10122	1.9882431	2-fluoromuconate + H+  =  (+)-5-fluoromuconolactone
+RXN-16514	RXN-16514	2.3200073	beta-D-galacturonate  ->  aldehydo-D-galacturonate
+RXN-9575	RXN-9575	11.159996	mesifurane  <-->  mesifurane (enol form)
+RXN-9773	EC 1.13.12.15	-92.62824	2 L-dopa + oxygen  ->  2 3,4-dihydroxyphenylpyruvate + 2 ammonium
+RXN-13946	EC 4.3.99.4	24.709997	choline  ->  trimethylamine + acetaldehyde
+RXN-13286	EC 4.1.99.-	-8.547127	1-heptanal + H2O  =  n-hexane + formate + H+
+METHYLASPARTATE-MUTASE-RXN	EC 5.4.99.1	1.81	(2S, 3S)-3-methylaspartate  <-->  L-glutamate
+RXN-8092	EC 1.2.3.1	-44.25712	acetaldehyde + oxygen + H2O  ->  acetate + hydrogen peroxide + H+
+RXN-12947	RXN-12947	-4.91	3-hydroxy-4h-pyrid-4-one  ->  3,4-dihydroxypyridin
+4.1.99.4-RXN	EC 3.5.99.7	-12.547131	1-aminocyclopropane-1-carboxylate + H2O  ->  ammonium + 2-oxobutanoate
+3-OXOADIPATE-ENOL-LACTONASE-RXN	EC 3.1.1.24	-2.9912567	(4,5-dihydro-5-oxofuran-2-yl)-acetate + H2O  ->  3-oxoadipate + H+
+GLYOXYLATE-OXIDASE-RXN	EC 1.2.3.5	-39.111237	glyoxylate + oxygen + H2O  ->  oxalate + hydrogen peroxide + H+
+RXN-7691	RXN-7691	-14.95713	beta-ketoisocaproate + H2O  ->  isobutanoate + acetate + H+
+AMVAL-RXN	EC 3.5.1.-	-1.9830017	5-acetamidovalerate + H2O  ->  5-aminopentanoate + acetate
+RXN-15248	RXN-15248	-24.939999	1-aminocyclohexa-3,5-diene-1,2-diol  ->  catechol + ammonium
+SERINE-GLYOXYLATE-AMINOTRANSFERASE-RXN	EC 2.6.1.45	-3.419983	glyoxylate + L-serine  <-->  hydroxypyruvate + glycine
+MHPCHYDROL-RXN	EC 3.7.1.14	-14.587128	(2Z,4E)-2-hydroxy-6-oxonona-2,4-diene-1,9-dioate + H2O  ->  (2Z)-2-hydroxypenta-2,4-dienoate + succinate + H+
+THREOSPON-RXN	THREOSPON-RXN	-3.0899925	L-2-amino-3-oxobutanoate + H+  ->  aminoacetone + CO2
+1.13.11.15-RXN	EC 1.13.11.15	-73.25824	3,4-dihydroxyphenylacetate + oxygen  ->  2-hydroxy-5-carboxymethylmuconate semialdehyde + H+
+ARABINONATE-DEHYDRATASE-RXN	EC 4.2.1.5	-8.166992	D-arabinonate  ->  2-dehydro-3-deoxy-D-arabinonate + H2O
+RXN-11519	RXN-11519	-40.852997	theobromine + oxygen + H2O  ->  3,7-dimethylurate + hydrogen peroxide
+RXN-10908	EC 1.4.3.4	-4.6129932	(R)-adrenaline + H2O + oxygen  ->  3,4-dihydroxyphenylglycolaldehyde + methylamine + hydrogen peroxide
+RXN-8623	EC 1.10.3.-	-97.674	2 dopamine + oxygen  ->  2 dopamine quinone + 2 H2O
+MUCONOLACTONE-DELTA-ISOMERASE-RXN	EC 5.3.3.4	-8.569984	(+)-muconolactone  ->  (4,5-dihydro-5-oxofuran-2-yl)-acetate
+RXN-36	EC 3.5.1.63	-1.9830017	4-acetamidobutanoate + H2O  ->  4-aminobutanoate + acetate
+RXN-48	RXN-48	-46.223812	2-amino-4-carboxypyrimidine + L-alanine  =  lathyrine + CO2 + H2O
+DIAMINOPIMEPIM-RXN	EC 5.1.1.7	0.0	L,L-diaminopimelate  <-->  meso-diaminopimelate
+1.14.11.1-RXN	EC 1.14.11.1	-109.620026	gamma-butyrobetaine + 2-oxoglutarate + oxygen  ->  L-carnitine + succinate + CO2
+RXN-18593	EC 5.3.1.35	-2.4599915	2-dehydro-D-erythronate  <-->  3-dehydro-D-erythronate
+RXN-15590	EC 4.2.1.-	-8.166992	L-lyxonate  ->  2-dehydro-3-deoxy-L-arabinonate + H2O
+RXN-17533	EC 3.5.99.-	25.75701	(2S)-2-amino-5-iminopentanoate + H2O + H+  ->  L-glutamate-5-semialdehyde + ammonium
+3.5.5.2-RXN	EC 3.5.5.2	-0.3601284	ricinine + 2 H2O  ->  ammonium + 3-carboxy-4-methoxy-N-methyl-2-pyridone
+RXN-10463	EC 1.5.3.15	-23.453003	N8-acetylspermidine + oxygen + H2O  ->  propane-1,3-diamine + 4-acetamidobutanal + hydrogen peroxide
+RXN-14807	RXN-14807	1.5600052	D-arabinofuranose  <-->  D-arabinopyranose
+DIHYDRODIPICSYN-RXN	EC 4.3.3.7	-32.025223	pyruvate + L-aspartate-semialdehyde  ->  (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + H2O + H+
+RXN-14645	EC 1.14.17.-	-67.9229	tyramine + L-ascorbate + oxygen + H+  ->  octopamine + L-dehydro-ascorbate + H2O
+RXN-19523	EC 1.13.11.ai	-66.11	5-aminosalicylate + oxygen  ->  (2Z,4E)-4-amino-6-oxohepta-2,4-dienedioate
+FORMYLASPARTATE-DEFORMYLASE-RXN	EC 3.5.1.8	0.021102905	N-formyl-L-aspartate + H2O  =  L-aspartate + formate
+OCTOPAMINE-DEHYDRATASE-RXN	EC 4.2.1.87	-6.689987	octopamine  ->  (4-hydroxyphenyl)acetaldehyde + ammonium
+RXN-8829	EC 5.4.4.1	-6.44	4-hydroxylaminotoluene  ->  2-amino-5-methylphenol
+RXN-8673	EC 1.4.3.19	-3.7371178	sarcosine + H2O + oxygen  ->  glyoxylate + methylamine + hydrogen peroxide
+RXN-17554	EC 2.6.1.8	1.3240967	2-oxoglutarate + (2S)-2,4-diaminopentanedioate  =  L-glutamate + 4-amino-2-oxo-pentanedioate
+ACETOIN-RACEMASE-RXN	EC 5.1.2.4	0.0	(S)-acetoin  =  (R)-acetoin
+RXN-13569	EC 5.4.3.9	0.0	L-glutamate  <-->  beta-glutamate
+RXN-13071	6,3-dihydroxy-2-pyridinone hydrolase	2.4869995	6,3-dihydroxy-2-pyridinone + H2O  ->  2-oxoglutaramate
+RXN-17572	EC 3.1.1.M3	-1.0571175	methyl acetate + H2O  ->  acetate + methanol + H+
+GALACTONOLACTONASE-RXN	EC 3.1.1.25	-6.347122	D-galactono-1,4-lactone + H2O  ->  D-galactonate + H+
+R127-RXN	R127-RXN	11.311878	xanthine + H2O  ->  5-ureidoimidazole-4-carboxylate + H+
+OXALOMALATE-LYASE-RXN	EC 4.1.3.13	6.228241	3-oxalomalate  =  glyoxylate + oxaloacetate
+RXN-17749	EC 3.1.1.-	6.1071167	L-galactono-1,5-lactone + H2O  ->  aldehydo-L-galactonate + H+
+RXN-13091	RXN-13091	-52.804123	5-(dihydroxymethyl)furan-2-carbaldehyde + oxygen  ->  5-formylfuran-2-carboxylate + hydrogen peroxide + H+
+5.4.4.1-RXN	EC 5.4.4.1	-6.44	N-phenylhydroxylamine  ->  2-aminophenol
+CISTRANON-RXN	CISTRANON-RXN	-66.71	(3E)-3-nonenal + oxygen  ->  4-hydroperoxyoctadeca-t-2-nonenal
+RXN-19389	EC 1.14.17.1	-67.92288	4-hydroxyamphetamine + L-ascorbate + oxygen + H+  ->  4-hydroxynorephedrine + L-dehydro-ascorbate + H2O
+BENZOYLFORMATE-DECARBOXYLASE-RXN	EC 4.1.1.7	-5.015877	phenylglyoxylate + H+  ->  CO2 + benzaldehyde
+RXN-9202	RXN-9202	-23.477657	N-methyl-Delta1-pyrrolinium cation + acetonedicarboxylate + H+  ->  4-(1-methyl-2-pyrrolidinyl)-3-oxobutanoate + CO2
+RXN-17607	EC 3.5.5.1	1.1898746	2-hydroxy-2-methylpropanenitrile + 2 H2O  =  2-hydroxy-2-methylpropanoate + ammonium
+3-HYDROXYASPARTATE-ALDOLASE-RXN	EC 4.1.3.41	3.1899872	(3S)-3-hydroxy-D-aspartate  =  glycine + glyoxylate
+RXN-6267	EC 1.14.11.21	-110.22702	dihydroclavaminate + 2-oxoglutarate + oxygen  ->  clavaminate + CO2 + succinate + H2O
+RXN-14101	RXN-14101	-22.234104	6-hydroxyhexan-6-olide  ->  6-oxohexanoate + H+
+RXN-11453	EC 1.2.98.1	-16.877129	2 formaldehyde + H2O  =  methanol + formate + H+
+RXN-18514	EC 1.1.3.-	-33.659996	2-deoxy-D-glucose + oxygen  ->  2-deoxy-D-glucono-1,5-lactone + hydrogen peroxide
+RXN-13126	EC 3.1.1.-	8.397003	(4-hydroxyphenyl)acetate + H2O  ->  hydroquinone + acetate
+RXN-14900	EC 3.2.1.170	-1.0130005	2-O-(alpha-D-mannosyl)-D-glycerate + H2O  ->  D-glycerate + alpha-D-mannopyranose
+RXN-7933	EC 3.5.1.16	-1.9830017	N-acetyl-L-citrulline + H2O  ->  L-citrulline + acetate
+RXN-14747	RXN-14747	2.319992	D-allopyranose  <-->  aldehydo-D-allose
+RXN66-221	EC 4.1.1.28	-3.0900116	L-dopa + H+  ->  dopamine + CO2
+RXN-14457	EC 3.5.3.25	-8.022995	Nomega-hydroxy-L-arginine + H2O  ->  L-ornithine + hydroxyurea
+INDOLE-23-DIOXYGENASE-RXN	EC 1.13.11.17	-89.94	indole + oxygen  ->  2-formylaminobenzaldehyde
+RXN-6424	RXN-6424	3.0029984	1-(3-aminopropyl)-4-aminobutanal  ->  1-(3-aminopropyl)-pyrrolinium + H2O
+RXN-9983	EC 5.3.2.8	4.95	(1E)-4-oxobut-1-ene-1,2,4-tricarboxylate  <-->  (1E,3E)-4-hydroxybuta-1,3-diene-1,2,4-tricarboxylate
+RXN-8944	RXN-8944	-6.689995	L-alaninol  ->  1-propanal + ammonium
+RXN-18112	EC 4.1.1.M8	0.26823425	2-hydroxy-3-carboxy-6-oxo-hepta-2,4-dienoate + H+  ->  2-hydroxy-6-oxohepta-2,4-dienoate + CO2
+THREDEHYD-RXN	EC 4.3.1.19	-7.654127	L-threonine  ->  2-oxobutanoate + ammonium
+RXN-16948	EC 3.7.1.23	-13.64711	(2E)-3-methyl-4,6-dioxohept-2-enedioate + H2O  ->  citraconate + pyruvate + H+
+RXN0-7173	EC 4.2.1.-	-22.027122	glyoxal + H2O  ->  glycolate + H+
+R306-RXN	EC 3.7.1.M3	-14.957123	2,4,6-trioxoheptanoate + H2O  ->  acetylpyruvate + acetate + H+
+R310-RXN	EC 4.2.1.84	-4.9769936	acrylonitrile + H2O  ->  acrylamide
+CARBOXYMETHYLENEBUTENOLIDASE-RXN	EC 3.1.1.45	16.73877	cis-dienelactone + H2O  ->  2-maleylacetate + H+
+VALINE-PYRUVATE-AMINOTRANSFER-RXN	EC 2.6.1.66	-1.3099976	pyruvate + L-valine  <-->  L-alanine + 3-methyl-2-oxobutanoate
+RXN-10054	RXN-10054	-9.110001	enolaldehyde  ->  methylglyoxal
+RXN-19491	EC 5.3.2.1	-4.9500046	(4-hydroxyphenyl)-enolpyruvate  <-->  4-hydroxyphenylpyruvate
+R365-RXN	EC 4.3.3.-	-2.7229996	4-hydroxylaminobenzoate + H+ + H2O  ->  protocatechuate + ammonium
+FHLMULTI-RXN	FHLMULTI-RXN	5.9941254	formate + H+  ->  CO2 + H2
+RXN-13714	EC 3.5.1.101	9.267006	(S)-piperazine-2-carboxamide + H2O  =  (S)-piperazine-2-carboxylate + ammonium
+RXN-13523	EC 2.6.1.-	0.91589355	L-alanine + 5-oxooctanal  <-->  8-aminooctan-4-one + pyruvate
+RXN-8015	EC 3.5.4.45	-18.423008	melamine + H+ + H2O  ->  ammeline + ammonium
+4.3.1.16-RXN	EC 4.3.1.16	-6.0182495	(3S)-3-hydroxy-L-aspartate  =  oxaloacetate + ammonium
+RXN-18769	EC 3.2.1.M9	-5.833008	2-O-(alpha-D-glucopyranosyl)glycerol + H2O  ->  D-glucopyranose + glycerol
+RXN-14178	EC 5.3.99.11	0.0	scyllo-inosose  <-->  1-keto-D-chiro-inositol
+RXN-9337	RXN-9337	46.374123	benzoate + pyruvate  ->  1-phenylpropane-1,2-dione + CO2
+RXN-8824	EC 3.7.1.-	-25.348877	4-hydroxy-2-keto-5-methyl-6-oxo-3-hexenoate + H2O  ->  methylmalonate semialdehyde + pyruvate
+45-DIHYDROXYPHTHALATE-DECARBOXYLASE-RXN	EC 4.1.1.55	1.1482391	4,5-dihydroxyphthalate + H+  =  CO2 + protocatechuate
+L-ASPARTATE-OXID-RXN	EC 1.4.3.16	-53.19825	L-aspartate + oxygen  ->  2-iminosuccinate + hydrogen peroxide + H+
+D-LYXOSE-KETOL-ISOMERASE-RXN	EC 5.3.1.15	-0.94	alpha-D-lyxopyranose  =  D-xylulose
+RXN-16823	EC 1.11.2.M1	-79.957	indole + hydrogen peroxide  ->  indolin-2-one + H2O
+RXN-11564	EC 4.1.1.-	-4.338272	carboxyspermidine + H+  ->  spermidine + CO2
+RXN-16488	EC 1.14.11.-	-108.479996	L-leucine + 2-oxoglutarate + oxygen  ->  5-hydroxy-leucine + succinate + CO2
+ACETCAPR-RXN	EC 2.6.1.-	1.324089	N6-acetyl-L-lysine + 2-oxoglutarate  <-->  L-glutamate + 2-keto-6-acetamidocaproate
+RXN-8841	EC 4.1.1.77	-1.841774	(E)-5-methyl-2-oxo-3-hex-3-enedioate + H+  ->  (4E)-2-oxo-hex-4-enoate + CO2
+RXN-13561	1,2,4-benzenetriol synthase	-39.48	hydroquinone  ->  hydroxyquinol
+RXN-13065	EC 1.5.3.21	-5.237115	4-methylaminobutanoate + H2O + oxygen  ->  succinate semialdehyde + methylamine + hydrogen peroxide
+5.1.1.15-RXN	EC 5.1.1.15	0.0	(S)-2-aminohexano-6-lactam  =  (R)-2-aminohexano-6-lactam
+L-RHAMNONATE-DEHYDRATASE-RXN	EC 4.2.1.90	-8.167007	L-rhamnonate  ->  2-dehydro-3-deoxy-L-rhamnonate + H2O
+2.6.1.46-RXN	EC 2.6.1.46	-0.9158859	L-2,4-diaminobutanoate + pyruvate  <-->  L-aspartate-semialdehyde + L-alanine
+OXALATE-DECARBOXYLASE-RXN	EC 4.1.1.2	-4.2717743	oxalate + H+  ->  formate + CO2
+RXN-16309	RXN-16309	-14.127121	2,4-dinitrocyclohexan-1-one + H2O  ->  4,6-dinitrohexanoate + H+
+AMIDINOASPARTASE-RXN	EC 3.5.3.14	-4.923004	N-amidino-L-aspartate + H2O  =  urea + L-aspartate
+RXN-9562	RXN-9562	-6.926998	norfuraneol + butan-1-al  ->  (2E)-2-butylidene-4-hydroxy-5-methyl-3(2H)-furanone + H2O
+LACTATE-RACEMASE-RXN	EC 5.1.2.1	0.4300003	(S)-lactate  <-->  (R)-lactate
+RXN-12765	EC 5.3.99.-	-14.6	(S)-2-phenyloxirane  ->  phenylacetaldehyde
+RXN-8780	RXN-8780	-6.0	L-sorbosone  ->  L-sorbosone 1,4-lactone
+SEPIAPTERIN-DEAMINASE-RXN	EC 3.5.4.24	11.716	sepiapterin + H+ + H2O  =  ammonium + xanthopterin-B2
+METHYLITACONATE-DELTA-ISOMERASE-RXN	EC 5.3.3.6	-1.45	(R)-3-methylitaconate  ->  dimethylmaleate
+RXN-12087	EC 3.1.1.-	14.397003	vinyl acetate + H2O  ->  allyl alcohol + formate
+RXN-34	EC 3.5.3.1	-4.8130035	L-canavanine + H2O  ->  L-canaline + urea + H+
+2-METHYLENEGLUTARATE-MUTASE-RXN	EC 5.4.99.4	-1.81	2-methyleneglutarate  ->  (R)-3-methylitaconate
+TRANS-EPOXYSUCCINATE-HYDROLASE-RXN	EC 3.3.2.4	-3.6329956	trans-2,3-epoxysuccinate + H2O  =  meso-tartrate
+CREATINASE-RXN	EC 3.5.3.3	-9.0130005	creatine + H2O  ->  urea + sarcosine
+RXN-6401	EC 4.3.3.-	-7.9741	(R)-pantolactone + beta-alanine  <-->  (R)-pantothenate + H+
+1.13.11.47-RXN	EC 1.13.11.47	-93.281	3-hydroxy-1H-quinolin-4-one + oxygen  ->  carbon monoxide + N-formylanthranilate
+GUANIDINOPROPIONASE-RXN	EC 3.5.3.17	-3.572998	3-guanidinopropanoate + H2O  =  urea + beta-alanine
+RXN-14810	RXN-14810	1.7499924	D-tagatofuranose  <-->  keto-D-tagatose
+RXN-13143	2,5-pyridinedicarboxylate synthase	-49.517	(2Z,4Z)-2-amino-5-formylhexa-2,4-dienedioate  ->  2,5-pyridinedicarboxylate + H2O
+UREIDOGLYCOLATE-HYDROLASE-RXN	EC 3.5.1.116	-2.4530182	(S)-ureidoglycolate + 2 H+ + H2O  ->  2 ammonium + CO2 + glyoxylate
+RXN-12538	EC 1.13.12.19	-107.35463	2-oxoglutarate + oxygen + 2 H+  ->  ethene + 3 CO2 + H2O
+RXN-16815	EC 1.1.3.-	-40.1	2-hydroxy-3-[(1E)-3-oxoprop-1-en-1-yl]-2H-pyran-6-carboxylate + oxygen  ->  iso-arabidopaldehyde + hydrogen peroxide
+SPONTPRO-RXN	SPONTPRO-RXN	14.681124	(S)-1-pyrroline-5-carboxylate + H+ + H2O  <-->  L-glutamate-5-semialdehyde
+MYO-INOSITOL-OXYGENASE-RXN	EC 1.13.99.1	-112.301094	myo-inositol + oxygen  ->  D-glucopyranuronate + H+ + H2O
+3.5.2.16-RXN	EC 3.5.2.16	-0.22712326	maleimide + H2O  =  maleamate + H+
+RXN3O-1118	RXN3O-1118	-2.657013	3-(4-hydroxyphenyl)lactate  ->  4-coumarate + H2O
+1.14.11.28-RXN	EC 1.14.11.28	-111.42	L-proline + 2-oxoglutarate + oxygen  ->  cis-3-hydroxy-L-proline + succinate + CO2
+PHENYLSERINE-ALDOLASE-RXN	EC 4.1.2.26	0.13999939	L-threo-3-phenylserine  ->  benzaldehyde + glycine
+RXN-11217	EC 3.5.2.2	-6.1471252	hydantoin + H2O  <-->  N-carbamoylglycine + H+
+1.3.3.12-RXN	EC 1.3.3.12	-48.60412	L-galactono-1,4-lactone + oxygen  ->  L-ascorbate + hydrogen peroxide + H+
+RXN-8956	EC 2.6.1.84	0.084127426	L-arginine + pyruvate  <-->  5-guanidino-2-oxopentanoate + L-alanine
+RXN-11381	EC 4.1.2.54	0.5399933	2-dehydro-3-deoxy-L-galactonate  <-->  L-glyceraldehyde + pyruvate
+RXN-13680	EC 3.5.1.15	-2.7088928	N-acetyl-L-aspartate + H2O  ->  L-aspartate + acetate
+VAGL-RXN	EC 2.6.1.48	0.32411194	5-aminopentanoate + 2-oxoglutarate  <-->  L-glutamate + glutarate semialdehyde
+R62-RXN	R62-RXN	-11.6399975	5-aminoimidazole-4-carboxylate  ->  4-aminoimidazole + CO2
+RXN-13370	EC 1.13.11.64	-89.26414	5-nitrosalicylate + oxygen  ->  2-oxo-3-(5-oxofuran-2-ylidene)propanoate + nitrite + H+
+RXN-16832	EC 4.1.1.60	-29.307144	puberulonate + H2O  =  puberulate + CO2 + H+
+LYSINE-RACEMASE-RXN	EC 5.1.1.5	0.0	L-lysine  ->  D-lysine
+FUMHYDR-RXN	EC 4.2.1.2	0.6130066	(S)-malate  <-->  fumarate + H2O
+RXN-12149	L-rhamnose pyranase	0.23999786	L-rhamnopyranose  <-->  L-rhamnofuranose
+DIHYDROURACIL-OXIDASE-RXN	EC 1.3.3.7	-35.92	5,6-dihydrouracil + oxygen  ->  hydrogen peroxide + uracil
+RXN3O-4157	EC 2.6.1.58	-2.4700012	L-tyrosine + pyruvate  <-->  4-hydroxyphenylpyruvate + L-alanine
+RXN-14845	EC 2.6.1.103	1.3241119	(S)-3,5-dihydroxyphenylglycine + 2-oxoglutarate  <-->  2-(3,5-dihydroxyphenyl)-2-oxoacetate + L-glutamate
+XANTHINE-OXIDASE-RXN	EC 1.17.3.2	2.1259918	xanthine + oxygen + H2O  ->  urate + hydrogen peroxide
+MALEYLACETOACETATE-ISOMERASE-RXN	EC 5.2.1.2	0.0	4-maleyl-acetoacetate  ->  4-fumaryl-acetoacetate
+RXN-15121	RXN-15121	-36.390003	(2Z)-2-aminobut-2-enoate  ->  2-iminobutanoate
+ACETYLPUTRESCINE-DEACETYLASE-RXN	EC 3.5.1.62	-3.2312317	N-acetylputrescine + H2O  =  putrescine + acetate
+D-ALANINE-AMINOTRANSFERASE-RXN	EC 2.6.1.21	-1.4558716	2-oxoglutarate + D-alanine  <-->  D-glutamate + pyruvate
+RXN-15851	EC 1.1.3.47	-112.78836	5-hydroxymethylfurfural + 3 oxygen + 2 H2O  ->  furan-2,5-dicarboxylate + 3 hydrogen peroxide + 2 H+
+RXN0-985	EC 1.14.11.33	-126.59	N3-methylcytosine + 2-oxoglutarate + oxygen  ->  cytosine + CO2 + formaldehyde + succinate + H+
+RXN-18211	RXN-18211	-1.8417816	3-ethyl-2-oxosuccinate + H+  ->  2-oxovalerate + CO2
+RXN-15356	RXN-15356	-1.7499924	keto-L-rhamnulose  ->  L-rhamnulofuranose
+TYROSINE-AMINOTRANSFERASE-RXN	EC 2.6.1.5/2.6.1.57	-0.605896	L-tyrosine + 2-oxoglutarate  <-->  4-hydroxyphenylpyruvate + L-glutamate
+RXN-14173	EC 3.5.1.100	-4.7129974	(R)-piperidine-3-carboxamide + H2O  ->  (R)-nipecotate + ammonium
+ALDOSE1EPIM-RXN	EC 5.1.3.3	0.0	beta-D-galactose  <-->  alpha-D-galactose
+R103-RXN	EC 4.2.1.108	-2.9970016	(2S)-4-acetamido-2-aminobutanoate  ->  ectoine + H2O
+RXN-12073	EC 1.13.11.16	-69.33823	2,3-dihydroxy-trans-cinnamate + oxygen  ->  (2Z,4E,7E)-2-hydroxy-6-oxonona-2,4,7-triene-1,9-dioate + H+
+RXN-6201	EC 4.1.1.97	12.074127	(S)-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline + H+  ->  (S)-(+)-allantoin + CO2
+MANDELATE-4-MONOOXYGENASE-RXN	EC 1.14.16.6	-99.987015	(6R)-tetrahydrobiopterin + (S)-mandelate + oxygen  ->  7,8-dihydrobiopterin + (S)-4-hydroxymandelate + H2O
+RXN-15139	RXN-15139	-158.966	adenine + 2 hydroxyl radical  ->  isoguanine + H2O
+RXN-15903	EC 3.1.1.-	-6.971237	D-galactaro-1,4-lactone + H2O  =  D-galactarate + H+
+RXN-13113	1,3-dimethylurate synthase	-61.62	theophylline  ->  1,3-dimethylurate
+RXN66-1	EC 1.11.1.6	-71.334	ethanol + hydrogen peroxide  ->  acetaldehyde + 2 H2O
+HYDROXYACID-OXOACID-TRANSHYDROGENASE-RXN	EC 1.1.99.24	-6.2299805	(S)-3-hydroxybutanoate + 2-oxoglutarate  =  (R)-2-hydroxyglutarate + acetoacetate
+23-DIMETHYLMALATE-LYASE-RXN	EC 4.1.3.32	4.2241135	(2R,3S)-2,3-dimethylmalate  ->  propanoate + pyruvate
+3.4.13.22-RXN	EC 3.4.13.22	-0.46299744	D-alanyl-D-alanine + H2O  ->  2 D-alanine
+RXN-7908	EC 4.2.1.96	-24.43599	(6R)-4a-hydroxy-tetrahydrobiopterin  ->  L-erythro-7,8-dihydrobiopterin + H2O
+RXN-14360	EC 5.3.3.-	0.0	5-dehydro-L-gluconate  ->  D-tagaturonate
+ALLANTOIN-RACEMASE-RXN	EC 5.1.99.3	0.0	(S)-(+)-allantoin  <-->  (R)-(-)-allantoin
+BARBITURASE-RXN	EC 3.5.2.1	13.215233	barbiturate + H+ + H2O  ->  ureidomalonate
+RXN0-5224	EC 4.2.1.1	1.4471283	hydrogencarbonate + H+  <-->  CO2 + H2O
+RXN-15195	RXN-15195	-2.3470001	octopamine  ->  4-[(Z)-2-aminoethenyl]phenol + H2O + H+
+RXN-15925	RXN-15925	0.23999786	L-galactono-1,5-lactone  ->  L-galactono-1,4-lactone
+GLYCINE-AMIDINOTRANSFERASE-RXN	EC 2.1.4.1	0.8699951	glycine + L-arginine  ->  guanidinoacetate + L-ornithine
+RXN-13134	EC 1.13.11.-	-73.25824	4-amino-3-hydroxybenzoate + oxygen  ->  (2Z,4Z)-2-amino-5-formylhexa-2,4-dienedioate + H+
+URACIL-5-CARBOXYLATE-DECARBOXYLASE-RXN	EC 4.1.1.66	0.5241089	uracil 5-carboxylate + H+  =  CO2 + uracil
+RXN-14904	RXN-14904	-5.0399933	alpha-D-ribofuranose  <-->  beta-D-ribofuranose
+R207-RXN	R207-RXN	1.472992	(2S)-homocitrate  =  cis-homoaconitate + H2O
+RXN-10015	RXN-10015	-3.87	autoinducer 2  ->  (2R,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one
+CYANIDE-HYDRATASE-RXN	EC 4.2.1.66	14.583	hydrogen cyanide + H2O  ->  formamide
+GLUCONOLACT-RXN	EC 3.1.1.17	-7.14711	D-glucono-1,5-lactone + H2O  ->  D-gluconate + H+
+RXN-10857	EC 4.1.2.25	2.56	7,8-dihydromonapterin  ->  glycolaldehyde + 6-(hydroxymethyl)-7,8-dihydropterin
+RXN-14123	EC 1.14.11.39	-107.23004	2-oxoglutarate + L-asparagine + oxygen  ->  (3S)-3-hydroxy-L-asparagine + succinate + CO2
+RXN-17614	RXN-17614	-9.620003	tert-butoxymethanol  =  tert-butyl alcohol + formaldehyde
+PHENYLALANINE-AMMONIA-LYASE-RXN	EC 4.3.1.24/4.3.1.25	-2.3541145	L-phenylalanine  ->  trans-cinnamate + ammonium
+4.1.1.86-RXN	EC 4.1.1.86	-3.714117	L-2,4-diaminobutanoate + H+  ->  propane-1,3-diamine + CO2
+RXN-10759	EC 3.5.1.100	-4.7130127	(R)-piperazine-2-carboxamide + H2O  ->  (R)-piperazine-2-carboxylate + ammonium
+LYSINE--PYRUVATE-6-AMINOTRANSFERASE-RXN	EC 2.6.1.71	-0.91587734	pyruvate + L-lysine  <-->  L-alanine + (S)-2-amino-6-oxohexanoate
+METHYLGALLATE-RXN	EC 1.13.11.-	-124.708244	3-O-methylgallate + oxygen  ->  2-pyrone-4,6-dicarboxylate + methanol + H+
+RXN-12950	RXN-12950	-14.3	2-hydroxy-4(1H)-quinolone  ->  4-hydroxy-2(1H)-quinolone
+4.2.1.103-RXN	EC 4.2.1.103	-22.487	N-cyclohexylformamide  =  cyclohexyl-isocyanide + H2O
+RXN-19275	EC 4.1.1.107	-36.583	L-dopa + oxygen + H2O  ->  3,4-dihydroxyphenylacetaldehyde + CO2 + ammonia + hydrogen peroxide
+RXN-8	EC 2.6.1.113	-0.29175568	putrescine + pyruvate  <-->  4-aminobutanal + L-alanine
+RXN-16224	EC 4.2.1.156	-8.166977	L-talarate  =  5-dehydro-4-deoxy-D-glucarate + H2O
+RXN-9600	EC 1.4.3.22	-23.962997	histamine + H2O + oxygen  ->  imidazole acetaldehyde + ammonium + hydrogen peroxide
+CYTIDEAM2-RXN	EC 3.5.4.5	8.626999	cytidine + H+ + H2O  ->  uridine + ammonium
+RXN-14503	RXN-14503	-0.5200043	aldehydo-D-xylose  <-->  D-xylopyranose
+RXN-668	EC 3.7.1.-	-12.547123	2-hydroxy-7-methyl-6-oxo-2,4-octadienoate + H2O  ->  (2Z)-2-hydroxypenta-2,4-dienoate + isobutanoate + H+
+MIMOSINASE-RXN	EC 3.5.1.61	2.771103	L-mimosine + H+ + H2O  =  L-serine + 3-hydroxy-4h-pyrid-4-one
+RXN-8779	RXN-8779	-2.65	L-sorbosone  ->  L-sorbosone 2,6-lactone
+RXN-14165	RXN-14165	-39.480003	umbelliferone  ->  esculetin
+1.13.11.28-RXN	EC 1.13.11.28	-98.7606	2,3-dihydroxybenzoate + oxygen  ->  2-carboxy-cis,cis-muconate + 2 H+
+RXN-13722	EC 4.2.1.114	1.42	(2R)-homocitrate  =  (1R,2S)-homoisocitrate
+RXN-10814	EC 2.6.1.1	-0.22587585	L-phenylalanine + 2-oxoglutarate  <-->  keto-phenylpyruvate + L-glutamate
+RXN-15455	EC 3.5.2.-	-44.107124	1,3,7-trimethyl-5-hydroxyisourate + H2O  ->  3,6,8-trimethyl-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline + H+
+CARNITINE-DECARBOXYLASE-RXN	EC 4.1.1.42	-4.899994	L-carnitine + H+  =  CO2 + 2-methylcholine
+RXN-8019	<i>N</i>-cyclopropylammeline deaminase	3.7169952	N-cyclopropylammeline + H+ + H2O  ->  N-cyclopropylammelide + ammonium
+RXN-11522	RXN-11522	-40.853004	caffeine + oxygen + H2O  ->  1,3,7-trimethylurate + hydrogen peroxide
+2-OXOPENT-4-ENOATE-HYDRATASE-RXN	EC 4.2.1.80	8.003014	(2Z)-2-hydroxypenta-2,4-dienoate + H2O  ->  (S)-4-hydroxy-2-oxopentanoate
+RXN-2462	EC 3.1.1.57	21.99466	2-pyrone-4,6-dicarboxylate + H2O  ->  (1E)-4-oxobut-1-ene-1,2,4-tricarboxylate + H+
+RXN-10083	EC 3.1.1.24	8.928757	4-methyl-3-oxoadipate-enol-lactone + H2O  ->  4-methyl-3-oxoadipate + H+
+D-ARGINASE-RXN	EC 3.5.3.10	-3.572998	D-arginine + H2O  =  urea + D-ornithine
+RXN-13328	EC 2.6.1.96	-2.3700104	4-aminobutanoate + glyoxylate  <-->  succinate semialdehyde + glycine
+RXN-18144	RXN-18144	0.0	(E)-(4-hydroxyphenyl)acetaldehyde oxime  ->  (Z)-[(4-hydroxyphenyl)acetaldehyde oxime]
+GLUTDECARBOX-RXN	EC 4.1.1.15	-2.465866	L-glutamate + H+  ->  CO2 + 4-aminobutanoate
+RXN-10447	EC 3.7.1.23	-14.357147	3-maleylpyruvate + H2O  ->  maleate + pyruvate + H+
+RXN-15481	RXN-15481	-63.247	gentisyl alcohol + oxygen  ->  phyllostine + H2O
+PYRIDOXAL-OXIDASE-RXN	EC 1.2.3.8	-42.087135	pyridoxal + oxygen + H2O  ->  hydrogen peroxide + 4-pyridoxate + H+
+MANNONDEHYDRAT-RXN	EC 4.2.1.8	-8.166992	D-mannonate  ->  2-dehydro-3-deoxy-D-gluconate + H2O
+RXN-8037	RXN-8037	2.8471215	coumarinate + H+  ->  coumarin + H2O
+RXN-9639	<i>N,N</i>-dihydroxy-L-isoleucine carboxy-lyase	-6.4728775	N,N-dihydroxy-L-isoleucine + H+  ->  (1E,2S)-2-methylbutanal oxime + CO2 + H2O
+RXN-9142	RXN-9142	-18.626999	5-epi-valiolone  ->  valienone + H2O
+GLYCEROL-DEHYDRATASE-RXN	EC 4.2.1.30	-6.4469986	glycerol  ->  3-hydroxypropionaldehyde + H2O
+RXN-15300	EC 1.1.3.46	-29.44999	(S)-4-hydroxymandelate + oxygen  ->  2-(4-hydroxyphenyl)-2-oxoacetate + hydrogen peroxide
+RXN-14202	EC 3.1.1.-	-8.667084	D-glucurono-6,3-lactone + H2O  ->  D-glucopyranuronate + H+
+RXN-12537	EC 1.14.11.-	-104.620026	L-arginine + 2-oxoglutarate + oxygen  ->  Nomega-hydroxy-L-arginine + succinate + CO2
+RXN-16814	RXN-16814	-30.180004	(2E,4Z,6E)-5-formyl-2-hydroxy-8-oxoocta-2,4,6-trienoate  ->  2-hydroxy-3-[(1E)-3-oxoprop-1-en-1-yl]-2H-pyran-6-carboxylate
+RXNQT-4366	EC 3.1.1.1	0.46287537	methylsalicylate + H2O  ->  salicylate + methanol + H+
+RXN-10118	EC 1.13.11.M6	-54.512352	3-fluorocatechol + oxygen  ->  2-fluoromuconate + 2 H+
+RXN-8832	EC 1.13.11.74	-72.63412	2-amino-5-methylphenol + oxygen  ->  (2Z,4E)-2-amino-5-methyl-muconate semialdehyde + H+
+2.6.1.56-RXN	EC 2.6.1.56	-3.2117767	pyruvate + D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol  <-->  L-alanine + D-1-guanidino-1-deoxy-3-dehydro-scyllo-inositol
+N6-METHYL-LYSINE-OXIDASE-RXN	EC 1.5.3.4	-18.983017	N6-methyl-L-lysine + oxygen + H2O  ->  hydrogen peroxide + formaldehyde + L-lysine
+RXN-12861	dehydroascorbate hydrolase	-11.454147	dehydroascorbate (bicyclic form)  ->  2,3-dioxo-L-gulonate + H+
+RXN-11747	EC 2.2.1.8	-0.69000244	fluoroacetaldehyde + L-threonine  ->  acetaldehyde + 4-fluorothreonine
+AMINEPHEN-RXN	EC 1.4.3.21	-23.96299	2-phenylethylamine + oxygen + H2O  ->  phenylacetaldehyde + ammonium + hydrogen peroxide
+HISTTRANSAM-RXN	EC 2.6.1.38	1.3241043	L-histidine + 2-oxoglutarate  <-->  L-glutamate + imidazole-pyruvate
+RXN-7594	RXN-7594	-6.6612244	4-oxoglutaramate + H2O  ->  2-oxoglutarate + ammonium
+FUMARYLACETOACETASE-RXN	EC 3.7.1.2	-17.907135	4-fumaryl-acetoacetate + H2O  ->  fumarate + acetoacetate + H+
+ASPARTATE-RACEMASE-RXN	EC 5.1.1.13	1.3500061	L-aspartate  ->  D-aspartate
+RXN-8088	EC 1.2.3.9	-42.087124	benzaldehyde + oxygen + H2O  ->  benzoate + hydrogen peroxide + H+
+ACETOLACTATE-DECARBOXYLASE-RXN	EC 4.1.1.5	-1.0458908	(S)-2-acetolactate + H+  ->  (R)-acetoin + CO2
+RXN-16300	EC 5.3.3.19	0.0	3-[(2E,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate  ->  3-[(2Z,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate
+DEHYDRO-L-GULONATE-DECARBOXYLASE-RXN	EC 4.1.1.34	-2.4658813	3-keto-L-gulonate + H+  ->  L-xylulose + CO2
+RXN-13074	EC 5.4.99.58	-1.81	L-lysine  ->  (3R)-3-methyl-D-ornithine
+1.1.3.37-RXN	EC 1.1.3.37	-47.149994	D-arabinono-1,4-lactone + oxygen  ->  dehydro-D-arabinono-1,4-lactone + hydrogen peroxide
+RXN-8243	RXN-8243	-91.007	6-amino-2-oxohexanoate + hydrogen peroxide  ->  5-aminopentanoate + CO2 + H2O
+RXN0-361	EC 3.2.2.3	-0.73301697	cytidine + H2O  ->  D-ribofuranose + cytosine
+4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN	EC 4.1.1.44	-9.281769	(2-carboxy-2,5-dihydro-5-oxofuran-2-yl)-acetate + H+  ->  CO2 + (4,5-dihydro-5-oxofuran-2-yl)-acetate
+RXN-12354	EC 5.3.2.M1	-4.95	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate  ->  4-oxalocrotonate
+RXN-5821	EC 1.4.3.4	-23.962994	tyramine + oxygen + H2O  ->  (4-hydroxyphenyl)acetaldehyde + ammonium + hydrogen peroxide
+OXIMINOTRANSFERASE-RXN	EC 2.6.3.1	7.73999	acetone + pyruvic oxime  =  acetone-oxime + pyruvate
+ACETYLORNTRANSAM-RXN	EC 2.6.1.11	0.3241272	N-acetyl-L-ornithine + 2-oxoglutarate  <-->  L-glutamate + N-acetyl-L-glutamate 5-semialdehyde
+R13-RXN	EC 3.5.4.8	-2.4030037	4-aminoimidazole + H2O + H+  ->  ammonium + 3,5-dihydro-4H-imidazol-4-one
+RXN-11141	EC 2.6.1.112	-1.3700104	(S)-ureidoglycine + glyoxylate  <-->  N-carbamoyl-2-oxoglycine + glycine
+SERINE--PYRUVATE-AMINOTRANSFERASE-RXN	EC 2.6.1.51	-2.5899963	pyruvate + L-serine  <-->  L-alanine + hydroxypyruvate
+RXN-15850	RXN-15850	21.807003	iminoarginine + H2O  ->  5-guanidino-2-oxopentanoate + ammonium
+TYROSINE-3-MONOOXYGENASE-RXN	EC 1.14.16.2	-77.481	L-tyrosine + (6R)-L-erythro-5,6,7,8-tetrahydrobiopterin + oxygen  ->  L-dopa + (6R)-4a-hydroxy-tetrahydrobiopterin
+RXN66-569	EC 1.14.16.1	-75.171005	L-phenylalanine + (6R)-L-erythro-5,6,7,8-tetrahydrobiopterin + oxygen  ->  L-tyrosine + (6R)-4a-hydroxy-tetrahydrobiopterin
+TARTRATE-DECARBOXYLASE-RXN	EC 4.1.1.73	0.25823975	L-tartrate + H+  =  D-glycerate + CO2
+RXN66-142	RXN66-142	35.037773	4-hydroxy-4-(3-pyridyl)-butanoate  ->  4-(3-pyridyl)-3-butenoate
+RXN-6161	EC 4.1.1.1	-2.6058807	pyruvate + H+  ->  acetaldehyde + CO2
+RXN-9929	EC 1.3.98.1	-22.48996	(S)-dihydroorotate + fumarate  ->  orotate + succinate
+RXN-15902	EC 5.5.1.27	-15.138214	D-galactaro-1,4-lactone  ->  5-dehydro-4-deoxy-D-glucarate + H+
+RXN-13458	EC 4.2.1.-	-8.003006	(2E)-2-hydroxypenta-2,4-dienoate + H2O  =  (S)-4-hydroxy-2-oxopentanoate
+1.13.11.6-RXN	EC 1.13.11.6	-73.25824	3-hydroxyanthranilate + oxygen  ->  aminocarboxymuconate semialdehyde + H+
+4.1.1.80-RXN	EC 4.1.1.80	-3.46587	4-hydroxyphenylpyruvate + H+  ->  CO2 + (4-hydroxyphenyl)acetaldehyde
+RXN-12096	L-2,4-diketo-3-deoxyrhamnoate hydrolase	-14.077133	2,4-didehydro-3-deoxy-L-rhamnonate + H2O  ->  pyruvate + (S)-lactate + H+
+RXN-14727	EC 3.5.1.4	-6.507126	propionamide + H2O  ->  propanoate + ammonium
+GENTISATE-DECARBOXYLASE-RXN	EC 4.1.1.62	0.5241089	gentisate + H+  =  CO2 + hydroquinone
+N-ACETYLDIAMINOPIMELATE-DEACETYLASE-RXN	EC 3.5.1.47	-1.9829865	N-acetyl-L,L-2,6-diaminopimelate + H2O  ->  L,L-diaminopimelate + acetate
+RXN-9771	RXN-9771	31.257004	2-iminosuccinate + H+ + H2O  =  oxaloacetate + ammonium
+3.5.4.22-RXN	EC 3.5.4.22	23.307	1-pyrroline-4-hydroxy-2-carboxylate + H+ + H2O  ->  ammonium + 2,5-dioxopentanoate
+RXN-10739	EC 1.1.3.-	-27.989998	2,5-bis-hydroxymethylfuran + oxygen  ->  5-hydroxymethylfurfural + hydrogen peroxide
+DIGUANIDINOBUTANASE-RXN	EC 3.5.3.20	-3.5730019	1,4-diguanidinobutane + H2O  =  urea + agmatine
+CYANAMIDE-HYDRATASE-RXN	EC 4.2.1.69	3.3230019	urea  =  cyanamide + H2O
+PYROGALLOL-12-OXYGENASE-RXN	EC 1.13.11.35	-97.512344	pyrogallol + oxygen  ->  (2Z,4E)-2-hydroxyhexa-2,4-dienedioate + 2 H+
+RXN-18432	EC 1.1.99.40	-0.48997498	(R)-2-hydroxyglutarate + pyruvate  <-->  2-oxoglutarate + (R)-lactate
+RXN-16746	EC 1.1.3.48	-26.440002	3-deoxy-alpha-D-manno-2-octulosonate + oxygen  ->  3,8-dideoxy-8-oxo-alpha-D-manno-octulosonate + hydrogen peroxide
+PHENYLALANINE-2-MONOOXYGENASE-RXN	EC 1.13.12.9	-110.80701	L-phenylalanine + oxygen  ->  2-phenylacetamide + CO2 + H2O
+RXN0-5433	EC 4.1.2.53	0.54000854	2-dehydro-3-deoxy-L-rhamnonate  <-->  pyruvate + (S)-lactaldehyde
+RXN-15941	EC 5.1.1.22	0.0	L-proline betaine  <-->  D-proline betaine
+RXN-12854	RXN-12854	-24.60524	2,3-seco-dopa  ->  (4Z)-4-[(2E)-3-carboxylato-3-hydroxyprop-2-en-1-ylidene]-3,4-dihydro-2H-pyrrole-2-carboxylate + H+ + H2O
+RXN-13670	EC 2.6.1.-	0.91587067	isobutanal + L-alanine  <-->  2-methylpropan-1-amine + pyruvate
+RXN-10758	EC 3.5.1.101	-4.7129936	L-proline amide + H2O  =  L-proline + ammonium
+RXN-15245	EC 2.5.1.118	-3.554123	O-acetyl-L-serine + isoxazolin-5-one  =  3-(5-oxoisoxazolin-2-yl)-L-alanine + acetate + H+
+HISTIDINE-AMMONIA-LYASE-RXN	EC 4.3.1.3	-0.80412674	L-histidine  ->  ammonium + urocanate
+LYSDECARBOX-RXN	EC 4.1.1.18	-3.714096	L-lysine + H+  ->  CO2 + cadaverine
+THREONINE-ALDOLASE-RXN	EC 4.1.2.5/4.1.2.48	1.0	L-threonine  ->  acetaldehyde + glycine
+RXN-7586	RXN-7586	-100.07715	2,6-dihydroxynicotinate + oxygen + H2O  ->  maleamate + formate + CO2 + H+
+RXN-10041	EC 3.5.1.97	-1.0871353	HAI-1 + H2O  =  L-homoserine lactone + (R)-3-hydroxybutanoate
+ISOCITRATE-EPIMERASE-RXN	EC 5.1.2.6	0.0	D-threo-isocitrate  =  D-erythro-isocitrate
+RXN-7737	EC 2.6.1.83	-28.36113	L,L-diaminopimelate + 2-oxoglutarate  <-->  (S)-2,3,4,5-tetrahydrodipicolinate + L-glutamate + H2O + H+
+RXN-14146	EC 4.1.2.-	-8.605911	2,4-dihydroxyhept-2-enedioate  =  succinate semialdehyde + pyruvate
+RXN-15125	RXN-15125	-2.916996	L-serine  ->  2-aminoprop-2-enoate + H2O
+R313-RXN	EC 4.2.1.84	-4.9769936	3-cyanopyridine + H2O  ->  nicotinamide
+RXN-12872	RXN-12872	1.8000183	cyclic-2,3-O-oxalyl-L-threonate  ->  cyclic- 3,4-O-oxalyl-L-threonate
+SUCCORNTRANSAM-RXN	EC 2.6.1.81	-0.2999878	N2-succinyl-L-ornithine + 2-oxoglutarate  <-->  L-glutamate + N2-succinyl-L-glutamate 5-semialdehyde
+HOMOSERDEAM-RXN	EC 4.4.1.1	-8.12413	L-homoserine  ->  2-oxobutanoate + ammonium
+RXN-15269	EC 1.17.3.-	-37.65	7,8-dihydropterin + oxygen  ->  2-amino-4-oxopteridine + hydrogen peroxide
+CYTIDEAM-RXN	EC 3.5.4.5	8.626991	2'-deoxycytidine + H+ + H2O  ->  2'-deoxyuridine + ammonium
+RXN-14501	RXN-14501	-2.32	aldehydo-D-mannose  ->  beta-D-mannopyranose
+RXN-15147	RXN-15147	-7.5023346	O-succinyl-L-homoserine  ->  succinate + (2Z)-2-aminobut-2-enoate + 2 H+
+CATECHOL-2-3-DIOXYGENASE-RXN	EC 1.13.11.2	-72.63413	3-methylcatechol + oxygen  ->  (2Z,4E)-2-hydroxy-5-methyl-6-oxohexa-2,4-dienoate + H+
+4-HYDROXYMANDELATE-OXIDASE-RXN	EC 1.1.3.19	-30.455872	(S)-4-hydroxymandelate + oxygen + H+  ->  4-hydroxybenzaldehyde + CO2 + hydrogen peroxide
+DOPACHROME-DELTA-ISOMERASE-RXN	EC 5.3.3.12	-19.029003	L-dopachrome  ->  5,6-dihydroxyindole-2-carboxylate
+RXN66-104	RXN66-104	-40.350006	norcotinine  ->  4-oxo-4-(3-pyridyl)-butanamide
+HYDROXYBUTYRATE-DIMER-HYDROLASE-RXN	EC 3.1.1.22	-2.7671356	(R)-3-((R)-3-hydroxybutanoyloxy)-butanoate + H2O  ->  2 (R)-3-hydroxybutanoate + H+
+25-DIOXOPIPERAZINE-HYDROLASE-RXN	EC 3.5.2.13	2.4369965	2,5-dioxopiperazine + H2O  =  glycyl-glycine
+RXN-19385	EC 3.1.1.M7	-4.2871246	3-methylbutyl acetate + H2O  ->  3-methylbutanol + acetate + H+
+RXN-8018	<i>N</i>-cyclopropylmelamine deaminase	3.7170258	N-cyclopropylmelamine + H+ + H2O  ->  N-cyclopropylammeline + ammonium
+4.3.1.21-RXN	EC 4.3.1.9	-6.3140945	2-amino-2-deoxy-D-gluconate  =  ammonium + 2-dehydro-3-deoxy-D-gluconate
+RXN-14364	EC 5.1.3.31	0.0	keto-D-tagatose  =  keto-D-sorbose
+RXN-10082	EC 5.3.3.4	-8.57	3-methylmuconolactone  ->  4-methyl-3-oxoadipate-enol-lactone
+RXN0-5228	EC 5.1.1.20	0.0	L-alanyl-D-glutamate  <-->  L-alanyl-L-glutamate
+RXN-12017	EC 1.13.11.50	-99.854126	acetylacetone + oxygen  ->  acetate + methylglyoxal + H+
+RXN-16808	RXN-16808	-30.180004	(2E,4Z,5E)-2-hydroxy-7-oxo-(2-oxoethylidene)hepta-2,5-dienoate  ->  2-hydroxy-4-[(1E)-3-oxoprop-1-en-1-yl]-2H-pyran-6-carboxylate
+RXN-15200	EC 2.6.1.57	-0.38000488	keto-phenylpyruvate + L-tyrosine  <-->  L-phenylalanine + 4-hydroxyphenylpyruvate
+RXN-11550	RXN-11550	10.22	1,3,7,9-tetramethylurate  ->  O(2),1,7,9-tetramethylurate
+FORMIMINOGLUTAMATE-DEIMINASE-RXN	EC 3.5.3.13	1.6787415	N-formimino-L-glutamate + H2O  ->  ammonium + N-formyl-L-glutamate
+NONENAL-RXN	NONENAL-RXN	-1.55	(3E)-3-nonenal  =  t-2-nonenal
+ALKYLAMIDASE-RXN	EC 3.5.1.39	17.722885	N-methylhexanamide + H2O  =  methylamine + hexanoate
+RXN-16475	RXN-16475	12.110016	4-deoxy-L-threo-hex-4-enopyranuronate  <-->  5-dehydro-4-deoxy-D-glucuronate
+4.1.1.68-RXN	EC 4.1.1.68	2.7923431	(3E,5R)-5-carboxy-2-oxohept-3-enedioate + H+  ->  (4Z)-2-oxohept-4-enedioate + CO2
+RXN-13741	EC 1.1.3.5	-33.660004	D-mannopyranose + oxygen  ->  D-mannono-1,5-lactone + hydrogen peroxide
+RXN-8827	RXN-8827	-11.037125	2-hydroxy-5-nitro-6-oxohepta-2,4-dienoate + H2O  ->  2-hydroxy-5-nitropenta-2,4-dienoate + acetate + H+
+RXN-17706	RXN-17706	-4.2758737	(2-aminobenzoyl)acetate + H+  ->  2-aminoacetophenone + CO2
+BETA-LYSINE-56-AMINOMUTASE-RXN	EC 5.4.3.3	-1.81	L-beta-lysine  <-->  (3S,5S)-3,5-diaminohexanoate
+L-GLUTAMATE-OXIDASE-RXN	EC 1.4.3.11	-24.91124	L-glutamate + H2O + oxygen  ->  2-oxoglutarate + ammonium + hydrogen peroxide
+RXN0-5306	EC 5.1.3.32	0.0	alpha-L-rhamnopyranose  ->  beta-L-rhamnopyranose
+RXN0-275	EC 3.5.2.-	-4.3471174	phenylhydantoin + H2O  ->  N-carbamoyl-D-phenylglycine + H+
+RXN-15222	RXN-15222	0.5200043	beta-L-colitose  ->  aldehydo-L-colitose
+RXN-8740	EC 1.13.11.66	-73.51412	hydroquinone + oxygen  ->  (2Z,4E)-4-hydroxy-6-oxohexa-2,4-dienoate + H+
+4.1.2.28-RXN	EC 4.1.2.28	0.54000854	2-dehydro-3-deoxy-D-arabinonate  <-->  glycolaldehyde + pyruvate
+ORNITHINE-CYCLODEAMINASE-RXN	EC 4.3.1.12	-2.0199852	L-ornithine  ->  L-proline + ammonium
+RXN-8846	RXN-8846	-6.44	2-hydroxylaminobenzoate  ->  3-hydroxyanthranilate
+5.1.1.18-RXN	EC 5.1.1.18	-2.050003	L-serine  ->  D-serine
+RXN-14408	RXN-14408	-2.319992	aldehydo-D-glucose  ->  D-glucopyranose
+METBALT-RXN	EC 4.3.1.-	-13.555344	O-succinyl-L-homoserine + H2O  ->  2-oxobutanoate + succinate + ammonium + H+
+L-SORBOSE-OXIDASE-RXN	EC 1.1.3.11	-27.899994	keto-L-sorbose + oxygen  ->  5-dehydro-D-fructose + hydrogen peroxide
+DARABISOM-RXN	EC 5.3.1.3	-0.9400101	D-arabinopyranose  <-->  D-ribulose
+CHOLINE-OXIDASE-RXN	choline oxidase	-26.439995	choline + oxygen  ->  betaine aldehyde + hydrogen peroxide
+2.6.1.50-RXN	EC 2.6.1.50	7.8058777	scyllo-inosose + L-glutamine  <-->  1-amino-1-deoxy-scyllo-inositol + 2-oxoglutaramate
+RXN-5721	RXN-5721	-49.517	aminocarboxymuconate semialdehyde  ->  quinolinate + H2O
+RXN-14056	RXN-14056	0.0	(R)-methylmalonate-semialdehyde  <-->  (S)-methylmalonate-semialdehyde
+OXALOACETATE-TAUTOMERASE-RXN	EC 5.3.2.2	7.300003	enol-oxaloacetate  ->  oxaloacetate
+4.2.1.43-RXN	EC 4.2.1.43	-9.166992	2-dehydro-3-deoxy-L-arabinonate  ->  2,5-dioxopentanoate + H2O
+CARBODEHYDRAT-RXN	EC 4.2.1.1	-48.847008	carbonic acid  <-->  CO2 + H2O
+RXN-5066	RXN-5066	0.0	(E)-2-methylpropanal-oxime  ->  (Z)-2-methylpropanal-oxime
+ACONITATEDEHYDR-RXN	ACONITATEDEHYDR-RXN	3.3529968	citrate  <-->  cis-aconitate + H2O
+RXN-8783	EC 3.1.1.17	-6.347122	L-gulono-1,4-lactone + H2O  ->  L-gulonate + H+
+RXN-8892	RXN-8892	-68.71654	clavaminate  ->  clavaldehyde
+RXN-9587	EC 4.2.1.144	-12.581127	5-amino-5-deoxy-3-dehydroshikimate  ->  3-amino-5-hydroxybenzoate + H+ + H2O
+RXN-9067	RXN-9067	12.5642395	2 (S)-lactate + 2 H+  =  L-lactide + 2 H2O
+RXN-7746	RXN-7746	-1.8417664	methyloxaloacetate + H+  ->  2-oxobutanoate + CO2
+SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	EC 2.6.1.45	-3.419983	glyoxylate + L-serine  <-->  hydroxypyruvate + glycine
+RXN-3461	EC 4.2.1.-	22.803003	ammonium + hydroxylamine  =  hydrazine + H2O + H+
+RXN0-6460	peroxyureidoacrylate/ureidoacrylate amidohydrolase	-2.3271103	(Z)-3-ureidoacrylate peracid + H2O  ->  carbamate + (Z)-3-peroxyaminoacrylate + H+
+RXN-18394	EC 1.14.11.55	-111.41999	ectoine + 2-oxoglutarate + oxygen  ->  5-hydroxyectoine + succinate + CO2
+RXN-17966	EC 1.1.3.49	-29.449997	(R)-mandelonitrile + oxygen  ->  benzoyl cyanide + hydrogen peroxide
+RXN-8163	EC 1.4.3.3	-22.962994	D-lysine + H2O + oxygen  ->  6-amino-2-oxohexanoate + ammonium + hydrogen peroxide
+RXN-12109	RXN-12109	4.02	5-dehydro-D-gluconate  ->  L-threo-tetruronate + glycolaldehyde
+CREATININE-DEAMINASE-RXN	EC 3.5.4.21	-6.823	creatinine + H+ + H2O  ->  ammonium + N-methylhydantoin
+FORMAMIDASE-RXN	EC 3.5.1.49	-4.1271286	formamide + H2O  ->  ammonium + formate
+GLUCISOM-RXN	EC 5.3.1.5	0.8600006	D-glucopyranose  <-->  keto-D-fructose
+PUTTRANSAM-RXN	PUTTRANSAM-RXN	1.5723495	putrescine + 2-oxoglutarate  ->  4-aminobutanal + L-glutamate
+ARGINASE-RXN	EC 3.5.3.1	-3.572998	L-arginine + H2O  <-->  urea + L-ornithine
+RXN-8942	RXN-8942	-1.0871506	N-(gamma-L-glutamyl)-L-alaninol + H2O  ->  L-alaninol + L-glutamate
+RXN-14813	RXN-14813	-2.3200073	aldehydo-L-fucose  <-->  L-fucopyranose
+URETHANASE-RXN	EC 3.5.1.75	1.1469955	urethan + H+ + H2O  =  ammonium + CO2 + ethanol
+LTARTDEHYDRA-RXN	EC 4.2.1.32	-7.2470093	L-tartrate  ->  oxaloacetate + H2O
+RXN-16819	EC 4.1.1.101	-4.081772	(S)-malate + H+  ->  (S)-lactate + CO2
+N-ACETYL-BETA-ALANINE-DEACETYLASE-RXN	EC 3.5.1.21	-1.9830017	N-acetyl-beta-alanine + H2O  =  beta-alanine + acetate
+CYCLOHEXYLAMINE-OXIDASE-RXN	EC 1.4.3.12	-26.882988	cyclohexylamine + oxygen + H2O  ->  ammonium + hydrogen peroxide + cyclohexanone
+3.5.3.22-RXN	EC 3.5.3.22	-3.572998	amidinoproclavaminate + H2O  ->  proclavaminate + urea
+RXN-16946	EC 3.7.1.23	-13.64711	(2E)-2-methyl-4,6-dioxohept-2-enedioate + H2O  ->  citraconate + pyruvate + H+
+RXN-7543	EC 2.5.1.53	-3.5541077	O-acetyl-L-serine + uracil  ->  L-isowillardiine + acetate + H+
+RXN-13058	3,6-dihydronicotinate decarboxylase	5.5741267	3,6-dihydronicotinate + 2 H+  ->  1,2-dihydropyrimidine + CO2
+L-LYSINE-LACTAMASE-RXN	EC 3.5.2.11	-0.44301605	(S)-2-aminohexano-6-lactam + H2O  =  L-lysine
+RXN-15423	EC 4.1.1.-	0.26823425	3-carboxy-2-hydroxymuconate semialdehyde + H+  ->  (2Z,4E)-2-hydroxy-6-oxohexa-2,4-dienoate + CO2
+VALINE-DECARBOXYLASE-RXN	EC 4.1.1.14	-3.8600006	L-valine + H+  =  CO2 + 2-methylpropan-1-amine
+GABATRANSAM-RXN	EC 2.6.1.19	0.32409668	4-aminobutanoate + 2-oxoglutarate  <-->  succinate semialdehyde + L-glutamate
+N-CARBAMOYLSARCOSINE-AMIDASE-RXN	EC 3.5.1.59	26.061111	N-carbamoylsarcosine + 2 H+ + H2O  ->  ammonium + CO2 + sarcosine
+ORSELLINATE-DECARBOXYLASE-RXN	EC 4.1.1.58	0.52412796	orsellinate + H+  =  orcinol + CO2
+DIHYDROXYMETVALDEHYDRAT-RXN	EC 4.2.1.9	-6.746994	(R)-2,3-dihydroxy-3-methylpentanoate  ->  (S)-3-methyl-2-oxopentanoate + H2O
+RXN-7585	EC 1.17.3.3	-18.712997	6-hydroxynicotinate + H2O + oxygen  ->  2,6-dihydroxynicotinate + hydrogen peroxide
+5.3.1.17-RXN	EC 5.3.1.17	-1.46	5-dehydro-4-deoxy-D-glucuronate  <-->  3-deoxy-D-glycero-2,5-hexodiulosonate
+ASPARAGHYD-RXN	EC 3.5.1.1/3.5.1.38	-4.297142	L-asparagine + H2O  ->  L-aspartate + ammonium
+RXN-8979	EC 4.2.1.117	0.9129944	(2S,3S)-2-methylcitrate  ->  2-methyl-trans-aconitate + H2O
+RXN-9697	EC 4.3.1.23/4.3.1.25	-2.7341137	L-tyrosine  ->  4-coumarate + ammonium
+RXN-9168	RXN-9168	1.2429962	5-hydroxy-2-oxopentanoate  ->  2-oxopent-4-enoate + H2O
+RXN-13201	RXN-13201	2.4770012	N-(aminomethyl)urea + H2O  ->  N-(hydroxymethyl)urea + ammonium
+RXN-5881	RXN-5881	-4.899994	3-dehydrocarnitine + H+  ->  trimethylaminoacetone + CO2
+RXN-15124	RXN-15124	-28.44	2-aminoprop-2-enoate  ->  2-iminopropanoate
+RXN-12871	RXN-12871	-7.261215	2-carboxy-L-xylonolactone + H2O  ->  2-carboxy-L-threo-pentonate + H+
+34-DIHYDROXYPHTHALATE-DECARBOXYLASE-RXN	EC 4.1.1.69	1.1482391	3,4-dihydroxyphthalate + H+  ->  CO2 + protocatechuate
+RXN-15854	RXN-15854	10.716991	furfural + H2O  ->  2-(dihydroxymethyl)furan
+LEUCINE-23-AMINOMUTASE-RXN	EC 5.4.3.7	-0.6700058	L-leucine  <-->  (3R)-beta-leucine
+RXN-12612	EC 3.5.1.-	0.1228714	formylaminopyrimidine + H2O  ->  aminomethylpyrimidine + formate
+RXN0-5192	EC 5.4.3.-	0.0	L-lysine  <-->  (R)-beta-lysine
+MANDELONITRILE-LYASE-RXN	EC 4.1.2.10	23.58	(R)-mandelonitrile  ->  hydrogen cyanide + benzaldehyde
+NICOTINAMID-RXN	EC 3.5.1.19	-5.337118	nicotinamide + H2O  ->  ammonium + nicotinate
+RXN-803	EC 4.1.1.102	0.2941208	trans-cinnamate + H+  ->  styrene + CO2
+4-HYDROXYGLUTAMATE-AMINOTRANSFERASE-RXN	EC 2.6.1.23	0.6999817	2-oxoglutarate + erythro-4-hydroxy-L-glutamate  <-->  L-glutamate + 4-hydroxy-2-oxoglutarate
+SUPEROX-DISMUT-RXN	EC 1.15.1.1	140.82825	2 superoxide + 2 H+  ->  hydrogen peroxide + oxygen
+RXN-15907	EC 5.5.1.27	-15.138214	D-glucaro-1,4-lactone  ->  5-dehydro-4-deoxy-D-glucarate + H+
+D-LYSINE-56-AMINOMUTASE-RXN	EC 5.4.3.3	-1.81	D-lysine  ->  (2R,5S)-2,5-diaminohexanoate
+HYDROXYBENZOYLFORMATE-DECARBOXYLASE-RXN	EC 4.1.1.7	-1.0058823	2-(4-hydroxyphenyl)-2-oxoacetate + H+  ->  4-hydroxybenzaldehyde + CO2
+25-DIAMINOVALERATE-AMINOTRANSFERASE-RXN	EC 2.6.1.8	1.9482422	2-oxoglutarate + L-ornithine  <-->  L-glutamate + 5-amino-2-oxopentanoate
+RXN-6381	EC 1.4.3.22	-23.338886	propane-1,3-diamine + H2O + oxygen  ->  3-aminopropanal + ammonium + hydrogen peroxide
+RXN-13654	EC 4.3.1.28	-0.45999908	L-lysine  =  L-pipecolate + ammonium
+HYDROXYPRODEHYDROG-RXN	EC 1.5.99.-	-118.70225	2 trans-4-hydroxy-L-proline + oxygen  ->  2 (3R,5S)-3-hydroxy-1-pyrroline-5-carboxylate + 2 H+ + 2 H2O
+2.6.1.40-RXN	EC 2.6.1.40	-1.539978	pyruvate + (R)-3-amino-2-methylpropanoate  <-->  L-alanine + (S)-methylmalonate-semialdehyde
+URATE-OXIDASE-RXN	EC 1.7.3.3	-47.412994	urate + oxygen + H2O  ->  (S)-5-hydroxyisourate + hydrogen peroxide
+R213-RXN	EC 4.2.1.114	-0.053009033	cis-(homo)2aconitate + H2O  ->  (-)threo-iso(homo)2citrate
+RXN0-5305	RXN0-5305	2.08	beta-D-ribofuranose  <-->  aldehydo-D-ribose
+RXN-10018	RXN-10018	10.957001	(2S,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one + H2O  ->  (2S,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran
+RXN-9560	RXN-9560	-5.3670006	norfuraneol + acetaldehyde  ->  (2E)-2-ethylidene-4-hydroxy-5-methyl-3(2H)-furanone + H2O
+RXN-15221	RXN-15221	0.5200043	alpha-L-ascarylopyranose  =  aldehydo-L-ascarylose
+RXN-18721	RXN-18721	-168.65398	2 isoniazid + hydrogen peroxide  ->  2 isonicotinate acyl radical + 2 diazene + 2 H2O
+4.1.2.23-RXN	EC 4.1.2.23	2.6699982	3-deoxy-alpha-D-manno-2-octulosonate  =  D-arabinopyranose + pyruvate
+AGMATIN-RXN	EC 3.5.3.11	-3.5730019	agmatine + H2O  ->  urea + putrescine
+3-ISOPROPYLMALISOM-RXN	3-isopropylmalate dehydratase	-1.4729996	2-isopropylmaleate + H2O  <-->  (2S)-2-isopropylmalate
+RXN-13157	EC 3.7.1.-	-13.317116	2-hydroxy-6-oxo-nona-2,4-dienoate + H2O  ->  butanoate + (2Z)-2-hydroxypenta-2,4-dienoate + H+
+LYSINE-23-AMINOMUTASE-RXN	EC 5.4.3.2	0.0	L-lysine  ->  L-beta-lysine
+PROPIOIN-SYNTHASE-RXN	EC 4.1.2.35	-4.02	2 1-propanal  =  4-hydroxyhexan-3-one
+AMINOLEVULINATE-AMINOTRANSFERASE-RXN	EC 2.6.1.43	0.9200134	pyruvate + 5-aminolevulinate  <-->  L-alanine + 4,5-dioxopentanoate
+RXN-18527	RXN-18527	0.8041153	trans-cinnamate + ammonium  ->  (3R)-beta-phenylalanine
+RXN-10882	EC 1.13.11.-	-73.25825	protocatechuate + oxygen  ->  (2Z,4Z)-2-hydroxy-5-carboxymuconate-6-semialdehyde + H+
+RXN-6562	EC 3.5.1.-	-5.04126	2-oxosuccinamate + H2O  ->  oxaloacetate + ammonium
+4.2.1.41-RXN	EC 4.2.1.41	-11.008774	5-dehydro-4-deoxy-D-glucarate + H+  ->  CO2 + 2,5-dioxopentanoate + H2O
+RXN-14150	EC 5.3.1.30	-1.4600067	5-deoxy-D-glucuronate  <-->  5-dehydro-2-deoxy-D-gluconate
+1.4.3.20-RXN	EC 1.4.3.20	-23.963	L-lysine + oxygen + H2O  ->  (S)-2-amino-6-oxohexanoate + hydrogen peroxide + ammonium
+CARBAMOYL-SERINE-AMMONIA-LYASE-RXN	EC 4.3.1.13	-7.277115	O-carbamoyl-L-serine + H2O + H+  ->  pyruvate + CO2 + 2 ammonium
+RXN-14254	RXN-14254	-20.665909	4-nitro-6-oxohepta-2,4-dienedioate  ->  2-oxo-3-(5-oxofuran-2-ylidene)propanoate + nitrite
+ETHANOLAMINE-OXIDASE-RXN	EC 1.4.3.8	-23.963009	ethanolamine + oxygen + H2O  ->  ammonium + hydrogen peroxide + glycolaldehyde
+PROTOCATECHUATE-DECARBOXYLASE-RXN	EC 4.1.1.63	0.5241089	protocatechuate + H+  ->  CO2 + catechol
+RXN-5065	<i>N,N</i>-dihydroxy-L-valine carboxy-lyase	-6.4728584	N,N-dihydroxy-L-valine + H+  ->  (E)-2-methylpropanal-oxime + CO2 + H2O
+2-METHYLCITRATE-DEHYDRATASE-RXN	EC 4.2.1.79	0.9129944	(2S,3S)-2-methylcitrate  <-->  cis-2-methylaconitate + H2O
+RXN-10065	RXN-10065	-9.935875	pyruvate + formaldehyde + H+  =  acetol + CO2
+RXN0-2022	RXN0-2022	-7.925873	pyruvate + acetaldehyde + H+  ->  acetoin + CO2
+RXN-14168	RXN-14168	39.420944	(Z)-2,4-dihydroxycinnamate  ->  umbelliferone
+THYMINE-DIOXYGENASE-RXN	EC 1.14.11.6	-107.81003	thymine + 2-oxoglutarate + oxygen  ->  5-hydroxymethyluracil + succinate + CO2
+GUANIDINOBUTANAMIDE-NH3-RXN	EC 3.5.1.4	-4.713005	4-guanidinobutyramide + H2O  ->  ammonium + 4-guanidinobutanoate
+RXN-10817	EC 1.4.3.4	-23.96299	2-phenylethylamine + oxygen + H2O  ->  phenylacetaldehyde + ammonium + hydrogen peroxide
+RXN0-6452	RXN0-6452	-7.6130066	aminoacrylate + H+ + H2O  ->  3-oxopropanoate + ammonium
+D-GLUTAMATE-CYCLASE-RXN	EC 4.2.1.48	-0.10700226	D-glutamate  =  5-oxo-D-proline + H2O
+RXN-15580	RXN-15580	0.19000244	O-carbamoyl-L-serine + H+  ->  2-aminoprop-2-enoate + CO2 + ammonium
+GLUTRACE-RXN	EC 5.1.1.3	-2.569992	L-glutamate  <-->  D-glutamate
+2.5.1.44-RXN	EC 2.5.1.44	-1.1340942	2 putrescine  =  ammonium + sym-homospermidine
+RXN-4822	RXN-4822	-0.7000122	L-2-acetamido-6-oxoheptanedioate + L-glutamate  ->  N-acetyl-L,L-2,6-diaminopimelate + 2-oxoglutarate
+TRANS-L-3-HYDROXYPROLINE-DEHYDRATASE-RXN	EC 4.2.1.77	-30.691132	trans-3-hydroxy-L-proline  ->  1-pyrroline-2-carboxylate + H2O + H+
+R464-RXN	R464-RXN	3.7169914	N-ethylammeline + H+ + H2O  ->  N-ethylammelide + ammonium
+RXN-11811	RXN-11811	9.530003	ammonia + H+  <-->  ammonium
+MANNOSE-ISOMERASE-RXN	EC 5.3.1.7	-1.46	aldehydo-D-mannose  <-->  keto-D-fructose
+RXN-16264	EC 5.3.3.19	12.779996	3-[(4R)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate  ->  3-[(1E,4R)-4-hydroxycyclohex-2-en-1-ylidene]-2-oxopropanoate
+2.6.1.22-RXN	EC 2.6.1.22	0.32411194	2-oxoglutarate + (S)-3-amino-2-methylpropanoate  <-->  L-glutamate + (S)-methylmalonate-semialdehyde
+DIHYDROPYRIMIDINASE-RXN	EC 3.5.2.2	-7.7071304	5,6-dihydrouracil + H2O  <-->  3-ureidopropanoate + H+
+RXN-17130	EC 1.4.3.2	-34.667114	L-phenylalanine + oxygen + H2O  ->  keto-phenylpyruvate + ammonia + hydrogen peroxide + H+
+RXN-9509	EC 3.5.1.126	-3.321228	oxamate + H2O  =  oxalate + ammonium
+HIPPURATE-HYDROLASE-RXN	EC 3.5.1.32	-1.3329926	hippurate + H2O  ->  glycine + benzoate
+RXN-15016	EC 3.5.1.-	-6.492996	(Z)-N,N'-(but-2-ene-2,3-diyl)diacetamide + H2O  ->  N-(3-oxobutan-2-yl)acetamide + acetamide
+METHANOL-OXIDASE-RXN	EC 1.1.3.13	-25.2	methanol + oxygen  ->  hydrogen peroxide + formaldehyde
+RXN-16610	EC 4.2.1.110	-5.366989	2-dehydro-D-glucopyranose  =  cortalcerone + H2O
+RXN-13555	EC 1.14.16.7	-77.10101	L-phenylalanine + (6R)-L-erythro-5,6,7,8-tetrahydrobiopterin + oxygen  ->  3-hydroxy-L-phenylalanine + (6R)-4a-hydroxy-tetrahydrobiopterin
+RXN-17561	EC 3.7.1.M3	-12.227127	2,4,6-trioxohexanoate + H2O  ->  acetylpyruvate + formate + H+
+3.7.1.9-RXN	EC 3.7.1.9	-11.337128	(2Z,4E)-2-hydroxy-6-oxohexa-2,4-dienoate + H2O  ->  (2Z)-2-hydroxypenta-2,4-dienoate + formate + H+
+L-LYSINE-AMINOTRANSFERASE-RXN	EC 2.6.1.36	0.9482269	2-oxoglutarate + L-lysine  <-->  L-glutamate + (S)-2-amino-6-oxohexanoate
+DIMETHYLMALEATE-HYDRATASE-RXN	EC 4.2.1.85	0.91300964	(2R,3S)-2,3-dimethylmalate  <-->  dimethylmaleate + H2O
+R63-RXN	EC 3.5.2.-	-1.7830029	3,5-dihydro-4H-imidazol-4-one + H2O  ->  N-formimino-glycine
+R101-RXN	EC 2.6.1.76	0.9482193	L-2,4-diaminobutanoate + 2-oxoglutarate  <-->  L-aspartate-semialdehyde + L-glutamate
+SARCOX-RXN	EC 1.5.3.1	-19.853012	sarcosine + oxygen + H2O  ->  glycine + formaldehyde + hydrogen peroxide
+METHYLASPARTATE-AMMONIA-LYASE-RXN	EC 4.3.1.2	1.2817688	(2S, 3S)-3-methylaspartate  <-->  ammonium + mesaconate
+RXN-14047	EC 4.2.1.3	0.22000122	citrate  <-->  D-threo-isocitrate
+RXN-8091	EC 1.2.3.9	-42.087112	3,4-dihydroxybenzaldehyde + oxygen + H2O  ->  protocatechuate + hydrogen peroxide + H+
+ACETONE-CYANHYDRIN-LYASE-RXN	EC 4.1.2.46	22.620003	2-hydroxy-2-methylpropanenitrile  ->  acetone + hydrogen cyanide
+1.1.3.41-RXN	EC 1.1.3.41	-26.959991	xylitol + oxygen  ->  alpha-D-xylopyranose + hydrogen peroxide
+RXN-14849	RXN-14849	2.319992	D-talopyranose  <-->  aldehydo-D-talose
+4-HYDROXY-2-KETOPIMELATE-LYSIS-RXN	EC 4.1.2.52	1.164093	(4S)-4-hydroxy-2-oxoheptanedioate  ->  succinate semialdehyde + pyruvate
+RXN-11769	EC 4.1.3.14	3.1899872	glycine + glyoxylate  ->  (3R)-3-hydroxy-L-aspartate
+RXN-5861	RXN-5861	-86.73999	2 L-tyrosine + oxygen  ->  2 L-dopa
+ACETYLSALICYLATE-DEACETYLASE-RXN	EC 3.1.1.55	-4.2871246	aspirin + H2O  ->  acetate + salicylate + H+
+RXN0-5222	cyanase	3.824112	carbamate + 2 H+  ->  ammonium + CO2
+RXN-15853	RXN-15853	10.717003	5-formylfuran-2-carboxylate + H2O  ->  5-(dihydroxymethyl)furan-2-carboxylate
+RXN-3483	RXN-3483	-77.00413	pyruvic oxime + oxygen  ->  pyruvate + nitrite + H+
+RXN-12261	RXN-12261	-39.48	benzaldehyde  ->  salicylaldehyde
+1.13.11.14-RXN	EC 1.13.11.14	-73.25825	2,3-dihydroxybenzoate + oxygen  ->  3-carboxy-2-hydroxymuconate semialdehyde + H+
+RXN-15193	RXN-15193	-1.8099995	4-[(E)-2-(methylamino)ethenyl]phenol  ->  4-[(2Z)-2-(methylimino)ethyl]phenol
+RXN-7282	EC 5.3.2.M1	4.949997	2-oxopent-4-enoate  <-->  (2Z)-2-hydroxypenta-2,4-dienoate
+4-PYRIDOXOLACTONASE-RXN	EC 3.1.1.27	-8.267117	4-pyridoxolactone + H2O  ->  4-pyridoxate + H+
+CITRULLINASE-RXN	EC 3.5.1.20	2.7369976	L-citrulline + 2 H+ + H2O  ->  L-ornithine + CO2 + ammonium
+2-OH-6-OXOHEPTA-2-4-DIENOATE-HYDR-RXN	EC 3.7.1.-	-14.967117	(2Z,4E)-2-hydroxy-5-methyl-6-oxohexa-2,4-dienoate + H2O  ->  (2Z)-2-hydroxypenta-2,4-dienoate + acetate + H+
+RXN-10907	EC 1.4.3.4	-23.962988	(R)-noradrenaline + H2O + oxygen  ->  3,4-dihydroxyphenylglycolaldehyde + ammonium + hydrogen peroxide
+PENTANAMIDASE-RXN	EC 3.5.1.50	-5.7471046	pentanamide + H2O  =  ammonium + pentanoate
+RXN-15573	RXN-15573	30.337006	(4S,5R)-4,5,6-trihydroxy-2-iminohexanoate + H2O + H+  ->  2-dehydro-3-deoxy-D-gluconate + ammonium
+MUCONATE-CYCLOISOMERASE-RXN	EC 5.5.1.1	-1.4282227	cis,cis-muconate + H+  ->  (+)-muconolactone
+RXN-15906	RXN-15906	-6.971237	D-glucaro-1,4-lactone + H2O  =  D-glucarate + H+
+RXN-18229	EC 3.5.5.1	1.1898804	3-phenylpropionitrile + 2 H2O  ->  3-phenylpropanoate + ammonium
+RXN-18503	EC 4.2.1.171	-30.691132	cis-3-hydroxy-L-proline  ->  1-pyrroline-2-carboxylate + H2O + H+
+RXN-13115	1-methylurate synthase	-61.62	1-methylxanthine  ->  1-methylurate
+RXN-13460	RXN-13460	9.77	(S)-4-hydroxy-2-oxopentanoate  ->  (2Z)-2,4-dihydroxypent-2-enoate
+RXN-14883	RXN-14883	-0.5200043	aldehydo-D-ribose  <-->  D-ribopyranose
+4.1.1.83-RXN	EC 4.1.1.83	-4.275877	(4-hydroxyphenyl)acetate + H+  ->  4-methylphenol + CO2
+RXN-1	EC 1.4.3.4	-23.963001	N-acetylputrescine + H2O + oxygen  ->  4-acetamidobutanal + ammonium + hydrogen peroxide
+PYRAZOLYLALANINE-SYNTHASE-RXN	EC 4.2.1.50	-1.317009	pyrazole + L-serine  =  3-(pyrazol-1-yl)-L-alanine + H2O
+RXN-9774	EC 4.1.1.89/4.1.1.88	-5.171753	malonate + H+  =  acetate + CO2
+RXN-13649	EC 5.4.3.11	-1.5499992	L-phenylalanine  =  (3S)-beta-phenylalanine
+DIHYDROCOUMARIN-LIPASE-RXN	EC 3.1.1.35	-9.827117	dihydrocoumarin + H2O  ->  melilotate + H+
+RXN3O-1983	RXN3O-1983	1.472992	(2R)-homocitrate  ->  cis-homoaconitate + H2O
+RXN-12948	RXN-12948	-9.389996	quinolin-2-ol  ->  quinolin-2(1H)-one
+RXN-7565	RXN-7565	-3.572998	5-guanidino-2-oxopentanoate + H2O  ->  5-amino-2-oxopentanoate + urea
+RXN-14753	RXN-14753	2.3200073	D-galactopyranuronate  <-->  aldehydo-D-galacturonate
+RXN-10017	RXN-10017	10.957001	(2R,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one + H2O  ->  (2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran
+RXN-7692	EC 4.1.1.1	-3.465889	4-methyl-2-oxopentanoate + H+  ->  3-methylbutanal + CO2
+CAFFEATE-34-DIOXYGENASE-RXN	EC 1.13.11.22	-98.76058	trans-caffeate + oxygen  ->  3-(2-carboxyethenyl)-cis,cis-muconate + 2 H+
+RXN-8672	EC 1.4.3.19	-23.79712	D-alanine + H2O + oxygen  ->  pyruvate + ammonium + hydrogen peroxide
+RXN-8950	RXN-8950	0.0	(3S,5S)-carbapenam-3-carboxylate  ->  (3S,5R)-carbapenam
+RXN-13155	EC 1.13.11.M5	-73.53412	3-isopropylcatechol + oxygen  ->  2-hydroxy-7-methyl-6-oxo-2,4-octadienoate + H+
+URONOLACTONASE-RXN	EC 3.1.1.19	-8.427124	D-Glucurono-6,2-lactone + H2O  ->  D-glucopyranuronate + H+
+LYSINE-2-MONOOXYGENASE-RXN	EC 1.13.12.2	-109.256996	L-lysine + oxygen  ->  5-aminopentanamide + CO2 + H2O
+ASPARTASE-RXN	EC 4.3.1.1	3.1917648	L-aspartate  <-->  ammonium + fumarate
+RXN-9172	EC 5.-.-.-	1.42	3-hydroxy-3-carboxy-4,5-cyclopropylhex-5-enoate  ->  2-hydroxy-3-carboxy-4,5-cyclopropylhex-5-enoate
+RXN-14149	EC 3.7.1.22	-10.067123	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione + H2O  ->  5-deoxy-D-glucuronate + H+
+CARNITINAMIDASE-RXN	EC 3.5.1.73	-4.7130165	L-carnitinamide + H2O  ->  L-carnitine + ammonium
+RXN-11520	RXN-11520	-40.852997	paraxanthine + oxygen + H2O  ->  1,7-dimethylurate + hydrogen peroxide
+RXN-12875	RXN-12875	-74.96951	L-threonate  ->  L-tartrate
+GLUTAMINE--PYRUVATE-AMINOTRANSFERASE-RXN	EC 2.6.1.15	3.9700012	L-glutamine + pyruvate  <-->  2-oxoglutaramate + L-alanine
+RXN-14167	EC 1.-.-.-	-39.48	4-coumarate  ->  (E)-2,4-dihydroxycinnamate
+RXN-12896	peroxyureidoacrylate/ureidoacrylate amidohydrolase	-2.3271103	(Z)-2-methylureidoacrylate peracid + H2O  ->  (Z)-2-methyl-peroxyaminoacrylate + carbamate + H+
+4-HYDROXYPROLINE-EPIMERASE-RXN	EC 5.1.1.8	0.0	trans-4-hydroxy-L-proline  <-->  cis-4-hydroxy-D-proline
+RXN-8991	3-isopropylmalate dehydratase	0.052993774	(2R,3S)-3-isopropylmalate  <-->  2-isopropylmaleate + H2O
+RXN-15457	EC 4.1.1.-	12.074127	3,6,8-trimethyl-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline + H+  ->  3,6,8-trimethylallantoin + CO2
+HYDROXYHEPTA-DIENEDIOATE-HYDROXY-RXN	EC 4.2.1.163	-3.7129974	(4Z)-2-oxohept-4-enedioate + H2O  ->  (4S)-4-hydroxy-2-oxoheptanedioate
+RXN-8020	<i>N</i>-cyclopropylammelide alkylamino hydrolase	7.9669914	N-cyclopropylammelide + H+ + H2O  ->  cyanurate + cyclopropylamine
+RXN-12492	RXN-12492	-5.3371277	2-phenylacetamide + H2O  =  phenylacetate + ammonium
+RXN-2464	EC 4.1.3.17	5.128235	2-hydroxy-4-oxobutane-1,2,4-tricarboxylate  <-->  pyruvate + oxaloacetate
+D-FUCONATE-HYDRATASE-RXN	EC 4.2.1.67	1.6029968	D-fuconate  =  2-dehydro-3-deoxy-D-fuconate + H2O
+RXN-12535	EC 1.14.11.-	-341.45038	3 2-oxoglutarate + L-arginine + 3 oxygen + 3 H+  ->  2 ethene + 7 CO2 + succinate + guanidinium + (S)-1-pyrroline-5-carboxylate + 3 H2O
+RXN-9868	EC 3.1.1.45	16.73877	trans-dienelactone + H2O  ->  2-maleylacetate + H+
+RXN-13747	RXN-13747	0.0	(1Z,3Z)-4-hydroxybuta-1,3-diene-1,2,4-tricarboxylate  ->  (1E,3E)-4-hydroxybuta-1,3-diene-1,2,4-tricarboxylate
+RXN-8830	RXN-8830	-49.517	(2Z,4E)-2-amino-5-methyl-muconate semialdehyde  =  5-methyl-picolinate + H2O
+RXN-15483	RXN-15483	-27.770006	phyllostine  ->  neopatulin
+5-AMINOPENTANAMIDASE-RXN	EC 3.5.1.30	-4.713009	5-aminopentanamide + H2O  ->  5-aminopentanoate + ammonium
+TRIMETHYLAMINE-OXIDE-ALDOLASE-RXN	EC 4.1.2.32	21.279999	trimethylamine N-oxide + H+  ->  dimethylamine + formaldehyde
+L-GULONOLACTONE-OXIDASE-RXN	<small>L</small>-gulonolactone oxidase	-29.36	L-gulono-1,4-lactone + oxygen  ->  L-xylo-hex-3-ulono-1,4-lactone + hydrogen peroxide
+2.6.1.18-RXN	EC 2.6.1.18	1.539978	3-oxopropanoate + L-alanine  <-->  beta-alanine + pyruvate
+ORNITHINE-RACEMASE-RXN	EC 5.1.1.12	0.0	L-ornithine  <-->  D-ornithine
+RXN-16297	EC 2.6.1.-	-1.5499916	3-[(2S,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-yl]-2-oxopropanoate + L-phenylalanine  <-->  L-dihydroanticapsin + keto-phenylpyruvate
+RXN-9031	EC 5.3.3.17	7.67	(5S,6S)-6-amino-5-hydroxycyclohexa-1,3-diene-1-carboxylate  ->  (1R,6S)-6-amino-5-oxocyclohex-2-ene-1-carboxylate
+RXN-13772	L-gluconolactonase	-6.1071167	L-glucono-1,5-lactone + H2O  ->  L-gluconate + H+
+RXN-13072	EC 3.5.1.111	-6.6612244	2-oxoglutaramate + H2O  ->  2-oxoglutarate + ammonium
+2.6.1.58-RXN	EC 2.6.1.58	-2.0899963	L-phenylalanine + pyruvate  <-->  keto-phenylpyruvate + L-alanine
+RXN-16320	RXN-16320	-12.586998	2 nitroxyl  ->  nitrous oxide + H2O
+RXN-18819	RXN-18819	-44.054	D-ribose + glycine  ->  norfuraneol + glycine + 2 H2O
+AMINO-CARBOXYMUCONATE-SEMIALDEHYDE-RXN	EC 4.1.1.45	0.26823425	aminocarboxymuconate semialdehyde + H+  ->  (2Z,4E)-2-amino-6-oxohexa-2,4-dienoate + CO2
+RXN-13092	RXN-13092	-53.428246	5-(dihydroxymethyl)furan-2-carboxylate + oxygen  ->  furan-2,5-dicarboxylate + hydrogen peroxide + H+
+RXN-9571	RXN-9571	11.159996	furaneol  <-->  furaneol (enol form)
+5.4.4.3-RXN	EC 5.4.4.3	-6.44	3-hydroxyaminophenol  =  aminohydroquinone
+RXN66-565	EC 2.6.1.-	1.9482346	L-lysine + 2-oxoglutarate  <-->  6-amino-2-oxohexanoate + L-glutamate
+RXN-12070	EC 3.7.1.14	-14.097153	(2Z,4E,7E)-2-hydroxy-6-oxonona-2,4,7-triene-1,9-dioate + H2O  ->  (2Z)-2-hydroxypenta-2,4-dienoate + fumarate + H+
+RXN-10137	EC 1.13.11.37	-106.47235	hydroxyquinol + oxygen  ->  2-maleylacetate + 2 H+
+RXN-9922	RXN-9922	-8.96	3-hydroxy-cis,cis-muconate  <-->  2-maleylacetate
+1.1.3.40-RXN	EC 1.1.3.40	-26.440002	D-mannitol + oxygen  ->  aldehydo-D-mannose + hydrogen peroxide
+GLYOXIII-RXN	EC 4.2.1.130	16.64711	methylglyoxal + H2O  ->  (R)-lactate + H+
+RXN-15893	EC 5.5.1.25	1.2799988	3,6-anhydro-L-galactonate  ->  2-dehydro-3-deoxy-L-galactonate
+RXN-11768	EC 4.1.3.41	3.1899872	(3R)-3-hydroxy-D-aspartate  =  glycine + glyoxylate
+RXN-8899	RXN-8899	-7.467125	2-aminoprop-2-enoate + H2O  ->  pyruvate + ammonium
+2-HYDROXY-3-OXOADIPATE-SYNTHASE-RXN	EC 2.2.1.5	-8.285858	2-oxoglutarate + glyoxylate + H+  =  2-hydroxy-3-oxoadipate + CO2
+RXN-3482	RXN-3482	-19.897003	pyruvate + hydroxylamine  ->  pyruvic oxime + H2O
+RXN-6268	RXN-6268	-9.167	betaine aldehyde hydrate  <-->  betaine aldehyde + H2O
+RXN-15921	RXN-15921	-6.7312317	D-glucaro-1,5-lactone + H2O  ->  D-glucarate + H+
+RXN-14901	EC 3.2.1.au	-1.0130005	2-O-(alpha-D-glucopyranosyl)-D-glycerate + H2O  ->  D-glycerate + D-glucopyranose
+RXN-18397	EC 3.5.4.44	2.9970021	ectoine + H2O  ->  (2S)-2-acetamido-4-aminobutanoate
+RXN-15572	RXN-15572	-36.38999	(2Z,4S,5R)-2-amino-4,5,6-trihydroxyhex-2-enoate  ->  (4S,5R)-4,5,6-trihydroxy-2-iminohexanoate
+RXN-14458	EC 2.6.99.3	-1.1741104	O-acetyl-L-serine + hydroxyurea  ->  O-ureido-L-serine + acetate + H+
+3.5.1.86-RXN	EC 3.5.1.86	-5.337126	(R)-mandelamide + H2O  =  ammonium + (R)-mandelate
+RXN-6425	RXN-6425	-13.535919	1-(3-aminopropyl)-pyrrolinium  ->  1,5-diazabicyclononane + H+
+DIAMINOPIMDECARB-RXN	EC 4.1.1.20	-3.0900116	meso-diaminopimelate + H+  ->  L-lysine + CO2
+RXN-15939	EC 5.4.3.-	0.0	L-arginine  ->  (3S)-beta-arginine
+PYRAZIN-RXN	EC 3.5.1.4	-5.33712	pyrazinamide + H2O  ->  ammonium + pyrazine-2-carboxylate
+ARGININE-DEIMINASE-RXN	EC 3.5.3.6	-12.273001	L-arginine + H2O  <-->  ammonium + L-citrulline
+RXN-8642	triphosphopyridine nucleotide-linked isocitrate dehydrogenase-oxalosuccinate carboxylase	1.7423706	oxalosuccinate + H+  <-->  2-oxoglutarate + CO2
+GLUCOSE-OXIDASE-RXN	EC 1.1.3.4	-33.660004	beta-D-glucopyranose + oxygen  ->  D-glucono-1,5-lactone + hydrogen peroxide
+RXN-7564	EC 2.6.1.-	1.9482346	L-arginine + 2-oxoglutarate  <-->  L-glutamate + 5-guanidino-2-oxopentanoate
+RXN-22	EC 4.3.2.1	6.0917664	canavaninosuccinate  ->  L-canavanine + fumarate
+N-METHYL-2-OXOGLUTARAMATE-HYDROLASE-RXN	EC 3.5.1.36	16.42875	N-methyl-2-oxoglutaramate + H2O  =  methylamine + 2-oxoglutarate
+RXN-12856	RXN-12856	-47.475235	2,3-seco-dopa  ->  muscaflavin + H+ + H2O
+RXN0-7285	EC 5.1.1.-	0.0	L-homoserine  <-->  D-homoserine
+ASPAROXO-RXN	EC 2.6.1.-	1.0200043	L-asparagine + glyoxylate  <-->  2-oxosuccinamate + glycine
+RXN-9702	EC 4.1.2.42	2.3399963	D-allothreonine  =  glycine + acetaldehyde
+XYLONATE-DEHYDRATASE-RXN	EC 4.2.1.82	-8.166992	D-xylonate  ->  2-dehydro-3-deoxy-D-arabinonate + H2O
+RXN-14968	RXN-14968	0.5200043	L-lyxopyranose  ->  aldehydo-L-lyxose
+RXN-8016	EC 3.5.4.45	2.2628803	ammeline + H2O  ->  ammelide + ammonium
+RXN-10080	RXN-10080	-97.51237	4-methylcatechol + oxygen  ->  3-methyl-cis,cis-muconate + 2 H+
+RXN-12874	RXN-12874	-0.12710571	4-O-oxalyl-L-threonate + H2O  ->  L-threonate + oxalate + H+
+RXN-18934	EC 3.3.2.9	-5.4330177	styrene oxide + H2O  ->  (1S)-1-phenylethane-1,2-diol
+R123-RXN	EC 3.5.4.42	7.9669952	N-isopropylammelide + H+ + H2O  ->  cyanurate + isopropylamine
+RXN-16006	EC 5.1.3.8	0.0	N-acetyl-D-mannosamine  <-->  N-acetyl-D-glucosamine
+RXN-15149	RXN-15149	-6.4941187	1-aminocyclopropane-1-carboxylate  ->  (2Z)-2-aminobut-2-enoate + H+
+RXN-12734	EC 4.2.1.132	-8.662994	(2Z,4Z)-2-hydroxyhexa-2,4-dienoate + H2O  ->  (S)-4-hydroxy-2-oxohexanoate
+RXN-12895	EC 3.5.1.110	1.4970016	(Z)-2-methylureidoacrylate peracid + H+ + H2O  ->  (Z)-2-methyl-peroxyaminoacrylate + ammonium + CO2
+4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN	EC 1.13.11.27	-109.72	4-hydroxyphenylpyruvate + oxygen  ->  CO2 + homogentisate
+SYNEPHRINE-DEHYDRATASE-RXN	EC 4.2.1.88	12.660011	(R)-synephrine  ->  (4-hydroxyphenyl)acetaldehyde + methylamine
+DSERDEAM-RXN	EC 4.3.1.18	-8.334122	D-serine  ->  pyruvate + ammonium
+HYDROXYGLUTAMATE-DECARBOXYLASE-RXN	EC 4.1.1.16	-2.465889	3-hydroxy-L-glutamate + H+  =  4-amino-3-hydroxybutanoate + CO2
+RXN-18951	EC 1.4.3.13	-25.513	benzylamine + H2O + oxygen  ->  benzaldehyde + ammonium + hydrogen peroxide
+RXN-16489	EC 1.14.11.-	-109.61998	5-hydroxy-leucine + 2-oxoglutarate + oxygen  ->  5,5-dihydroxy-leucine + succinate + CO2
+RXN0-5234	EC 4.1.2.-	2.339983	DL-allothreonine  ->  acetaldehyde + glycine
+2.6.1.47-RXN	EC 2.6.1.47	1.1641083	oxomalonate + L-alanine  <-->  aminomalonate + pyruvate
+R216-RXN	EC 4.2.1.114	1.472992	trihomocitrate  ->  cis-(homo)3aconitate + H2O
+RXN-17622	EC 3.3.2.10	-5.433001	1,2-epoxypropane + H2O  =  propane-1,2-diol
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN	EC 2.6.1.6/2.6.1.42	0.65411377	L-leucine + 2-oxoglutarate  <-->  L-glutamate + 4-methyl-2-oxopentanoate
+RXN-18110	EC 1.13.11.M5	-73.27824	2,3-dihydroxy-4-toluate + oxygen  ->  2-hydroxy-3-carboxy-6-oxo-hepta-2,4-dienoate + H+
+RXN-12256	RXN-12256	-41.16	benzyl alcohol  ->  salicyl alcohol
+GSAAMINOTRANS-RXN	EC 5.4.3.8	-1.46	(S)-4-amino-5-oxopentanoate  ->  5-aminolevulinate
+CARBOXY-CISCIS-MUCONATE-CYCLASE-RXN	EC 5.5.1.5	9.307648	3-carboxy-2,5-dihydro-5-oxofuran-2-acetate  <-->  3-carboxy-cis,cis-muconate + H+
+ETHYL-RXN	EC 1.14.17.4	-69.29988	L-ascorbate + 1-aminocyclopropane-1-carboxylate + H+ + oxygen  ->  ethene + L-dehydro-ascorbate + hydrogen cyanide + CO2 + 2 H2O
+RXN-18392	RXN-18392	-2.649994	2-dehydro-3-deoxy-D-octonate  <-->  3-deoxy-alpha-D-manno-2-octulosonate
+RXN-17510	EC 1.2.3.15	-42.297123	methylglyoxal + oxygen + H2O  ->  pyruvate + hydrogen peroxide + H+
+RXN-15261	EC 3.5.4.3	-4.123005	7,8-dihydropterin + H2O + H+  ->  7,8-dihydrolumazine + ammonium
+RXN1K-87	EC 5.3.2.M1	-4.9499893	(2Z,4Z)-2-hydroxyhepta-2,4-dienedioate  ->  (4Z)-2-oxohept-4-enedioate
+RXN-7749	<i>N</i>,<i>N</i>-dihydroxy-L-tyrosine carboxy-lyase	-6.47287	N,N-dihydroxy-L-tyrosine + H+  ->  (E)-(4-hydroxyphenyl)acetaldehyde oxime + CO2 + H2O
+ARG-OXIDATION-RXN	EC 1.4.3.25	-22.962997	L-arginine + H2O + oxygen  ->  5-guanidino-2-oxopentanoate + ammonium + hydrogen peroxide
+CARNRACE-RXN	EC 5.1.2.M1	0.0	D-carnitine  <-->  L-carnitine
+MYO-INOSOSE-2-DEHYDRATASE-RXN	EC 4.2.1.44	-7.826996	scyllo-inosose  ->  3D-(3,5/4)-trihydroxycyclohexane-1,2-dione + H2O
+3.5.2.17-RXN	EC 3.5.2.17	-10.227142	(S)-5-hydroxyisourate[periplasm] + H2O[periplasm]  ->  (S)-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline[periplasm] + H+[periplasm]
+1.14.11.3-RXN	EC 1.14.11.3	-111.42001	2'-deoxyuridine + 2-oxoglutarate + oxygen  ->  uridine + succinate + CO2
+RXN-7774	EC 4.1.1.71	-2.1417694	2-oxoglutarate + H+  ->  succinate semialdehyde + CO2
+R468-RXN	EC 3.5.2.15	-27.603004	cyanurate + H2O  ->  biuret + CO2
+RXN-13371	EC 3.1.1.91	15.188782	2-oxo-3-(5-oxofuran-2-ylidene)propanoate + H2O  ->  3-maleylpyruvate + H+
+STIPITATONATE-DECARBOXYLASE-RXN	EC 4.1.1.60	-29.93126	stipitatonate + H2O  ->  stipitatate + CO2 + H+
+DIHYDROXYFUMARATE-DECARBOXYLASE-RXN	EC 4.1.1.54	-10.501755	dihydroxyfumarate + H+  =  CO2 + tartronate semialdehyde
+L-ARABINONOLACTONASE-RXN	EC 3.1.1.15	-6.347122	L-arabinono-1,4-lactone + H2O  ->  L-arabinonate + H+
+R561-RXN	EC 3.5.2.-	-2.2429962	6-caprolactam + H2O  ->  6-aminohexanoate
+RXN0-6575	EC 4.3.99.3	-13.300008	6-carboxy-5,6,7,8-tetrahydropterin + H+  ->  7-carboxy-7-deazaguanine + ammonium
+RXN-18031	RXN-18031	-50.29413	carbonic acid  <-->  hydrogencarbonate + H+
+RXN-15122	RXN-15122	-1.6011143	L-threonine  ->  (2Z)-2-aminobut-2-enoate + H2O + H+
+RXN-13558	EC 3.5.99.9	-17.10712	2-nitroimidazole + H2O  ->  1,3-dihydro-2H-imidazol-2-one + nitrite + H+
+RXN-12869	RXN-12869	-138.32825	2 L-dehydro-ascorbate + oxygen  ->  2 cyclic-2,3-O-oxalyl-L-threonate + 2 H+
+RXN-12341	EC 4.1.1.92	20.25312	indole-3-carboxylate + H+  <-->  indole + CO2
+RXN-11861	EC 1.13.11.-	-124.82526	gallate + oxygen  ->  2-pyrone-4,6-dicarboxylate + H2O + H+
+R107-RXN	R107-RXN	-30.18	4-carboxy-2-hydroxymuconate-6-semialdehyde  ->  2-hydroxy-4-carboxymuconate semialdehyde hemiacetal
+RXN-5641	EC 4.1.1.-	-5.1399994	L-serine + H+  ->  ethanolamine + CO2
+ASPDECARBOX-RXN	EC 4.1.1.11	-1.1158752	L-aspartate + H+  ->  beta-alanine + CO2
+RXN-13593	EC 4.1.2.-	16.080002	triethylamine N-oxide  ->  diethylamine + acetaldehyde
+5.3.3.10-RXN	EC 5.3.3.10	-6.85	5-carboxymethyl-2-hydroxymuconate  ->  (3E,5R)-5-carboxy-2-oxohept-3-enedioate
+RXN-8252	RXN-8252	97.73672	N-methyl-Delta1-pyrrolinium cation + CO2  ->  hygrine
+4-HYDROXYBENZOATE-DECARBOXYLASE-RXN	EC 4.1.1.61	-2.0258827	4-hydroxybenzoate + H+  ->  CO2 + phenol
+LACTATE-ALDOLASE-RXN	EC 4.1.2.36	6.3099976	(S)-lactate  =  acetaldehyde + formate
+GALACTUROISOM-RXN	EC 5.3.1.12	-1.46	aldehydo-D-galacturonate  <-->  D-tagaturonate
+RXN-18664	EC 2.6.1.ae	-0.9158554	octan-1-amine + pyruvate  <-->  1-octanal + L-alanine
+RXN-15196	RXN-15196	-21.57	4-[(Z)-2-aminoethenyl]phenol + H+  ->  4-(2-iminoethyl)phenol
+RXN-12910	RXN-12910	-1.8417664	2-hydroxy-3-oxoadipate + H+  ->  5-hydroxy-4-oxopentanoate + CO2
+RXN-12614	RXN-12614	-52.494102	glycine + oxygen  ->  2-iminoacetate + hydrogen peroxide + H+
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	EC 4.2.1.10	-20.176987	3-dehydroquinate  <-->  3-dehydroshikimate + H2O
+RXN0-5298	EC 5.1.3.29	0.0	alpha-L-fucopyranose  <-->  beta-L-fucopyranose
+RXN-13636	EC 1.14.11.-	-111.71005	L-leucine + 2-oxoglutarate + oxygen  ->  4-hydroxy-L-leucine + succinate + CO2
+RXN-15219	RXN-15219	-0.5200043	aldehydo-D-paratose  ->  alpha-D-paratopyranose
+RXN-17615	EC 3.7.1.-	-35.65713	tert-butyl formate + H2O  ->  tert-butyl alcohol + formate + H+
+RXN-8461	RXN-8461	-36.25522	4,5-seco-dopa  ->  betalamate + H+ + H2O
+4.1.2.18-RXN	EC 4.1.2.18	0.54000854	2-dehydro-3-deoxy-L-arabinonate  <-->  glycolaldehyde + pyruvate
+TETRAHYDROXYPTERIDINE-CYCLOISOMERASE-RXN	EC 5.5.1.3	-35.444138	tetrahydroxypteridine  =  xanthine-8-carboxylate + H+
+IMIDAZOLONEPROPIONASE-RXN	EC 3.5.2.7	0.016998291	4-imidazolone-5-propanoate + H2O  ->  N-formimino-L-glutamate
+RXN-10747	EC 1.5.3.14	-22.204742	spermidine + oxygen + H2O  ->  propane-1,3-diamine + 4-aminobutanal + hydrogen peroxide
+ETHAMLY-RXN	EC 4.3.1.7	-7.850006	ethanolamine  ->  ammonium + acetaldehyde
+RXN-18723	RXN-18723	62.19001	peroxynitrite  ->  nitrate
+RXN-14129	EC 3.5.4.1	8.626999	5-fluorocytosine + H+ + H2O  ->  5-fluorouracil + ammonium
+PHENYLPYRUVATE-DECARBOXYLASE-RXN	EC 4.1.1.43	-3.46588	keto-phenylpyruvate + H+  <-->  CO2 + phenylacetaldehyde
+RXN-11211	EC 3.5.2.2	-5.90711	5,6-dihydrothymine + H2O  <-->  3-(carbamoylamino)-2-methylpropanoate + H+
+URUR-RXN	EC 3.5.3.26	1.85289	(S)-ureidoglycine + H2O  ->  (S)-ureidoglycolate + ammonium
+ALARACECAT-RXN	EC 5.1.1.1	0.75	L-alanine  <-->  D-alanine
+RXN-13698	EC 2.6.1.2	1.8641052	2-oxoglutarate + L-alanine  <-->  L-glutamate + pyruvate
+MALEATE-ISOMERASE-RXN	EC 5.2.1.1	0.7100067	maleate  <-->  fumarate
+D--TARTRATE-DEHYDRATASE-RXN	EC 4.2.1.81	-7.2470093	D-tartrate  <-->  oxaloacetate + H2O
+3.5.5.4-RXN	EC 3.5.5.4	1.7039871	3-cyano-L-alanine + H+ + 2 H2O  ->  ammonium + L-aspartate
+RXN-15982	RXN-15982	-7.0869827	(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran  =  autoinducer 2 + H2O
+RXN-14984	RXN-14984	1.8100052	2-oxovalerate  ->  3-methyl-2-oxobutanoate
+MONOPHENOL-MONOOXYGENASE-RXN	EC 1.14.18.1	-96.21699	L-tyrosine + oxygen  ->  dopaquinone + H2O
+D-GLUTAMINASE-RXN	EC 3.5.1.35	-7.907112	D-glutamine + H2O  =  ammonium + D-glutamate
+RXN-6861	RXN-6861	-28.821129	5-amino-2-oxopentanoate  ->  1-pyrroline-2-carboxylate + H2O + H+
+ALLANTOATE-DEIMINASE-RXN	EC 3.5.3.9	3.3611145	allantoate + 2 H+ + H2O  ->  (S)-ureidoglycine + ammonium + CO2
+RXN-11270	RXN-11270	-2.319992	3-hydroxy-3-phenylpropanoate  ->  benzaldehyde + acetate
+RXN-17895	RXN-17895	0.0	(R)-demethyl-4-deoxygadusol  <-->  (S)-demethyl-4-deoxygadusol
+CITLY-RXN	EC 4.1.3.6	2.6182098	citrate  ->  acetate + oxaloacetate
+RXN-14542	EC 1.14.11.41	-109.620026	L-arginine + 2-oxoglutarate + oxygen  ->  (3S)-3-hydroxy-L-arginine + succinate + CO2
+2.6.1.30-RXN	EC 2.6.1.30	-2.465867	pyruvate + pyridoxamine  <-->  L-alanine + pyridoxal
+RXN-13775	EC 4.2.1.-	-8.166992	D-idonate  ->  2-dehydro-3-deoxy-D-galactonate + H2O
+RXN-15018	EC 3.5.1.-	-2.6071281	N-(3-hydroxybutan-2-yl)acetamide + H2O  ->  3-amino-2-butanol + acetate
+RXN-12893	EC 4.2.1.104	-10.121765	cyanate + hydrogencarbonate + 3 H+  ->  ammonium + 2 CO2
+2.6.1.64-RXN	EC 2.6.1.64	6.0599823	keto-phenylpyruvate + L-glutamine  <-->  L-phenylalanine + 2-oxoglutaramate
+PROLINE-RACEMASE-RXN	EC 5.1.1.4	0.0	L-proline  <-->  D-proline
+AMINOBENZOATE-DECARBOXYLASE-RXN	EC 4.1.1.24	0.5241165	4-aminobenzoate + H+  =  aniline + CO2
+2-AMINOADIPATE-AMINOTRANSFERASE-RXN	EC 2.6.1.39	0.6999817	L-2-aminoadipate + 2-oxoglutarate  <-->  L-glutamate + 2-oxoadipate
+RXN-12246	EC 3.1.1.-	-7.9071198	D-xylonolactone + H2O  ->  D-xylonate + H+
+3.5.3.21-RXN	EC 3.5.3.21	5.213997	methylenediurea + 2 H+ + 2 H2O  =  N-(hydroxymethyl)urea + 2 ammonium + CO2
+RXN-10893	RXN-10893	-0.7853546	4-carboxy-2-hydroxy-6-methoxy-6-oxohexa-2,4-dienoate + H2O  ->  (1Z,3Z)-4-hydroxybuta-1,3-diene-1,2,4-tricarboxylate + methanol + H+
+MHPELY-RXN	EC 4.1.3.39	1.1900024	(S)-4-hydroxy-2-oxopentanoate  <-->  acetaldehyde + pyruvate
+1.13.11.16-RXN	EC 1.13.11.16	-74.15823	3-(2,3-dihydroxyphenyl)propanoate + oxygen  ->  (2Z,4E)-2-hydroxy-6-oxonona-2,4-diene-1,9-dioate + H+
+RXN-14265	EC 2.6.1.-	1.539978	(S)-methylmalonate-semialdehyde + L-alanine  <-->  (S)-3-amino-2-methylpropanoate + pyruvate
+RXN-8172	RXN-8172	27.261116	1-piperideine-2-carboxylate + H+ + H2O  <-->  6-amino-2-oxohexanoate
+3.5.1.91-RXN	EC 3.5.1.91	0.122867584	N-benzylformamide + H2O  =  formate + benzylamine
+RXN-10445	EC 3.7.1.20	-13.647125	3-fumarylpyruvate + H2O  ->  fumarate + pyruvate + H+
+1.14.11.10-RXN	EC 1.14.11.10	-126.74005	2'-deoxyuridine + 2-oxoglutarate + oxygen  ->  2-deoxyribonolactone + succinate + CO2 + uracil
+RXN-7461	EC 2.5.1.52	-0.098228455	O-acetyl-L-serine + 3,4-dihydroxypyridin  ->  L-mimosine + acetate + 2 H+
+ARGININE-RACEMASE-RXN	EC 5.1.1.9	0.0	L-arginine  <-->  D-arginine
+RXN-10464	EC 1.5.3.16	-21.580627	norspermine + oxygen + H2O  ->  norspermidine + 3-aminopropanal + hydrogen peroxide
+RXN-12907	carbon monoxide dehydrogenase complex	1.4369965	carbon monoxide + H2O  =  CO2 + H2
+RXN-14300	EC 1.1.99.24	-0.3000183	2-oxoglutarate + 4-hydroxybutanoate  ->  succinate semialdehyde + (R)-2-hydroxyglutarate
+RXN-8674	EC 1.4.3.19	-16.973013	N-ethylglycine + H2O + oxygen + H+  ->  glyoxylate + ethylamine + hydrogen peroxide
+RXN-13178	EC 1.1.3.17	-67.90299	choline + 2 oxygen + H2O  ->  glycine betaine + 2 hydrogen peroxide + H+
+RXN-17555	EC 4.1.1.103	0.5241089	gamma-resorcylate + H+  <-->  resorcinol + CO2
+RXN-12859	RXN-12859	113.69319	4-[(1Z)-3-carboxylato-3-oxoprop-1-en-1-yl]-2,3-dihydro-1H-pyrrole-2-carboxylate  ->  3-propylidene-Delta 1-pyrroline-5-carboxylate
+DIMETHYLANILINE-N-OXIDE-ALDOLASE-RXN	EC 4.1.2.24	15.75	N,N-dimethylaniline-N-oxide  =  formaldehyde + N-methylaniline
+RXN-7592	RXN-7592	0.746994	formyl-L-isoglutamine + H2O  ->  L-isoglutamine + formate
+RXN-13396	EC 1.14.20.l	-126.7411	L-arginine + 2-oxoglutarate + oxygen  ->  (S)-1-pyrroline-5-carboxylate + guanidinium + succinate + CO2 + H2O + H+
+ASPARTATE-4-DECARBOXYLASE-RXN	EC 4.1.1.12	-3.6758728	L-aspartate + H+  =  CO2 + L-alanine
+RXN-9174	EC 4.1.1.-	-1.8417587	2-oxo-3-carboxy-4,5-cyclopropylhex-5-enoate + H+  ->  beta-methylenecyclopropyl pyruvate + CO2
+RXN-12877	RXN-12877	12.11	4-deoxy-L-erythro-hex-4-enopyranuronate  <-->  (4S,5S)-4,5-dihydroxy-2,6-dioxohexanoate
+R128-RXN	EC 3.5.1.-	13.661118	5-ureidoimidazole-4-carboxylate + H2O + 2 H+  ->  5-aminoimidazole-4-carboxylate + CO2 + ammonium
+RXN-17125	RXN-17125	23.19999	5-methoxy-6-methylbenzimidazole  ->  5,6-dimethylbenzimidazole
+RXN-17589	EC 3.3.2.10	-5.723011	1,2-epoxy-2-methylpropane + H2O  ->  2-methylpropane-1,2-diol
+RXN-16669	RXN-16669	-43.947838	L-lysine  ->  1-piperideine 6-carboxylate
+4-METHYLENEGLUTAMINASE-RXN	EC 3.5.1.67	-5.3371162	4-methylene-L-glutamine + H2O  ->  4-methylene-L-glutamate + ammonium
+RXN-7640	RXN-7640	-0.8670044	(S)-2-hydroxymethylglutarate  ->  2-methyleneglutarate + H2O
+RXN-19390	EC 1.14.17.1	-67.92288	(S)-amphetamine + L-ascorbate + oxygen + H+  ->  (-)-norephedrine + L-dehydro-ascorbate + H2O
+2.6.1.82-RXN	EC 2.6.1.82	0.8553581	putrescine + 2-oxoglutarate  <-->  1-pyrroline + L-glutamate + H2O
+RXN0-5285	EC 5.1.2.-	0.0	L-idarate  <-->  D-glucarate
+RXN-17608	EC 3.5.1.4	-5.3371315	2-hydroxyisobutyramide + H2O  ->  2-hydroxy-2-methylpropanoate + ammonium
+4.1.1.77-RXN	EC 4.1.1.77	4.648224	(3E)-2-oxohex-3-enedioate + H+  ->  (2Z)-2-hydroxypenta-2,4-dienoate + CO2
+RXN-14725	EC 4.2.1.84	-6.5269947	propionitrile + H2O  ->  propionamide
+RXN0-5364	EC 1.1.3.-	-26.14	(S)-2-hydroxyglutarate + oxygen  ->  2-oxoglutarate + hydrogen peroxide
+RXN-16674	RXN-16674	-74.34543	L-2-amino-8-hydroxyoctanoate  ->  L-2-aminooctanedioate
+RXN-19531	RXN-19531	38.770824	5-amino-6-(D-ribitylamino)uracil + glycine  ->  1,6-didemethyltoxoflavin
+1.4.3.19-RXN	EC 1.4.3.19	-22.217125	glycine + H2O + oxygen  ->  glyoxylate + ammonium + hydrogen peroxide
+RXN-8751	RXN-8751	-13.88201	hypoxanthine + H2O  ->  6,8-dihydroxypurine
+4.1.2.42-RXN	EC 4.1.2.42	2.3399963	D-threonine  =  glycine + acetaldehyde
+RXN-18113	EC 4.1.1.M8	0.26823425	2-hydroxy-3-carboxy-6-methoxy-hexa-2,4-dienoate + H+  ->  2-hydroxy-6-methoxy-hexa-2,4-dienoate + CO2
+4.2.1.99-RXN	EC 4.2.1.99	0.9129944	(2R,3S)-2-methylisocitrate  <-->  cis-2-methylaconitate + H2O
+ISOCIT-CLEAV-RXN	EC 4.1.3.1	3.2682343	D-threo-isocitrate  <-->  glyoxylate + succinate
+R311-RXN	EC 3.5.1.4	-8.75712	acrylamide + H2O  ->  ammonium + acrylate
+CARBOXYMETHYLHYDANTOINASE-RXN	EC 3.5.2.4	-4.971222	L-5-carboxymethylhydantoin + H2O  =  N-carbamoyl-L-aspartate + H+
+6-HEXANOLIDE-HYDROLYSIS-RXN	EC 3.1.1.-	-14.867129	epsilon-caprolactone + H2O  ->  6-hydroxyhexanoate + H+
+RXN-7751	EC 2.6.1.-	0.6999817	(2S, 3S)-3-methylaspartate + 2-oxoglutarate  ->  L-glutamate + methyloxaloacetate
+RXN-19492	RXN-19492	-4.949997	(2E)-2-hydroxypenta-2,4-dienoate  <-->  2-oxopent-4-enoate
+R381-RXN	EC 5.1.3.8	0.0	N-acetyl-beta-D-mannosamine  <-->  N-acetyl-beta-D-glucosamine
+CATAL-RXN	EC 1.11.1.6/1.11.1.21	-45.454002	2 hydrogen peroxide  ->  2 H2O + oxygen
+RXN-18157	RXN-18157	23.520004	isocyanurate  <-->  cyanurate
+4.3.1.17-RXN	EC 4.3.1.17	-10.384121	L-serine  ->  pyruvate + ammonium
+R502-RXN	EC 1.5.3.-	-6.7829876	N-methyl-L-proline + oxygen + H2O  ->  L-proline + formaldehyde + hydrogen peroxide
+RXN-11548	RXN-11548	-61.62	caffeine  ->  1,3,7-trimethylurate
+FORMIMINOASPARTATE-DEIMINASE-RXN	EC 3.5.3.5	1.6787567	N-formimino-L-aspartate + H2O  =  ammonium + N-formyl-L-aspartate
+RXN-9338	RXN-9338	65.54242	1-phenylpropane-1,2-dione  ->  cathinone
+4OH2OXOGLUTARALDOL-RXN	EC 4.1.3.16	2.6641083	4-hydroxy-2-oxoglutarate  <-->  glyoxylate + pyruvate
+RXN-12440	EC 1.11.1.11	-50.64987	2 L-ascorbate + hydrogen peroxide + H+  ->  L-ascorbate + L-dehydro-ascorbate + 2 H2O
+L-FUCONATE-HYDRATASE-RXN	EC 4.2.1.68	-8.166977	L-fuconate  =  2-dehydro-3-deoxy-L-fuconate + H2O
+RXN-7800	RXN-7800	-1.8417587	(2S)-2-isopropyl-3-oxosuccinate + H+  ->  4-methyl-2-oxopentanoate + CO2
+R6-RXN	EC 3.7.1.-	-6.807125	dihydrophloroglucinol + H2O  ->  3-hydroxy-5-oxohexanoate + H+
+RXN-16824	EC 1.11.2.M1	-67.207016	indole + hydrogen peroxide  ->  indolin-3-one + H2O
+RXN-17332	RXN-17332	24.746998	1,6,8-trimethylallantoate + H2O  ->  glyoxylate + N,N'-dimethylurea + N-methylurea
+ORNDECARBOX-RXN	EC 4.1.1.17	-3.7141151	L-ornithine + H+  ->  CO2 + putrescine
+RXN-13163	EC 4.2.1.33	-1.42	(2R,3S)-3-isopropylmalate  <-->  (2S)-2-isopropylmalate
+RXN-13067	EC 1.5.3.19	-18.983002	4-methylaminobutanoate + oxygen + H2O  ->  4-aminobutanoate + formaldehyde + hydrogen peroxide
+RXN-19260	RXN-19260	52.873848	(S)-2,3,4,5-tetrahydrodipicolinate  ->  tabtoxinine-beta-lactam
+L-RHAMNONO-14-LACTONASE-RXN	EC 3.1.1.65	-6.347122	L-rhamnono-1,4-lactone + H2O  ->  L-rhamnonate + H+
+RXN-9896	RXN-9896	1.6900024	3-hydroxy-N6,N6,N6-trimethyl-L-lysine  ->  4-trimethylammoniobutanal + glycine
+OXALATE-OXIDASE-RXN	EC 1.2.3.4	-38.407654	oxalate + oxygen + 2 H+  ->  2 CO2 + hydrogen peroxide
+5.3.3.15-RXN	EC 5.3.2.7	0.0	ascopyrone M  ->  ascopyrone P
+RXN-12065	RXN-12065	0.0	(E)-phenylacetaldehyde oxime  ->  (Z)-phenylacetaldehyde oxime
+GALLATE-DECARBOXYLASE-RXN	EC 4.1.1.59	0.5241089	gallate + H+  <-->  CO2 + pyrogallol
+RXN-6	RXN-6	53.81112	2-hydroxy-4-carboxypyrimidine  ->  2-amino-4-carboxypyrimidine
+RXN-15480	isoepoxydon synthase	-11.277752	gentisaldehyde  ->  isoepoxydon
+ACONITATE-DECARBOXYLASE-RXN	EC 4.1.1.6	-5.217636	cis-aconitate + H+  ->  CO2 + itaconate
+RXN-12894	EC 3.5.1.110	1.4970016	(Z)-3-ureidoacrylate peracid + H+ + H2O  ->  (Z)-3-peroxyaminoacrylate + ammonium + CO2
+RXN-16673	RXN-16673	29.936543	2-oxooctanoate  ->  L-2-amino-8-hydroxyoctanoate
+RXN-13639	EC 1.14.11.-	-109.150024	L-threonine + 2-oxoglutarate + oxygen  ->  4-hydroxy-L-threonine + succinate + CO2
+RXN-9978	RXN-9978	-39.48	tyramine  ->  dopamine
+RXN-14114	RXN-14114	-0.23999786	beta-D-galactofuranose  =  D-allopyranose
+UREIDOGLYCOLATE-LYASE-RXN	EC 4.3.2.3	3.5099945	(S)-ureidoglycolate  ->  urea + glyoxylate
+RXN-19631	EC 1.13.12.4	-117.537	(S)-lactate + oxygen  ->  acetate + CO2 + H2O
+RXN-13689	EC 1.1.3.8	-48.60412	L-gulono-1,4-lactone + oxygen  ->  L-ascorbate + hydrogen peroxide + H+
+RXN-14471	RXN-14471	16.481117	(3R,5S)-3-hydroxy-1-pyrroline-5-carboxylate + H2O + H+  <-->  L-4-hydroxyglutamate semialdehyde
+RXN-11218	EC 1.13.11.2	-73.534134	3-methylcatechol + oxygen  ->  2-hydroxy-6-oxohepta-2,4-dienoate + H+
+VALGLU-RXN	EC 2.6.1.-	-1.6588898	5-acetamidovalerate + 2-oxoglutarate + H2O  <-->  L-glutamate + glutarate semialdehyde + acetate
+RXN-10050	EC 3.1.1.81	-9.947117	PAI-1-2 + H2O  ->  N-(butyryl)-L-homoserine + H+
+RXN-13199	EC 3.5.3.21	-5.3371353	methylenediurea + H2O  ->  N-(carboxyaminomethyl)urea + ammonium
+MALEYLPYRUVATE-ISOMERASE-RXN	EC 5.2.1.4	0.0	3-maleylpyruvate  ->  3-fumarylpyruvate
+D-ALANINE-GAMMA-GLUTAMYLTRANSFERASE-RXN	EC 2.3.2.14	-0.3641014	L-glutamine + D-alanine  ->  gamma-L-glutamyl-D-alanine + ammonium
+RXN-14174	EC 3.5.1.100	-0.46299744	(R)-piperazine-2-tert-butylcarboxamide + H2O  ->  (R)-piperazine-2-carboxylate + tert-butylamine
+RXN-14987	EC 4.3.1.23/4.3.1.25	-0.80412674	L-dopa  ->  trans-caffeate + ammonium
+ALLANTOINASE-RXN	EC 3.5.2.5	-4.34713	(S)-(+)-allantoin + H2O  ->  allantoate + H+
+GLYCINE-AMINOTRANSFERASE-RXN	EC 2.6.1.4	2.694107	2-oxoglutarate + glycine  <-->  L-glutamate + glyoxylate
+2.6.1.35-RXN	EC 2.6.1.35	-0.2758789	oxaloacetate + glycine  <-->  L-aspartate + glyoxylate
+ALTRODEHYDRAT-RXN	EC 4.2.1.7	-8.166992	D-altronate  ->  2-dehydro-3-deoxy-D-gluconate + H2O
+2.6.1.70-RXN	EC 2.6.1.70	3.1958618	keto-phenylpyruvate + L-aspartate  <-->  L-phenylalanine + oxaloacetate
+RXN-19258	RXN-19258	1.3199883	tabtoxinine-beta-lactam  ->  tabtoxinine-delta-lactam
+1.1.99.28-RXN	EC 1.1.99.28	-5.630005	keto-D-fructose + D-glucopyranose  ->  D-glucono-1,5-lactone + D-sorbitol
+PROTOCATECHUATE-34-DIOXYGENASE-RXN	EC 1.13.11.3	-98.7606	protocatechuate + oxygen  ->  3-carboxy-cis,cis-muconate + 2 H+
+RXN-3523	<small>L</small>-ascorbate peroxidase	27.815857	2 monodehydroascorbate radical  ->  L-ascorbate + L-dehydro-ascorbate + H+
+GUANIDINOACETASE-RXN	EC 3.5.3.2	-4.4430084	guanidinoacetate + H2O  =  urea + glycine
+RXN-13329	RXN-13329	30.276985	2-iminoacetate + H+ + H2O  ->  glyoxylate + ammonium
+3.5.1.95-RXN	EC 3.5.1.95	-12.801254	ureidomalonate + H2O  ->  malonate + urea + H+
+RXN-9640	RXN-9640	0.0	(1E,2S)-2-methylbutanal oxime  ->  (1Z,2S)-2-methylbutanal oxime
+RXN-3944	EC 3.5.2.20	5.752878	isatin + H2O  ->  isatinate + H+
+3.5.99.5-RXN	EC 3.5.99.5	-6.181244	(2Z,4E)-2-aminomuconate + H2O  ->  (3E)-2-oxohex-3-enedioate + ammonium
+RXN-7571	EC 2.6.1.58	-0.54000854	L-histidine + pyruvate  <-->  imidazole-pyruvate + L-alanine
+RXN-19327	EC 3.5.2.-	6.057007	(S)-azetidine-2-carboxylate + H2O  ->  2-hydroxy-4-aminobutanoate
+RXN-14306	EC 4.2.1.110	-7.166992	1,5-anhydro-D-fructose  =  microthecin + H2O
+RXN-12862	RXN-12862	8.027008	L-dehydro-ascorbate + H2O  ->  dehydroascorbate (bicyclic form)
+DIMETHYLGLYCINE-OXIDASE-RXN	EC 1.5.3.10	-16.333008	N,N-dimethylglycine + oxygen + H2O  ->  hydrogen peroxide + formaldehyde + sarcosine
+HOMOACONITATE-HYDRATASE-RXN	EC 4.2.1.36	0.052978516	(1R,2S)-homoisocitrate  <-->  cis-homoaconitate + H2O
+RXN-8244	EC 1.4.3.22	-23.338882	N-methylputrescine + H2O + oxygen  ->  N-methylaminobutanal + ammonium + hydrogen peroxide
+R141-RXN	EC 4.2.1.112	-101.79301	acetylene + H2O  ->  acetaldehyde
+HYDROXYMANDELONITRILE-LYASE-RXN	EC 4.1.2.11	23.579998	(S)-4-hydroxymandelonitrile  ->  4-hydroxybenzaldehyde + hydrogen cyanide
+3-ACI-NITROPROPANOATE-OXIDASE-RXN	EC 1.7.3.5	-23.88713	3-aci-nitropropanoate + oxygen + H2O  ->  3-oxopropanoate + nitrite + hydrogen peroxide + H+
+RXN-18501	RXN-18501	-25.141098	2-amino-5-oxohexanoate  ->  1-pyrroline-2-methyl-5-carboxylate + H2O + H+
+RXN-13459	EC 5.3.2.6	-4.289997	(2Z)-2-hydroxypenta-2,4-dienoate  <-->  (3E)-2-oxopent-3-enoate
+RXN-14728	EC 3.5.1.4	-6.857111	acetamide + H2O  ->  acetate + ammonium
+RXN-17229	EC 1.1.3.5	-33.660004	D-glucopyranose + oxygen  =  D-glucono-1,5-lactone + hydrogen peroxide
+R224-RXN	R224-RXN	-2.8417816	2-oxosuberate + H+  ->  7-oxoheptanoate + CO2
+RXN-11457	EC 2.6.1.-	1.021759	5-guanidino-3-methyl-2-oxopentanoate + L-aspartate  <-->  3-methylarginine + oxaloacetate
+RXN-9772	EC 1.5.99.-	-38.578247	L-aspartate + fumarate  ->  2-iminosuccinate + succinate + H+
+RXN-8754	RXN-8754	17.466995	8-hydroxypurine + H2O  ->  6,8-dihydroxypurine
+RXN-7690	RXN-7690	-1.1358719	(3R)-beta-leucine + 2-oxoglutarate  ->  L-glutamate + beta-ketoisocaproate
+RXN-16747	EC 2.6.1.109	-0.3241577	3,8-dideoxy-8-oxo-alpha-D-manno-octulosonate + L-glutamate  <-->  8-amino-3,8-dideoxy-alpha-D-manno-octulosonate + 2-oxoglutarate
+RXN-15247	EC 2.5.1.119	-17.454124	O-acetyl-L-serine + isoxazolin-5-one  =  3-(5-oxoisoxazolin-4-yl)-L-alanine + acetate + H+
+RXN-13595	EC 1.7.3.6	-96.90112	hydroxylamine + oxygen  ->  nitrite + H2O + H+
+THREONINE-RACEMASE-RXN	EC 5.1.1.6	-1.3399963	L-threonine  =  D-threonine
+6-METHYLSALICYLATE-DECARBOXYLASE-RXN	EC 4.1.1.52	0.52412796	6-methylsalicylate + H+  ->  CO2 + 3-methylphenol
+CATECHOL-23-DIOXYGENASE-RXN	EC 1.13.11.2	-73.51412	catechol + oxygen  ->  (2Z,4E)-2-hydroxy-6-oxohexa-2,4-dienoate + H+
+RXN-18592	EC 5.3.1.35	-2.4599915	2-dehydro-L-erythronate  <-->  3-dehydro-L-erythronate
+RXN-14806	RXN-14806	0.5200043	D-arabinopyranose  <-->  aldehydo-D-arabinose
+R524-RXN	EC 4.2.1.104	-13.945877	cyanate + hydrogencarbonate + H+  ->  carbamate + CO2
+RXN-16810	EC 1.1.3.-	-40.1	2-hydroxy-4-[(1E)-3-oxoprop-1-en-1-yl]-2H-pyran-6-carboxylate + oxygen  ->  arabidopaldehyde + hydrogen peroxide
+RXN-16827	EC 1.14.20.-	-143.30696	(2R,6Z)-2-hydroxy-6-(hydroxymethylidene)-2,5-dimethylcyclohex-4-ene-1,3-dione + 2-oxoglutarate + oxygen  ->  stipitaldehyde + succinate + CO2 + H2O
+ORNITHINE-GLU-AMINOTRANSFERASE-RXN	EC 2.6.1.13	0.9482422	L-ornithine + 2-oxoglutarate  <-->  L-glutamate + L-glutamate-5-semialdehyde
+RXN-13070	RXN-13070	-10.844112	2,3,6-trihydroxypyridine  ->  6,3-dihydroxy-2-pyridinone + H+
+CHOLINE-OXIDASEII-RXN	Betaine aldehyde oxidase	-41.463013	betaine aldehyde + oxygen + H2O  ->  glycine betaine + hydrogen peroxide + H+
+GALACTONDEHYDRAT-RXN	EC 4.2.1.6/4.2.1.140	-8.166992	D-galactonate  ->  2-dehydro-3-deoxy-D-galactonate + H2O
+OXALODECARB-RXN	EC 1.1.1.40/4.1.1.3/1.1.1.38	-4.7817535	oxaloacetate + H+  ->  pyruvate + CO2
+RXN-9380	EC 4.1.1.96	-4.3382187	carboxynorspermidine + H+  ->  norspermidine + CO2
+RXN-8871	EC 3.7.1.-	0.33699036	4-coumarate + H2O  ->  4-hydroxybenzaldehyde + acetate
+RXN-13090	RXN-13090	-27.990002	5-hydroxymethylfurfural + oxygen  ->  furan-2,5-dicarbaldehyde + hydrogen peroxide
+RXN-12068	<i>N,N</i>-dihydroxy-L-phenylalanine carboxy-lyase	-6.4728603	N,N-dihydroxy-L-phenylalanine + H+  ->  (E)-phenylacetaldehyde oxime + CO2 + H2O
+ACONITATEHYDR-RXN	cis-aconitate hydratase	-3.1329956	cis-aconitate + H2O  <-->  D-threo-isocitrate
+RXN6666-4	EC 1.4.3.4	-23.963001	dopamine + H2O + oxygen  ->  3,4-dihydroxyphenylacetaldehyde + ammonium + hydrogen peroxide
+RXN-12091	EC 1.5.3.13/1.5.3.17	-23.453003	N1-acetylspermidine + oxygen + H2O  ->  putrescine + 3-acetamidopropanal + hydrogen peroxide
+RXN-6266	EC 1.14.11.21	-134.12698	proclavaminate + 2-oxoglutarate + oxygen  ->  dihydroclavaminate + CO2 + succinate + H2O
+ADENINE-DEAMINASE-RXN	EC 3.5.4.2	-5.5929947	adenine + H+ + H2O  ->  ammonium + hypoxanthine
+RXN-12110	RXN-12110	-63.907303	L-threo-tetruronate  ->  L-tartrate
+RXN-6423	EC 2.6.1.82	-0.71699905	4-aminobutanal  <-->  1-pyrroline + H2O
+URIDINE-NUCLEOSIDASE-RXN	EC 3.2.2.3	-0.73301697	uridine + H2O  ->  D-ribofuranose + uracil
+RXN-16947	EC 1.13.11.4	-78.22823	4-methylgentisate + oxygen  ->  (2E)-3-methyl-4,6-dioxohept-2-enedioate + H+
+LYXISOM-RXN	EC 5.1.3.-	-3.600006	beta-L-lyxopyranose  <-->  L-xylulose
+RXN-8981	RXN-8981	-9.617004	8-aminooctan-4-one  ->  gamma-coniceine + H2O
+XYLISOM-RXN	EC 5.3.1.5	-0.9400101	D-xylopyranose  <-->  D-xylulose
+MALONATE-SEMIALDEHYDE-DEHYDRATASE-RXN	EC 4.2.1.27	74.393	propynoate + H2O  ->  3-oxopropanoate
+RXN-14515	RXN-14515	-1.75	keto-D-fructose  ->  beta-D-fructofuranose
+RXN-16002	RXN-16002	-3.090004	2-aminomalonate semialdehyde + H+  ->  2-aminoacetaldehyde + CO2
+RXN-14197	EC 3.5.4.1	8.626999	5-methylcytosine + H2O + H+  ->  thymine + ammonium
+ALLOPHANATE-HYDROLASE-RXN	EC 3.5.1.54	-8.978882	urea-1-carboxylate + 3 H+ + H2O  ->  2 ammonium + 2 CO2
+RXN-2901	EC 2.6.1.19	0.32411194	beta-alanine + 2-oxoglutarate  <-->  3-oxopropanoate + L-glutamate
+RXN-9561	RXN-9561	-4.716997	norfuraneol + 1-propanal  ->  (2E)-4-hydroxy-5-methyl-2-propylidene-3(2H)-furanone + H2O
+RXN-10883	RXN-10883	0.26823425	(2Z,4Z)-2-hydroxy-5-carboxymuconate-6-semialdehyde + H+  ->  (2Z,4E)-2-hydroxy-6-oxohexa-2,4-dienoate + CO2
+METHYLISOCITRATE-LYASE-RXN	EC 4.1.3.30	3.978241	(2R,3S)-2-methylisocitrate  <-->  succinate + pyruvate
+RXN0-3942	EC 3.5.1.94	-0.46299744	4-(gamma-L-glutamylamino)butanoate + H2O  ->  L-glutamate + 4-aminobutanoate
+1.13.11.46-RXN	EC 1.13.11.46	-108.28	4-hydroxyphenylpyruvate + oxygen  ->  4-hydroxymandelate + CO2
+GUANIDINOBUTYRASE-RXN	EC 3.5.3.7	-3.572998	4-guanidinobutanoate + H2O  ->  urea + 4-aminobutanoate
+RXN-15581	RXN-15581	-0.86699677	D-serine  ->  2-aminoprop-2-enoate + H2O
+RXN-11380	EC 4.2.1.146	-8.166992	aldehydo-L-galactonate  ->  2-dehydro-3-deoxy-L-galactonate + H2O
+RXN-17136	EC 1.11.1.14	-81.37401	2 veratryl alcohol + hydrogen peroxide  ->  2 veratryl alcohol radical + 2 H2O
+RXN-16611	RXN-16611	-6.239998	D-glucosone  ->  2-dehydro-D-glucopyranose
+RXN-969	EC 1.1.3.15	-21.019997	glycolate + oxygen  ->  glyoxylate + hydrogen peroxide
+SUCCGLUDESUCC-RXN	EC 3.5.1.96	-1.254776	N2-succinylglutamate + H2O  ->  L-glutamate + succinate
+RXN490-3641	EC 1.14.11.57	-111.42	L-proline + 2-oxoglutarate + oxygen  ->  trans-4-hydroxy-L-proline + succinate + CO2
+ASPARTYLTRANSFERASE-RXN	EC 2.3.2.7	-0.62002563	hydroxylamine + L-asparagine + H+  =  ammonium + beta-L-aspartylhydroxamate
+RXN-17579	RXN-17579	-10.794109	hydroxymethylene acetate  ->  acetate + formaldehyde + H+
+HYDROXY-MANDELATE-RACEMASE-RXN	EC 5.1.2.2	0.0	(R)-4-hydroxymandelate  ->  (S)-4-hydroxymandelate
+23-DIHYDROXYINDOLE-23-DIOXYGENASE-RXN	EC 1.13.11.23	-110.12512	2,3-dihydroxyindole + oxygen  ->  anthranilate + CO2 + H+
+RXN-14359	RXN-14359	-7.2671356	3-dehydro scyllo-inosose + H2O  ->  5-dehydro-L-gluconate + H+
+RXN-974	RXN-974	-0.7258911	L-serine + 2-oxoglutarate  =  L-glutamate + hydroxypyruvate
+RXN-15665	RXN-15665	-0.96998596	(2R,3R,4S,5S)1,3,4,5-tetrahydroxy-6-oxohexan-2-aminium  ->  mannojirimycin
+RXN-15194	RXN-15194	15.577011	4-[(2Z)-2-(methylimino)ethyl]phenol + H2O  ->  (4-hydroxyphenyl)acetaldehyde + methylamine
+NITROETHANE-OXIDASE-RXN	EC 1.7.3.1	-20.757126	nitroethane + oxygen + H2O  ->  acetaldehyde + nitrite + hydrogen peroxide + H+
+RXN-12906	RXN-12906	4.6299934	N-methyl-2-oxoglutaramate  ->  2-hydroxy-N-methyl-5-oxoproline
+3-CYANOALANINE-HYDRATASE-RXN	EC 4.2.1.65	-6.0011253	L-asparagine  <-->  3-cyano-L-alanine + H+ + H2O
+R206-RXN	R206-RXN	-1.472992	trans-homoaconitate + H2O  =  (2S)-homocitrate
+BETA-DIKETONE-HYDROLASE-RXN	EC 3.7.1.7	-14.207123	nonane-4,6-dione + H2O  ->  butanoate + pentan-2-one + H+
+4.1.1.84-RXN	EC 4.1.1.84	-49.434883	D-dopachrome + H+  =  5,6-dihydroxyindole + CO2
+RXN-12949	RXN-12949	-5.5	(E)-phenylacetaldehyde oxime  ->  N-benzylformamide
+RXN-11489	nitric oxide dismutase	117.42	2 nitric oxide  ->  N2 + oxygen
+RXN-8777	EC 4.2.1.141	-9.166992	2-dehydro-3-deoxy-D-arabinonate  ->  2,5-dioxopentanoate + H2O
+RXN-11521	RXN-11521	-40.852997	7-methylxanthine + oxygen + H2O  ->  7-methylurate + hydrogen peroxide
+CATECHOL-OXIDASE-RXN	EC 1.10.3.1	-105.69399	2 catechol + oxygen  ->  2 1,2-benzoquinone + 2 H2O
+RXN-12536	RXN-12536	-17.121105	(3S)-3-hydroxy-L-arginine  ->  guanidinium + (S)-1-pyrroline-5-carboxylate + H+ + H2O
+RXN-16813	EC 1.13.11.-	-72.634125	caffealdehyde + oxygen  ->  (2E,4Z,6E)-5-formyl-2-hydroxy-8-oxoocta-2,4,6-trienoate + H+
+TRIMETHYLLYSINE-DIOXYGENASE-RXN	EC 1.14.11.8	-109.620026	N6,N6,N6-trimethyl-L-lysine + 2-oxoglutarate + oxygen  ->  3-hydroxy-N6,N6,N6-trimethyl-L-lysine + succinate + CO2
+ORNMUTST-RXN	EC 5.4.3.5	-1.81	D-ornithine  <-->  (2R,4S)-2, 4-diaminopentanoate
+RXN-13073	RXN-13073	0.0	L-arginine + L-lysine  =  L-homoarginine + L-ornithine
+GALACTOSE-OXIDASE-RXN	EC 1.1.3.9	-26.440002	D-galactopyranose + oxygen  ->  D-galacto-hexodialdose + hydrogen peroxide
+ACETYLORNDEACET-RXN	EC 3.5.1.16	-2.6071148	N-acetyl-L-ornithine + H2O  <-->  L-ornithine + acetate
+RXN-13093	RXN-13093	1.1482544	furan-2,5-dicarboxylate + H+  ->  2-furoate + CO2
+5.4.99.14-RXN	EC 5.4.99.14	-10.79	4-methylmuconolactone  ->  3-methylmuconolactone
+TYROSINE-23-AMINOMUTASE-RXN	EC 5.4.3.6	-1.9300003	L-tyrosine  =  beta-tyrosine
+CITRAMALATE-LYASE-RXN	EC 4.1.3.22	2.0641174	(S)-citramalate  <-->  pyruvate + acetate
+RXN-11608	<i>O</i>-citryl-L-serine decarboxylase	-1.8417206	O-citryl-L-serine + H+  ->  O-citryl-ethanolamine + CO2
+RXN-15901	EC 5.4.1.4	0.2400055	D-galactaro-1,5-lactone  ->  D-galactaro-1,4-lactone
+GENTISATE-12-DIOXYGENASE-RXN	EC 1.13.11.4	-79.10824	gentisate + oxygen  ->  3-maleylpyruvate + H+
+RXN-14459	EC 5.1.1.19	0.0	O-ureido-L-serine  <-->  O-ureido-D-serine
+GLUCONATE-DEHYDRATASE-RXN	EC 4.2.1.39/4.2.1.140	-7.1269836	D-gluconate  ->  2-dehydro-3-deoxy-D-gluconate + H2O
+UROCANATE-HYDRATASE-RXN	EC 4.2.1.49	5.2630005	urocanate + H2O  ->  4-imidazolone-5-propanoate
+ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	EC 2.6.1.44	-0.83000183	glyoxylate + L-alanine  <-->  glycine + pyruvate
+RXN-16430	EC 5.1.1.21	-2.6700134	L-isoleucine  =  D-allo-isoleucine
+CYTDEAM-RXN	EC 3.5.4.1	8.627003	cytosine + H2O + H+  ->  uracil + ammonium
+RXN-14500	RXN-14500	-2.319992	aldehydo-D-mannose  <-->  D-mannopyranose
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN	EC 2.3.1.35	-1.2482033	L-glutamate + N-acetyl-L-ornithine  ->  N-acetyl-L-glutamate + L-ornithine
+RXN-8986	RXN-8986	10.789982	ascopyrone M  ->  microthecin
+XYLONO-14-LACTONASE-RXN	EC 3.1.1.68	-6.347122	D-xylono-1,4-lactone + H2O  ->  D-xylonate + H+
+RXN-14969	EC 5.3.1.3	0.3199997	D-altropyranose  <-->  keto-D-psicose
+RXN-8017	RXN-8017	27.31112	ammelide + 2 H+ + H2O  ->  cyanurate + ammonium
+RXN-10081	EC 5.5.1.7	-0.85824203	4-methylmuconolactone  <-->  3-methyl-cis,cis-muconate + H+
+D-ARABINONOLACTONASE-RXN	EC 3.1.1.30	-6.347122	D-arabinono-1,4-lactone + H2O  ->  D-arabinonate + H+
+RXN-13740	EC 1.1.3.5	-33.660004	D-galactopyranose + oxygen  ->  D-galactono-1,5-lactone + hydrogen peroxide
+RXN-12735	EC 4.1.3.43	0.5399933	(S)-4-hydroxy-2-oxohexanoate  <-->  pyruvate + 1-propanal
+RXN-16490	RXN-16490	-25.64811	5,5-dihydroxy-leucine  ->  3-methyl-pyrroline-5-carboxylate + 2 H2O + H+
+4.1.1.75-RXN	EC 4.1.1.75	-4.090004	5-guanidino-2-oxopentanoate + H+  ->  CO2 + 4-guanidinobutyraldehyde
+2.6.1.49-RXN	EC 2.6.1.49	1.3241119	L-dopa + 2-oxoglutarate  <-->  3,4-dihydroxyphenylpyruvate + L-glutamate
+RXN0-305	EC 5.3.1.22	-1.0	hydroxypyruvate  <-->  tartronate semialdehyde
+3-HYDROXYANTHRANILATE-OXIDASE-RXN	EC 1.10.3.5	-70.47	3-hydroxyanthranilate + oxygen  ->  hydrogen peroxide + 6-imino-5-oxocyclohexa-1,3-dienecarboxylate
+R217-RXN	EC 4.2.1.114	-0.053009033	cis-(homo)3aconitate + H2O  ->  (-)threo-iso(homo)3citrate
+BETA-UREIDOPROPIONASE-RXN	EC 3.5.1.6	3.3611221	3-ureidopropanoate + H2O + 2 H+  ->  beta-alanine + ammonium + CO2
+RXN-18513	RXN-18513	-7.9071274	2-deoxy-D-glucono-1,5-lactone + H2O  ->  2-deoxygluconate + H+
+GLYOCARBOLIG-RXN	EC 4.1.1.47	-8.025879	2 glyoxylate + H+  ->  CO2 + tartronate semialdehyde
+RXN-11761	EC 3.8.1.3	1.1128769	fluoroacetate + H2O  ->  glycolate + fluoride + H+
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	EC 2.6.1.42	0.5541229	L-valine + 2-oxoglutarate  <-->  L-glutamate + 3-methyl-2-oxobutanoate
+RXN-9586	RXN-9586	-20.176987	5-deoxy-5-amino-3-dehydroquinate  ->  5-amino-5-deoxy-3-dehydroshikimate + H2O
+RXN-18111	EC 1.13.11.M5	-96.97823	2,3-dihydroxy-4-methoxybenzoate + oxygen  ->  2-hydroxy-3-carboxy-6-methoxy-hexa-2,4-dienoate + H+
+R305-RXN	EC 1.13.11.M3	-89.83413	2,3,5-trihydroxytoluene + oxygen  ->  2,4,6-trioxoheptanoate + H+
+CARBOXY-OXOHEPT-ENEDIOATE-DECARBOXY-RXN	CARBOXY-OXOHEPT-ENEDIOATE-DECARBOXY-RXN	7.742325	(3E,5R)-5-carboxy-2-oxohept-3-enedioate + H+  ->  (2Z,4Z)-2-hydroxyhepta-2,4-dienedioate + CO2
+R309-RXN	EC 3.5.5.7	-3.7801266	acrylonitrile + 2 H2O  ->  acrylate + ammonium
+RXN-17511	EC 1.2.3.15	-43.04712	glyoxal + oxygen + H2O  ->  glyoxylate + hydrogen peroxide + H+
+DHSHIKIMATE-DEHYDRO-RXN	EC 4.2.1.118	-10.716995	3-dehydroshikimate  ->  protocatechuate + H2O
+GUANINE-DEAMINASE-RXN	EC 3.5.4.3	-4.1229954	guanine + H+ + H2O  ->  ammonium + xanthine
+PUTRESCINE-OXIDASE-RXN	EC 1.4.3.10	-23.338882	putrescine + oxygen + H2O  ->  ammonium + hydrogen peroxide + 4-aminobutanal
+ARGDECARBOX-RXN	EC 4.1.1.19	-3.7141113	L-arginine + H+  <-->  CO2 + agmatine
+3.5.2.18-RXN	EC 3.5.2.18	12.935768	6-oxo-1,4,5,6-tetrahydronicotinate + 2 H2O  ->  (S)-2-formylglutarate + ammonium
+RXN-14636	EC 4.2.1.145	-17.72699	(3S)-3-hydroxy-L-arginine  =  (2S,3R)-capreo-mycidine 5 + H2O + H+
+4.3.1.15-RXN	EC 4.3.1.15	-5.8571243	2,3-diaminopropanoate + H2O  ->  2 ammonium + pyruvate
+RXN-7541	EC 2.5.1.53	-3.5541077	uracil + O-acetyl-L-serine  ->  L-willardiine + acetate + H+
+RXN-13372	EC 3.7.1.-	-13.6471405	3-maleylpyruvate + H2O  ->  fumarate + pyruvate + H+
+N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	EC 3.5.1.53	2.1128807	N-carbamoylputrescine + 2 H+ + H2O  ->  putrescine + CO2 + ammonium
+RXN-8823	EC 1.13.11.-	-71.75413	2,4,5-trihydroxytoluene + oxygen  ->  2,4-dihydroxy-5-methyl-6-oxohexa-2,4-dienoate + H+
+STIZOLOBINATE-SYNTHASE-RXN	EC 1.13.11.30	-72.63414	L-dopa + oxygen  ->  2,3-seco-dopa + H+
+DIHYDROXYISOVALDEHYDRAT-RXN	EC 4.2.1.9	-6.7470093	(2R)-2,3-dihydroxy-3-methylbutanoate  ->  3-methyl-2-oxobutanoate + H2O
+4.99.1.7-RXN	EC 4.99.1.7	-18.487	(Z)-phenylacetaldehyde oxime  ->  phenylacetonitrile + H2O
+RXN3O-470	RXN3O-470	-5.3199997	2 acetaldehyde  ->  acetoin
+R562-RXN	EC 2.6.1.af	0.32411957	6-aminohexanoate + 2-oxoglutarate  <-->  6-oxohexanoate + L-glutamate
+ASPAMINOTRANS-RXN	EC 2.6.1.1	2.9700012	L-aspartate + 2-oxoglutarate  <-->  oxaloacetate + L-glutamate
+RXN-9167	RXN-9167	-14.067741	2-oxobutanoate  ->  5-hydroxy-2-oxopentanoate
+RXN-18032	RXN-18032	46.761772	hydrogencarbonate  <-->  carbonate + H+
+RXN-15123	EC 3.5.99.-	30.33699	2-iminobutanoate + H2O + H+  ->  2-oxobutanoate + ammonium
+RXN-8840	EC 3.5.99.5	-3.1329956	(2Z,4E)-2-amino-5-methyl-muconate + H+ + H2O  ->  (E)-5-methyl-2-oxo-3-hex-3-enedioate + ammonium
+RXN-13560	EC 3.5.4.-	3.7170029	4-aminophenol + H2O + H+  ->  hydroquinone + ammonium
+RXN-12870	RXN-12870	-12.43	2,3-dioxo-L-gulonate  ->  2-carboxy-L-xylonolactone
+RXN-13061	EC 1.10.3.-	-105.69399	2 L-dopa + oxygen  ->  2 dopaquinone + 2 H2O
+L-PIPECOLATE-OXIDASE-RXN	EC 1.5.3.7	-36.624107	L-pipecolate + oxygen  ->  1-piperideine 6-carboxylate + hydrogen peroxide + H+
+HOMOGENTISATE-12-DIOXYGENASE-RXN	EC 1.13.11.5	-83.11824	homogentisate + oxygen  ->  4-maleyl-acetoacetate + H+
+R108-RXN	R108-RXN	-2.3630066	2-oxo-4-carboxypent-4-enoate + H2O  =  4-hydroxy-4-methyl-2-oxoglutarate
+RXN-15841	EC 1.14.11.48	-90.22099	xanthine + 2-oxoglutarate + oxygen  ->  urate + succinate + CO2
+RXN-15651	RXN-15651	-2.829979	2-oxoglutaramate  ->  2-hydroxy-5-oxoproline
+RXN-13594	EC 4.1.2.-	13.41	diethylamine N-oxide + H+  ->  ethylamine + acetaldehyde
+LACTATE-MALATE-TRANSHYDROGENASE-RXN	EC 1.1.99.7	-0.6999817	(S)-lactate + oxaloacetate  =  pyruvate + (S)-malate
+RXN-11152	EC 3.1.1.-	6.347122	aldehydo-L-galactonate + H+  <-->  L-galactono-1,4-lactone + H2O
+RXN-15197	RXN-15197	17.227001	4-(2-iminoethyl)phenol + H2O  ->  (4-hydroxyphenyl)acetaldehyde + ammonium
+NN-DIMETHYLFORMAMIDASE-RXN	EC 3.5.1.56	23.372875	N,N-Dimethylformamide + H2O  =  dimethylamine + formate
+4.1.1.51-RXN	EC 4.1.1.51	1.1482315	3-hydroxy-2-methylpyridine-4,5-dicarboxylate + H+  ->  CO2 + 3-hydroxy-2-methylpyridine-5-carboxylate
+R212-RXN	EC 4.2.1.114	1.4730225	dihomocitrate  ->  cis-(homo)2aconitate + H2O
+RXN0-5304	EC 5.4.99.62	-1.5600052	beta-D-ribopyranose  <-->  beta-D-ribofuranose
+RXN-15220	RXN-15220	-0.5200043	aldehydo-D-abequose  ->  alpha-D-abequopyranose
+RXN-13119	EC 2.6.1.101	7.181755	L-glutamine + 3-amino-2,3-dideoxy-scyllo-inosose  <-->  2-oxoglutaramate + 2-deoxystreptamine
+RXN-17617	EC 3.3.2.10	-5.433001	1,2-epoxypropane + H2O  ->  propane-1,2-diol
+4.1.2.20-RXN	EC 4.1.2.20	1.164093	(2S,3S)-2,3-dihydroxy-5-oxohexanedioate  =  pyruvate + tartronate semialdehyde
+THEANINE-HYDROLASE-RXN	EC 3.5.1.65	-1.0871258	gamma-glutamyl-ethylamide + H2O  =  L-glutamate + ethylamine
+IMIDHYD-RXN	EC 1.17.3.-	-30.083008	4-imidazolone-5-propanoate + oxygen + H2O  ->  hydantoin-5-propanoate + hydrogen peroxide
+RXN-19419	EC 3.5.1.-	-3.8471308	acetaminophen + H2O  ->  4-aminophenol + acetate + H+
+RXN-16918	EC 2.6.1.-	-4.5269947	L-serine + ammonium  ->  L-2,3-diaminopropanoate + H2O
+PHEAMINOTRANS-RXN	EC 2.6.1.57	0.22587585	keto-phenylpyruvate + L-glutamate  <-->  L-phenylalanine + 2-oxoglutarate
+RXN-18526	RXN-18526	0.8041096	4-coumarate + ammonium  ->  beta-tyrosine
+RXN-13484	EC 5.4.3.10	-1.5499992	L-phenylalanine  ->  (3R)-beta-phenylalanine
+RXN-8938	RXN-8938	7.966999	hydroxyatrazine + H+ + H2O  ->  N-ethylammelide + isopropylamine
+UREASE-RXN	EC 3.5.1.5	-5.9629974	urea + 2 H+ + H2O  <-->  2 ammonium + CO2
+4.2.1.111-RXN	EC 4.2.1.111	-17.95697	1,5-anhydro-D-fructose  ->  ascopyrone M + H2O
+RXN-17370	RXN-17370	0.0	(R)-4-deoxygadusol  <-->  (S)-4-deoxygadusol
+CYCLOHEXANE-13-DIONE-HYDROLASE-RXN	EC 3.7.1.10	-16.277119	cyclohexane-1,3-dione + H2O  ->  5-oxohexanoate + H+
+RXN-9818	RXN-9818	-28.525997	cis-indole-2,3-dihydrodiol  ->  indoxyl + H2O
+PHENYLPYRUVATE-TAUTOMERASE-RXN	EC 5.3.2.1	4.95	keto-phenylpyruvate  <-->  enol-phenylpyruvate
+RXN-15948	EC 5.1.1.22	0.0	trans-4-hydroxy-L-proline betaine  <-->  cis-4-hydroxy-D-proline betaine
+5.5.1.2-RXN	EC 5.5.1.2	-3.032364	3-carboxy-cis,cis-muconate + H+  ->  (2-carboxy-2,5-dihydro-5-oxofuran-2-yl)-acetate
+RXN-11050	EC 3.7.1.11	-15.467116	cyclohexane-1,2-dione + H2O  ->  6-oxohexanoate + H+
+RXN-10048	EC 3.1.1.81	-9.9471245	HAI-1 + H2O  ->  N-(3-hydroxybutanoyl)-L-homoserine + H+
+RXN-7744	RXN-7744	-0.053009033	citraconate + H2O  ->  (2R,3S)-3-methylmalate
+RXN0-6451	peroxyureidoacrylate/ureidoacrylate amidohydrolase	-2.3271027	3-ureidoacrylate + H2O  ->  carbamate + aminoacrylate + H+
+RXN-4821	EC 3.5.99.-	29.685226	(S)-2,3,4,5-tetrahydrodipicolinate + H+ + H2O  <-->  L-alpha-amino-epsilon-keto-pimelate
+RXN-19035	RXN-19035	-8.516996	1,1-ethanediol  ->  acetaldehyde + H2O
+RXN0-984	EC 1.14.11.33	-111.85	N1-methyladenine + 2-oxoglutarate + oxygen  ->  adenine + CO2 + formaldehyde + succinate
+RXN-16458	EC 4.2.1.158	-8.166977	D-galactarate  =  (2S,3R)-2,3-dihydroxy-5-oxohexanedioate + H2O
+RXN-8818	EC 1.13.11.74	-73.514114	2-aminophenol + oxygen  ->  (2Z,4E)-2-amino-6-oxohexa-2,4-dienoate + H+
+RXN-14985	EC 4.1.1.-	-1.2558823	2-oxovalerate + H+  ->  butan-1-al + CO2
+RXN-14811	RXN-14811	-0.18998718	keto-L-sorbose  <-->  L-sorbopyranose
+RXN-19528	EC 1.13.12.M3	-124.01001	dihydrotoxoflavin + oxygen  ->  1-[(6E)-5-hydroxy-1-methyl-1,6-dihydro-1,2,4-triazin-6-ylidene]-3-methylurea + CO2
+RXN0-6563	EC 4.1.2.-	1.6900024	4-hydroxy-L-threonine  <-->  glycolaldehyde + glycine
+2.5.1.51-RXN	EC 2.5.1.51	-3.5541153	O-acetyl-L-serine + pyrazole  ->  3-(pyrazol-1-yl)-L-alanine + acetate + H+
+RXN-6902	EC 2.6.1.96	-1.5399933	4-aminobutanoate + pyruvate  <-->  succinate semialdehyde + L-alanine
+RXN-14189	EC 1.11.1.6	-70.65401	methanol + hydrogen peroxide  ->  formaldehyde + 2 H2O
+ALLANTOICASE-RXN	EC 3.5.3.4	11.177002	allantoate + H2O  ->  (S)-ureidoglycolate + urea
+RXN-12515	EC 3.5.3.24	-3.572998	N1-(3-aminopropyl)agmatine + H2O  ->  spermidine + urea
+RXN-12208	RXN-12208	0.0	D-ononitol  ->  D-pinitol
+2.6.1.32-RXN	EC 2.6.1.32	1.9000092	(S)-3-methyl-2-oxopentanoate + L-valine  <-->  L-isoleucine + 3-methyl-2-oxobutanoate
+RXN0-2943	RXN0-2943	-98.7606	2,3-dihydroxybenzoate[periplasm] + oxygen[periplasm]  ->  2-carboxymuconate[periplasm] + 2 H+[periplasm]
+ACETOLACTSYN-RXN	EC 2.2.1.6	-9.48587	2 pyruvate + H+  ->  (S)-2-acetolactate + CO2
+RXN-18801	EC 2.5.1.M12	-1.1741142	serinol + O-acetyl-L-homoserine  ->  dihydrorhizobitoxine + acetate + H+
+RXN-16303	EC 3.3.2.14	-1.33712	2,4-dinitroanisole + H2O  ->  2,4-dinitrophenol + methanol + H+
+RXN-11736	EC 4.1.1.91	-2.0258827	salicylate + H+  ->  phenol + CO2
+RXN-14848	RXN-14848	2.319992	D-idopyranose  <-->  aldehydo-D-idose
+RXN-10856	EC 5.1.99.8	0.0	7,8-dihydroneopterin  <-->  7,8-dihydromonapterin
+RXN-15019	RXN-15019	-393.0542	3-amino-2-butanol + H2O + oxygen  ->  4 CO2 + ammonium
+RHAMNISOM-RXN	EC 5.3.1.14	0.859993	beta-L-rhamnopyranose  <-->  keto-L-rhamnulose
+RXN-10124	EC 5.5.1.-	22.654121	cis-dienelactone + fluoride + H+  =  (+)-5-fluoromuconolactone
+2.6.1.65-RXN	EC 2.6.1.65	-1.1358948	N6-acetyl-beta-lysine + 2-oxoglutarate  <-->  L-glutamate + 3-oxo-6-acetamidohexanoate
+ACETYLPYRUVATE-HYDROLASE-RXN	EC 3.7.1.6	-15.1671295	acetylpyruvate + H2O  ->  pyruvate + acetate + H+
+RXN-15852	RXN-15852	10.716995	furan-2,5-dicarbaldehyde + H2O  ->  5-(dihydroxymethyl)furan-2-carbaldehyde
+PROPANEDIOL-DEHYDRATASE-RXN	EC 4.2.1.28	-9.167007	(S)-propane-1,2-diol  ->  1-propanal + H2O
+2-AMINOHEXANOATE-AMINOTRANSFERASE-RXN	EC 2.6.1.67	1.3241119	2-oxoglutarate + L-norleucine  <-->  L-glutamate + 2-oxohexanoate
+TYROSINE-DECARBOXYLASE-RXN	EC 4.1.1.25	-5.0200043	L-tyrosine + H+  ->  CO2 + tyramine
+RXN-12074	EC 4.1.3.17	3.374115	(R)-4-hydroxy-4-methyl-2-oxoglutarate  =  2 pyruvate
+RIBOSE-ISOMERASE-RXN	EC 5.3.1.20	-1.46	aldehydo-D-ribose  =  D-ribulose
+RXN-8094	EC 1.2.3.1	-42.087116	1-heptanal + oxygen + H2O  ->  heptanoate + hydrogen peroxide + H+
+RXN-15905	RXN-15905	0.2400055	D-glucaro-1,5-lactone  ->  D-glucaro-1,4-lactone
+RXN-19274	EC 4.1.1.108	-38.512997	L-tyrosine + oxygen + H2O  ->  (4-hydroxyphenyl)acetaldehyde + CO2 + ammonia + hydrogen peroxide
+RXN-13114	3-methylurate synthase	-61.62	3-methylxanthine  ->  3-methylurate
+RXN-14882	RXN-14882	-2.0800095	aldehydo-D-ribose  <-->  D-ribofuranose
+RXN-3521	<small>L</small>-ascorbic acid-specific peroxidase	-78.46576	2 L-ascorbate + hydrogen peroxide + 2 H+  ->  2 monodehydroascorbate radical + 2 H2O
+3.5.1.66-RXN	EC 3.5.1.66	-12.741913	2-(hydroxymethyl)-3-(acetamidomethylene)succinate + 2 H2O + H+  ->  2-hydroxymethyl-4-oxobutanoate + acetate + CO2 + ammonium
+RXN-14106	EC 5.4.99.3	2.46	(S)-2-aceto-2-hydroxybutanoate  =  (R)-3-hydroxy-3-methyl-2-oxopentanoate
+RXN-8930	EC 3.5.1.84	-5.33712	biuret + H2O  ->  urea-1-carboxylate + ammonium
+RXN-13135	EC 3.5.99.-	3.7169952	(2Z,4Z)-2-amino-5-formylhexa-2,4-dienedioate + H+ + H2O  ->  (2Z,4Z)-2-hydroxy-5-carboxymuconate-6-semialdehyde + ammonium
+RXN-10910	EC 1.4.3.4	-23.962997	normetanephrine + H2O + oxygen  ->  3-methoxy-4-hydroxyphenylglycolaldehyde + ammonium + hydrogen peroxide
+RXN-15576	EC 3.5.99.-	12.062881	3,6-dihydroxypyridine-2,5-dione + H2O  ->  5-amino-2,4,5-trioxopentanoate + H+
+RXN-10016	RXN-10016	-3.87	autoinducer 2  ->  (2S,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one
+RXN-8173	RXN-8173	-13.121107	(S)-2-amino-6-oxohexanoate  <-->  1-piperideine 6-carboxylate + H2O + H+
+RXN-646	EC 3.5.1.107	-6.671257	maleamate + H2O  ->  maleate + ammonium
+PHENYLALANINE-DECARBOXYLASE-RXN	EC 4.1.1.53	-4.640003	L-phenylalanine + H+  ->  2-phenylethylamine + CO2
+H2NEOPTERINALDOL-RXN	EC 4.1.2.25	2.56	7,8-dihydroneopterin  ->  glycolaldehyde + 6-(hydroxymethyl)-7,8-dihydropterin
+RXN-8949	EC 1.14.20.3	-129.37704	(3S,5S)-carbapenam-3-carboxylate + 2-oxoglutarate + oxygen  ->  (5R)-carbapen-2-em-3-carboxylate + succinate + CO2 + H2O
+RXN-13154	EC 1.13.11.-	-73.53413	3-propylcatechol + oxygen  ->  2-hydroxy-6-oxo-nona-2,4-dienoate + H+
+RXN-10760	EC 3.5.1.100	-4.7130127	beta-alaninamide + H2O  ->  beta-alanine + ammonium
+RXN-9141	EC 5.1.3.33	0.0	2-epi-5-epi-valiolone  ->  5-epi-valiolone
+RXN-10043	EC 3.5.1.97	-1.8571157	PAI-1-2 + H2O  =  L-homoserine lactone + butanoate
+ALANINE-AMINOTRANSFERASE-RXN	EC 2.6.1.2	1.8641052	2-oxoglutarate + L-alanine  <-->  L-glutamate + pyruvate
+RXN-17556	RXN-17556	-97.512344	hydroxyquinol + oxygen  ->  3-hydroxy-cis,cis-muconate + 2 H+
+RXN-14504	RXN-14504	-0.5200043	aldehydo-L-xylose  ->  L-xylopyranose
+RXN-12860	RXN-12860	45.9267	3-propylidene-Delta 1-pyrroline-5-carboxylate  ->  4-propyl-L-proline
+STYRENE-OXIDE-ISOMERASE-RXN	EC 5.3.99.7	-14.600006	styrene oxide  =  phenylacetaldehyde
+GLUTAMIN-RXN	EC 3.5.1.2/3.5.1.38	-0.82712555	L-glutamine + H2O  ->  L-glutamate + ammonium
+DIMETHYLARGININASE-RXN	EC 3.5.3.18	15.226997	N6,N6-dimethyl-L-arginine + H2O  ->  dimethylamine + L-citrulline
+RXN-14166	EC 5.2.-.-	0.0	(E)-2,4-dihydroxycinnamate  ->  (Z)-2,4-dihydroxycinnamate
+R-2-METHYLMALATE-DEHYDRATASE-RXN	EC 4.2.1.35	1.4730072	(R)-citramalate  <-->  citraconate + H2O
+RXN-8990	EC 4.1.1.109	-28.602993	L-phenylalanine + H+ + oxygen + H2O  ->  phenylacetaldehyde + ammonium + hydrogen peroxide + CO2
+RXN-10815	EC 1.13.11.27	-109.71999	keto-phenylpyruvate + oxygen  ->  (2-hydroxyphenyl)acetate + CO2
+RXN-15456	EC 4.1.1.-	12.074127	3,6,8-trimethyl-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline + H+  ->  S-(+)-3,6,8-trimethylallantoin + CO2
+RXN-9175	EC 2.6.1.-	0.54000854	beta-methylenecyclopropyl pyruvate + L-alanine  <-->  hypoglycin A + pyruvate
+RXN-8529	EC 5.3.2.6	-7.41	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate  <-->  (3E)-2-oxohex-3-enedioate
+RXN-802	EC 4.1.1.102	-3.3858764	4-coumarate + H+  ->  4-vinylphenol + CO2
+RXN-2463	EC 4.2.1.83	6.423004	2-hydroxy-4-oxobutane-1,2,4-tricarboxylate  <-->  (1E,3E)-4-hydroxybuta-1,3-diene-1,2,4-tricarboxylate + H2O
+RXN-17574	RXN-17574	19.714941	N-nitrosodimethylamine + H2O  =  formaldehyde + methylamine + nitric oxide
+D-ASPARTATE-OXIDASE-RXN	EC 1.4.3.1/1.4.3.15	-23.29126	D-aspartate + oxygen + H2O  ->  ammonium + hydrogen peroxide + oxaloacetate
+RXN-14693	RXN-14693	2.3200073	D-glucopyranuronate  <-->  aldehydo-D-glucuronate
+RXN-19374	EC 2.6.1.-	0.32409668	2-hydroxy-4-aminobutanoate + 2-oxoglutarate  <-->  2-hydroxy-4-oxobutanoate + L-glutamate
+RXN-1744	RXN-1744	-59.232117	6 glycolate + H+  ->  acetate + 2 succinate + 2 CO2 + 4 H2O
+RXN-15187	EC 3.5.1.-	-1.1171308	2-formylaminobenzaldehyde + H2O  ->  O-aminobenzaldehyde + formate + H+
+4-METHYLOXALOACETATE-ESTERASE-RXN	EC 3.1.1.44	0.7587433	oxaloacetate 4-methyl ester + H2O  ->  methanol + oxaloacetate + H+
+RXN-14203	EC 1.4.3.-	-25.512989	pyridoxamine + oxygen + H2O  ->  pyridoxal + ammonium + hydrogen peroxide
+RXN-7643	EC 4.1.1.72	-3.4658737	3-methyl-2-oxobutanoate + H+  ->  isobutanal + CO2
+RXN-11730	EC 3.5.99.8	3.7170029	5-nitroanthranilate + H+ + H2O  ->  5-nitrosalicylate + ammonium
+1.97.1.2-RXN	EC 1.97.1.2	0.0	1,2,3,5-tetrahydroxybenzene + pyrogallol  ->  1,2,3,5-tetrahydroxybenzene + phloroglucinol
+RXN-17609	EC 4.2.1.84	-6.527006	2-hydroxy-2-methylpropanenitrile + H2O  ->  2-hydroxyisobutyramide
+4.1.1.78-RXN	EC 4.1.1.78	-54.69478	acetylenedicarboxylate + H+ + H2O  =  CO2 + pyruvate
+RXN-14726	EC 4.2.1.84	-6.527012	n-butyronitrile + H2O  ->  butyramide
+RXN-11748	EC 1.13.11.-	-73.48824	salicylate + oxygen  ->  2-oxohepta--3,5-dienedioate + H+
+2-ACETOLACTATE-MUTASE-RXN	EC 5.4.99.3	2.46	(S)-2-acetolactate  =  3-hydroxy-3-methyl-2-oxobutanoate
+RXN-11455	EC 3.5.4.32	38.856003	7,8-dihydro-8-oxoguanine + H+ + H2O  =  urate + ammonium
+RXN-15710	EC 5.4.99.62	0.23999786	beta-D-allopyranose  =  beta-D-allofuranose
+RXN-8089	EC 1.2.3.9	-42.087124	cinnamaldehyde + oxygen + H2O  ->  trans-cinnamate + hydrogen peroxide + H+
+RXN-17626	RXN-17626	-6.706993	1,1-dihydroxypropan-2-one  ->  methylglyoxal + H2O
+RXN-12240	RXN-12240	-18.487	(Z)-[(4-hydroxyphenyl)acetaldehyde oxime]  ->  (4-hydroxyphenyl)acetonitrile + H2O
+4.1.3.17-RXN	EC 4.1.3.17	3.374115	2 pyruvate  ->  4-hydroxy-4-methyl-2-oxoglutarate
+1.1.3.38-RXN	EC 1.1.3.38	-27.990005	vanillyl alcohol + oxygen  ->  vanillin + hydrogen peroxide
+RXN-14244	EC 1.14.11.56	-111.42	L-proline + 2-oxoglutarate + oxygen  ->  cis-4-hydroxy-L-proline + succinate + CO2
+RXN-11767	EC 4.3.1.27	-6.0182495	(3R)-3-hydroxy-D-aspartate  =  oxaloacetate + ammonium
+RXN-5	RXN-5	-37.97318	uracil  ->  2-hydroxy-4-carboxypyrimidine
+RXN-10889	3-methylgallate 3,4-dioxygenase	-96.97823	3-O-methylgallate + oxygen  ->  4-carboxy-2-hydroxy-6-methoxy-6-oxohexa-2,4-dienoate + H+
+3.5.1.29-RXN	EC 3.5.1.29	-12.741882	E-2-(acetamidomethylene)succinate + 2 H2O + H+  ->  succinate semialdehyde + acetate + CO2 + ammonium
+RXN-18851	EC 1.14.18.1	-105.69399	2 hydroquinone + oxygen  ->  2 1,4-benzoquinone + 2 H2O
+RXN-11784	EC 1.4.3.13	-23.33889	cadaverine + H2O + oxygen  ->  5-aminopentanal + ammonium + hydrogen peroxide
+R312-RXN	EC 4.2.1.-	-13.1970005	E-pyridine-3-aldoxime  ->  3-cyanopyridine + H2O
+CARBOXYMETHYLOXYSUCCINATE-LYASE-RXN	EC 4.2.99.12	-5.1717987	carboxymethyloxysuccinate  =  fumarate + glycolate
+RXN-18396	EC 3.5.1.125	-2.6071243	(2S)-2-acetamido-4-aminobutanoate + H2O  ->  L-2,4-diaminobutanoate + acetate
+RXN-15571	RXN-15571	-0.26111603	2-amino-2-deoxy-D-gluconate  ->  (2Z,4S,5R)-2-amino-4,5,6-trihydroxyhex-2-enoate + H2O + H+
+RXN-8167	2-oxoadipate decarboxylase	-30.175247	2-oxoadipate + H2O  ->  glutarate + CO2
+1.13.11.9-RXN	EC 1.13.11.9	-85.18412	2,5-dihydroxypyridine + oxygen  ->  N-formylmaleamate + H+
+KDGALDOL-RXN	EC 4.1.2.20	1.164093	5-dehydro-4-deoxy-D-glucarate  <-->  pyruvate + tartronate semialdehyde
+PYRANOSE-OXIDASE-RXN	EC 1.1.3.10	-29.36	D-glucopyranose + oxygen  ->  2-dehydro-D-glucopyranose + hydrogen peroxide
+ARGININE-2-MONOOXYGENASE-RXN	EC 1.13.12.1	-109.256996	L-arginine + oxygen  ->  4-guanidinobutyramide + CO2 + H2O
+RXN-11369	RXN-11369	-7.6293945e-6	leucodopachrome + dopaquinone  ->  L-dopachrome + L-dopa
+CATECHOL-12-DIOXYGENASE-RXN	EC 1.13.11.1	-98.39235	catechol + oxygen  ->  cis,cis-muconate + 2 H+
+4.3.1.20-RXN	EC 4.3.1.20	-6.0182495	(3R)-3-hydroxy-L-aspartate  ->  oxaloacetate + ammonium
+RXN-12487	EC 1.4.3.2	-25.517124	L-tyrosine + H2O + oxygen  ->  4-hydroxyphenylpyruvate + ammonium + hydrogen peroxide
+KETOPANTOALDOLASE-RXN	EC 4.1.2.12	6.6399994	2-dehydropantoate  =  formaldehyde + 3-methyl-2-oxobutanoate
+R503-RXN	EC 3.7.1.-	-11.527115	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione + H2O  ->  5-dehydro-2-deoxy-D-gluconate + H+
+PYROXALTRANSAM-RXN	EC 2.6.1.31	-3.5717468	pyridoxamine + oxaloacetate  <-->  pyridoxal + L-aspartate
+RXN-16807	EC 1.13.11.-	-72.634125	caffealdehyde + oxygen  ->  (2E,4Z,5E)-2-hydroxy-7-oxo-(2-oxoethylidene)hepta-2,5-dienoate + H+
+FORMIMINOGLUTAMASE-RXN	EC 3.5.3.8	7.177002	N-formimino-L-glutamate + H2O  ->  L-glutamate + formamide
+RXN-18433	EC 1.1.99.40	-1.6199646	(R)-2-hydroxyglutarate + oxaloacetate  =  2-oxoglutarate + (R)-malate
+N-FORMYLGLUTAMATE-DEFORMYLASE-RXN	EC 3.5.1.68	1.371109	N-formyl-L-glutamate + H2O  ->  L-glutamate + formate
+RXN-8826	RXN-8826	-72.65412	3-methyl-4-nitrocatechol + oxygen  ->  2-hydroxy-5-nitro-6-oxohepta-2,4-dienoate + H+
+RXN-12855	RXN-12855	1.6082535	(4Z)-4-[(2E)-3-carboxylato-3-hydroxyprop-2-en-1-ylidene]-3,4-dihydro-2H-pyrrole-2-carboxylate + H+  ->  4-[(1Z)-3-carboxylato-3-oxoprop-1-en-1-yl]-2,3-dihydro-1H-pyrrole-2-carboxylate
+TRIACETATE-LACTONASE-RXN	EC 3.1.1.38	29.646988	triacetate lactone + H2O  ->  triacetate
+HISTIDINE-DECARBOXYLASE-RXN	EC 4.1.1.22	-3.0899963	L-histidine + H+  ->  CO2 + histamine
+RXN-7587	RXN-7587	7.6569977	4-imidazolone-5-propanoate + H2O  ->  formyl-L-isoglutamine
+RXN0-6708	RXN0-6708	8.627001	isoguanine + H+ + H2O  ->  xanthine + ammonium
+FUCISOM-RXN	EC 5.3.1.25	0.859993	alpha-L-fucopyranose  <-->  L-fuculose
+RXN-11403	RXN-11403	-18.504887	L-dopachrome + H+  ->  5,6-dihydroxyindole + CO2
+2.1.1.21-RXN	EC 2.1.1.21	-19.349993	methylamine + L-glutamate  =  N-methyl-L-glutamate + ammonium
+RXN-9170	RXN-9170	45.87224	2-oxopenta-3,4-dienoate  ->  2-oxohexa-4,5-cyclopropyl-5-enoate
+ACETOACETATE-DECARBOXYLASE-RXN	EC 4.1.1.4	-2.2758713	acetoacetate + H+  ->  acetone + CO2
+RXN-8845	EC 3.5.99.11	1.2287521	(2Z,4E)-2-aminomuconate + H2O  =  (2Z,4E)-2-hydroxyhexa-2,4-dienedioate + ammonium
+RXN-15127	EC 3.5.99.10	20.972878	2-iminopropanoate + H2O  ->  pyruvate + ammonium
+RXN-12873	RXN-12873	-11.361282	cyclic- 3,4-O-oxalyl-L-threonate + H2O  ->  4-O-oxalyl-L-threonate + H+
+RXN-17165	EC 5.3.2.-	-4.918236	2,4-dihydroxy-5-methyl-6-oxohexa-2,4-dienoate  ->  4-hydroxy-2-keto-5-methyl-6-oxo-3-hexenoate + H+
+R122-RXN	EC 3.5.4.43	7.966999	hydroxyatrazine + H+ + H2O  ->  N-isopropylammelide + ethylamine
+OXALOACETASE-RXN	EC 3.7.1.1	-13.237091	oxaloacetate + H2O  ->  oxalate + acetate + H+
+ACETYLCHOLINESTERASE-RXN	EC 3.1.1.7	-4.2871246	acetylcholine + H2O  ->  acetate + choline + H+
+RXN-16311	EC 5.3.99.-	1.8399963	O-[5-(hydroxynitroso)-3-(oxidonitroso)-2-oxocyclohexylidenenitroso]oxidanidolate  <-->  O-[5-nitro-3-(oxidonitroso)-2-oxocyclohexylidenenitroso]oxidanidolate
+RXN-13599	EC 5.1.2.-	0.0	(S)-4-hydroxymandelonitrile  =  (R)-4-hydroxymandelonitrile
+DOPAMINE-BETA-MONOOXYGENASE-RXN	EC 1.14.17.1	-67.922905	dopamine + L-ascorbate + oxygen + H+  ->  (R)-noradrenaline + L-dehydro-ascorbate + H2O
+RXN66-105	RXN66-105	-63.294292	4-oxo-4-(3-pyridyl)-butanamide  ->  4-oxo-4-(3-pyridyl)-butanoate
+1.14.16.3-RXN	EC 1.14.16.3	-99.987	anthranilate + (6R)-L-erythro-5,6,7,8-tetrahydrobiopterin + oxygen  ->  3-hydroxyanthranilate + L-erythro-7,8-dihydrobiopterin + H2O
+GALLATE-DIOXYGENASE-RXN	EC 1.13.11.57	-102.8306	gallate + oxygen  ->  (1E)-4-oxobut-1-ene-1,2,4-tricarboxylate + 2 H+
+RXN-19386	EC 3.1.1.M7	-4.2871137	isobutyl acetate + H2O  ->  isobutanol + acetate + H+
+RXN-14365	EC 5.1.3.30/5.1.3.31	0.54000854	keto-D-psicose  <-->  keto-D-fructose
+PANTOTHENASE-RXN	EC 3.5.1.22	-0.4630127	(R)-pantothenate + H2O  =  (R)-pantoate + beta-alanine
+ACONITATE-DELTA-ISOMERASE-RXN	EC 5.3.3.7	3.0800018	trans-aconitate  <-->  cis-aconitate
+4.1.1.72-RXN	EC 4.1.1.72	-3.465889	(S)-3-methyl-2-oxopentanoate + H+  ->  2-methylbutanal + CO2
+RXN-17331	RXN-17331	-11.807129	S-(+)-3,6,8-trimethylallantoin + H2O  ->  1,6,8-trimethylallantoate + H+
+RXN-12089	EC 1.5.3.17	-22.204742	spermidine + oxygen + H2O  ->  putrescine + 3-aminopropanal + hydrogen peroxide
+HYDROXYPYRUVATE-DECARBOXYLASE-RXN	EC 4.1.1.40	-3.4658737	hydroxypyruvate + H+  =  CO2 + glycolaldehyde
+1.2.3.13-RXN	EC 1.2.3.13	-136.55998	2 4-hydroxyphenylpyruvate + oxygen  ->  2 (4-hydroxyphenyl)acetate + 2 CO2
+RXN-13640	EC 1.13.11.-	-109.70001	4-methyl-2-oxopentanoate + oxygen  ->  3-hydroxy-3-methylbutanoate + CO2
+RXN-15223	RXN-15223	-0.5200043	aldehydo-D-tyvelose  ->  alpha-D-tyvelopyranose
+RXN-7927	EC 4.1.1.24	0.5241165	anthranilate + H+  =  aniline + CO2
+RXN-12108	RXN-12108	16.817017	L-ascorbate + H2O  <-->  2-keto-L-gulonate
+CREATININASE-RXN	EC 3.5.2.10	1.6469994	creatinine + H2O  <-->  creatine
+GLUCARDEHYDRA-RXN	EC 4.2.1.40	-8.166992	D-glucarate  ->  5-dehydro-4-deoxy-D-glucarate + H2O
+RXN-14409	RXN-14409	-2.319992	aldehydo-D-galactose  <-->  D-galactopyranose
+RXN-9979	RXN-9979	-3.4658813	3,4-dihydroxyphenylpyruvate + H+  ->  3,4-dihydroxyphenylacetaldehyde + CO2
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	EC 2.6.1.42	-1.3458862	L-isoleucine + 2-oxoglutarate  <-->  L-glutamate + (S)-3-methyl-2-oxopentanoate
+UREIDOSUCCINASE-RXN	EC 3.5.1.7	2.6352234	N-carbamoyl-L-aspartate + 2 H+ + H2O  =  ammonium + CO2 + L-aspartate
+LTAA-RXN	EC 4.1.2.48/4.1.2.49	2.3399963	L-allo-threonine  ->  glycine + acetaldehyde
+RXN-12132	RXN-12132	-0.07	3,5-didehydroshikimate  ->  gallate
+RXN-16945	EC 1.13.11.4	-78.22823	3-methylgentisate + oxygen  ->  (2E)-2-methyl-4,6-dioxohept-2-enedioate + H+
+RXN-5081	RXN-5081	-18.487001	(Z)-2-methylpropanal-oxime  ->  2-methylpropanenitrile + H2O
+RXN-16420	EC 1.12.99.6	-125.714	2 H2 + oxygen  ->  2 H2O
+RXN-11219	EC 1.13.11.2	-72.63413	4-methylcatechol + oxygen  ->  (2Z,4E)-2-hydroxy-5-methyl-6-oxohexa-2,4-dienoate + H+
+6-ACETYLGLUCOSE-DEACETYLASE-RXN	EC 3.1.1.33	-4.2871094	6-acetyl-D-glucose + H2O  ->  acetate + D-glucopyranose + H+
+RXN-15260	RXN-15260	14.985523	(6R)-6-pyruvoyl-5,6,7,8-tetrahydropterin  ->  7,8-dihydropterin
+RXN-8784	RXN-8784	-19.24414	L-xylo-hex-3-ulono-1,4-lactone  ->  L-ascorbate + H+
+RXN-8332	EC 1.10.3.1	-97.67399	2 cis-caffeate + oxygen  ->  2 (2Z)-3-(3,4-dioxocyclohexa-1,5-dien-1-yl)prop-2-enoate + 2 H2O
+R362-RXN	EC 1.1.3.-	-27.989998	4-nitrobenzyl alcohol + oxygen  ->  4-nitrobenzaldehyde + hydrogen peroxide
+RXN-13990	EC 4.1.3.42	2.6641083	(4S)-4-hydroxy-2-oxoglutarate  <-->  glyoxylate + pyruvate
+RXN-8977	2-methylaconitate isomerase	0.0	2-methyl-trans-aconitate  ->  cis-2-methylaconitate
+RXN-13200	RXN-13200	8.074135	N-(carboxyaminomethyl)urea + 2 H+  ->  N-(aminomethyl)urea + CO2
+R467-RXN	EC 3.5.99.-	7.9669876	N-ethylammelide + H+ + H2O  =  cyanurate + ethylamine
+O-PYROCATECHUATE-DECARBOXYLASE-RXN	EC 4.1.1.46	0.5241089	2,3-dihydroxybenzoate + H+  =  CO2 + catechol
+RXN-15999	RXN-15999	-26.04002	3,6-anhydro-alpha-L-galactopyranose  <-->  3,6-anhydro-L-galactofuranose
