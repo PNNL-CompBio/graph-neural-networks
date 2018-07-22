@@ -324,6 +324,32 @@ def validate(val_loader, model, criterion, evaluation, logger=None):
 
     return error_ratio.avg
 
+
+def predict(val_loader, model, evaluation, logger=None):
+    batch_time = AverageMeter()
+    output = []
+    # switch to evaluate mode
+    model.eval()
+
+    end = time.time()
+    for i, (g, h, e) in enumerate(val_loader):
+
+        # Prepare input data
+        if args.cuda:
+            g, h, e = g.cuda(), h.cuda(), e.cuda()
+        g, h, e = Variable(g), Variable(h), Variable(e)
+
+        # Compute output
+        output.append( model(g, h, e) )
+
+
+
+        # measure elapsed time
+        batch_time.update(time.time() - end)
+        end = time.time()
+
+    return output
+
     
 if __name__ == '__main__':
     main(args)
