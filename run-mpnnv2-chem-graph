@@ -12,4 +12,4 @@ module load cuda
 pyenv local anaconda3-2.5.0 
 mkdir -p /scratch/zuck016
 python3 download_data.py qm9 -p /scratch/zuck016/mpnn-data/
-python main_chem_graph.py --datasetPath /scratch/zuck016/mpnn-data/qm9/dsgdb9nsd/ --epochs 50 --model MPNNv2
+python main.py --edge-rep chem_graph --datasetPath /scratch/zuck016/mpnn-data/qm9/dsgdb9nsd/ --epochs 50 --model MPNNv2
