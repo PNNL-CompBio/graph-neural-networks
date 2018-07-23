@@ -41,6 +41,7 @@ def restricted_float(x, inter):
 parser = argparse.ArgumentParser(description='Neural message passing')
 
 parser.add_argument('--dataset', default='qm9', help='QM9')
+parser.add_argument('--edge-rep', default='raw_distance', choices=['raw_distance','chem_graph','distance_bin'] )
 parser.add_argument('--datasetPath', default='./data/qm9/dsgdb9nsd/', help='dataset path')
 parser.add_argument('--logPath', default='./log/qm9/mpnn/', help='log path')
 parser.add_argument('--plotLr', default=False, help='allow plotting the data')
@@ -87,18 +88,23 @@ def main(args):
     root = args.datasetPath
 
     print('Prepare files')
-    files = [f for f in os.listdir(root) if os.path.isfile(os.path.join(root, f))]
+    qm9_metacyc = pd.read_table('Dataset/Qm9_metacyc.tab')
+
+    files = [f for f in os.listdir(root) if os.path.isfile(os.path.join(root, f)) and './' + os.path.basename(f) in set(qm9_metacyc['cpd'].values)]]
 
     idx = np.random.permutation(len(files))
     idx = idx.tolist()
 
-    valid_ids = [files[i] for i in idx[0:10000]]
-    test_ids = [files[i] for i in idx[10000:20000]]
-    train_ids = [files[i] for i in idx[20000:]]
+    valid_ids = [files[i] for i in idx[0:100]]
+    test_ids = [files[i] for i in idx[100:200]]
+    train_ids = [files[i] for i in idx[200:]]
+    #valid_ids = [files[i] for i in idx[0:10000]]
+    #test_ids = [files[i] for i in idx[10000:20000]]
+    #train_ids = [files[i] for i in idx[20000:]]
 
-    data_train = utils.Qm9(root, train_ids, edge_transform=datasets.qm9_edges, e_representation='chem_graph')
-    data_valid = utils.Qm9(root, valid_ids, edge_transform=datasets.qm9_edges, e_representation='chem_graph')
-    data_test = utils.Qm9(root, test_ids, edge_transform=datasets.qm9_edges, e_representation='chem_graph')
+    data_train = utils.Qm9(root, train_ids, edge_transform=datasets.qm9_edges, e_representation=args.edge_rep)
+    data_valid = utils.Qm9(root, valid_ids, edge_transform=datasets.qm9_edges, e_representation=args.edge_rep)
+    data_test = utils.Qm9(root, test_ids, edge_transform=datasets.qm9_edges, e_representation=args.edge_rep)
 
     # Define model and optimizer
     print('Define model')
@@ -322,6 +328,32 @@ def validate(val_loader, model, criterion, evaluation, logger=None):
         logger.log_value('test_epoch_error_ratio', error_ratio.avg)
 
     return error_ratio.avg
+
+
+def predict(val_loader, model, evaluation, logger=None):
+    batch_time = AverageMeter()
+    output = []
+    # switch to evaluate mode
+    model.eval()
+
+    end = time.time()
+    for i, (g, h, e) in enumerate(val_loader):
+
+        # Prepare input data
+        if args.cuda:
+            g, h, e = g.cuda(), h.cuda(), e.cuda()
+        g, h, e = Variable(g), Variable(h), Variable(e)
+
+        # Compute output
+        output.append( model(g, h, e) )
+
+
+
+        # measure elapsed time
+        batch_time.update(time.time() - end)
+        end = time.time()
+
+    return output
 
     
 if __name__ == '__main__':

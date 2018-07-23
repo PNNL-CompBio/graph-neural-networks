@@ -108,12 +108,13 @@ def get_values(obj, start, end, prop):
     return vals
 
 
-def get_graph_stats(graph_obj_handle, prop='degrees'):
-    # if prop == 'degrees':
-    num_cores = multiprocessing.cpu_count()
-    inputs = [int(i*len(graph_obj_handle)/num_cores) for i in range(num_cores)] + [len(graph_obj_handle)]
-    res = Parallel(n_jobs=num_cores)(delayed(get_values)(graph_obj_handle, inputs[i], inputs[i+1], prop) for i in range(num_cores))
-
+def get_graph_stats(graph_obj_handle, prop='degrees',multiprocess_p=True):
+    if multiprocess_p:
+        num_cores = multiprocessing.cpu_count()
+        inputs = [int(i*len(graph_obj_handle)/num_cores) for i in range(num_cores)] + [len(graph_obj_handle)]
+        res = Parallel(n_jobs=num_cores)(delayed(get_values)(graph_obj_handle, inputs[i], inputs[i+1], prop) for i in range(num_cores))
+    else:
+        res = get_values(graph_obj_handle, 0, len(graph_obj_handle), prop )
     stat_dict = {}
 
     if 'degrees' in prop:
@@ -121,7 +122,10 @@ def get_graph_stats(graph_obj_handle, prop='degrees'):
     if 'edge_labels' in prop:
         stat_dict['edge_labels'] = list(set([d for core_res in res for file_res in core_res for d in file_res['edge_labels']]))
     if 'target_mean' in prop or 'target_std' in prop:
-        param = np.array([file_res['params'] for core_res in res for file_res in core_res])
+        if multiprocess_p:
+            param = np.array([file_res['params'] for core_res in res for file_res in core_res])
+        else:
+            param = np.array([file_res['params'] for file_res in res])
     if 'target_mean' in prop:
         stat_dict['target_mean'] = np.mean(param, axis=0)
     if 'target_std' in prop:

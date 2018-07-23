@@ -88,14 +88,19 @@ def main(args):
     root = args.datasetPath
 
     print('Prepare files')
-    files = [f for f in os.listdir(root) if os.path.isfile(os.path.join(root, f))]
+    qm9_metacyc = pd.read_table('Dataset/Qm9_metacyc.tab')
+
+    files = [f for f in os.listdir(root) if os.path.isfile(os.path.join(root, f)) and './' + os.path.basename(f) in set(qm9_metacyc['cpd'].values)]]
 
     idx = np.random.permutation(len(files))
     idx = idx.tolist()
 
-    valid_ids = [files[i] for i in idx[0:10000]]
-    test_ids = [files[i] for i in idx[10000:20000]]
-    train_ids = [files[i] for i in idx[20000:]]
+    valid_ids = [files[i] for i in idx[0:100]]
+    test_ids = [files[i] for i in idx[100:200]]
+    train_ids = [files[i] for i in idx[200:]]
+    #valid_ids = [files[i] for i in idx[0:10000]]
+    #test_ids = [files[i] for i in idx[10000:20000]]
+    #train_ids = [files[i] for i in idx[20000:]]
 
     data_train = utils.Qm9(root, train_ids, edge_transform=datasets.qm9_edges, e_representation=args.edge_rep)
     data_valid = utils.Qm9(root, valid_ids, edge_transform=datasets.qm9_edges, e_representation=args.edge_rep)
