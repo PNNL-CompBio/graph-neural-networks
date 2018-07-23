@@ -54,3 +54,26 @@
 			dG
 			eqn))))
 	
+
+(defun qm9-rxn-p (rxn qm9-cpds)
+  (let ((substrates (substrates-of-reaction rxn)))
+    (= (length substrates)
+       (length (intersection substrates
+			     qm9-cpds :test #'fequal)))
+    ))
+
+(defun print-qm9-rxns (filename qm9-cpds)
+  (tofile filename
+	  (format t "FrameId	Name	dG	Equation~%")
+	  (loop for rxn in (all-rxns)
+		for frame-id = (get-frame-name rxn)
+		for name = (get-name-string rxn :rxn-eqn-as-name? nil)
+		for dG = (get-slot-value rxn 'gibbs-0)
+		for eqn = (get-name-string rxn :rxn-eqn-as-name? t :strip-html? t)
+		when (qm9-rxn-p rxn qm9-cpds)
+		do (format t "~A	~A	~A	~A~%"
+			frame-id
+			name
+			dG
+			eqn))))
+  

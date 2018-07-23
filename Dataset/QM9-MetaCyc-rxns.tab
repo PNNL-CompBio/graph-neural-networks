@@ -1,0 +1,22 @@
+FrameId	Name	dG	Equation
+RXN-12947	RXN-12947	-4.91	3-hydroxy-4h-pyrid-4-one  ->  3,4-dihydroxypyridin
+RXN-13561	1,2,4-benzenetriol synthase	-39.48	hydroquinone  ->  hydroxyquinol
+RXN-12765	EC 5.3.99.-	-14.6	(S)-2-phenyloxirane  ->  phenylacetaldehyde
+CREATINASE-RXN	EC 3.5.3.3	-9.0130005	creatine + H2O  ->  urea + sarcosine
+CYANIDE-HYDRATASE-RXN	EC 4.2.1.66	14.583	hydrogen cyanide + H2O  ->  formamide
+GLYCEROL-DEHYDRATASE-RXN	EC 4.2.1.30	-6.4469986	glycerol  ->  3-hydroxypropionaldehyde + H2O
+R313-RXN	EC 4.2.1.84	-4.9769936	3-cyanopyridine + H2O  ->  nicotinamide
+25-DIOXOPIPERAZINE-HYDROLASE-RXN	EC 3.5.2.13	2.4369965	2,5-dioxopiperazine + H2O  =  glycyl-glycine
+R63-RXN	EC 3.5.2.-	-1.7830029	3,5-dihydro-4H-imidazol-4-one + H2O  ->  N-formimino-glycine
+ACETONE-CYANHYDRIN-LYASE-RXN	EC 4.1.2.46	22.620003	2-hydroxy-2-methylpropanenitrile  ->  acetone + hydrogen cyanide
+RXN-12261	RXN-12261	-39.48	benzaldehyde  ->  salicylaldehyde
+RXN-9702	EC 4.1.2.42	2.3399963	D-allothreonine  =  glycine + acetaldehyde
+RXN-12256	RXN-12256	-41.16	benzyl alcohol  ->  salicyl alcohol
+RXN-17589	EC 3.3.2.10	-5.723011	1,2-epoxy-2-methylpropane + H2O  ->  2-methylpropane-1,2-diol
+RXN-14725	EC 4.2.1.84	-6.5269947	propionitrile + H2O  ->  propionamide
+RXN-18157	RXN-18157	23.520004	isocyanurate  <-->  cyanurate
+GUANIDINOACETASE-RXN	EC 3.5.3.2	-4.4430084	guanidinoacetate + H2O  =  urea + glycine
+R141-RXN	EC 4.2.1.112	-101.79301	acetylene + H2O  ->  acetaldehyde
+RXN-17609	EC 4.2.1.84	-6.527006	2-hydroxy-2-methylpropanenitrile + H2O  ->  2-hydroxyisobutyramide
+RXN-14726	EC 4.2.1.84	-6.527012	n-butyronitrile + H2O  ->  butyramide
+CREATININASE-RXN	EC 3.5.2.10	1.6469994	creatinine + H2O  <-->  creatine
