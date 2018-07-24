@@ -76,4 +76,29 @@
 			name
 			dG
 			eqn))))
+
+(defun print-stoichiometry-matrix (filename rxns)
+  (tofile filename
+	  (format t "Rxn	Metabolite	Stoichiometry~%")
+	  (loop for rxn in rxns
+		do (loop for reactant in (get-slot-values rxn 'left)
+			 for stoich = (- (or (get-value-annot rxn 'left reactant 'coefficient)
+					     1))
+			 do (format t "~A	~A	~A~%"
+				    (get-frame-name rxn)
+				    (get-frame-name reactant)
+				    stoich))
+		(loop for product in (get-slot-values rxn 'right)
+		      for stoich = (or (get-value-annot rxn 'right product 'coefficient )
+				       1)
+			 do (format t "~A	~A	~A~%"
+				    (get-frame-name rxn)
+				    (get-frame-name product)
+				    stoich)))))
+
+(defun get-qm9-rxns (rxns qm9-cpds)
+  (loop for rxn in rxns
+	when (and (qm9-rxn-p rxn qm9-cpds)
+		  (fequal :small-molecule (reaction-type rxn)))
+	collect (get-frame-name rxn)))
   
