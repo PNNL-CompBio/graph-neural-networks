@@ -56,7 +56,7 @@ if __name__ == '__main__':
     # Parse optios for downloading
     parser = argparse.ArgumentParser(description='QM9 Object.')
     # Optional argument
-    parser.add_argument('--root', nargs=1, help='Specify the data directory.', default=['../data/qm9/dsgdb9nsd'])
+    parser.add_argument('--root', nargs=1, help='Specify the data directory.', default=['../mpnn-data/qm9/dsgdb9nsd'])
 
     args = parser.parse_args()
     root = args.root[0]
@@ -66,9 +66,9 @@ if __name__ == '__main__':
     idx = np.random.permutation(len(files))
     idx = idx.tolist()
 
-    valid_ids = [files[i] for i in idx[0:10000]]
-    test_ids  = [files[i] for i in idx[10000:20000]]
-    train_ids = [files[i] for i in idx[20000:]]
+    valid_ids = [files[i] for i in idx[0:100]]
+    test_ids  = [files[i] for i in idx[100:200]]
+    train_ids = [files[i] for i in idx[200:]]
 
     data_train = Qm9(root, train_ids, vertex_transform=utils.qm9_nodes, edge_transform=lambda g: utils.qm9_edges(g, e_representation='raw_distance'))
     data_valid = Qm9(root, valid_ids)
