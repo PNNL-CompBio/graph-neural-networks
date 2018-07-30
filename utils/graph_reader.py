@@ -395,7 +395,10 @@ def init_graph(prop):
     
     prop = prop.split()
     g_tag = prop[0]
-    g_index = int(prop[1])
+    try:
+        g_index = int(prop[1])
+    except ValueError:
+        g_index = prop[1]
     g_A = float(prop[2])
     g_B = float(prop[3]) 
     g_C = float(prop[4]) 
