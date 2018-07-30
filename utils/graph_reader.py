@@ -458,11 +458,16 @@ def xyz_graph_reader(graph_file):
         # Create nodes
         for i in range(0, m.GetNumAtoms()):
             atom_i = m.GetAtomWithIdx(i)
-
-            g.add_node(i, a_type=atom_i.GetSymbol(), a_num=atom_i.GetAtomicNum(), acceptor=0, donor=0,
+            if len(atom_properties[i]) > 4:
+                g.add_node(i, a_type=atom_i.GetSymbol(), a_num=atom_i.GetAtomicNum(), acceptor=0, donor=0,
                        aromatic=atom_i.GetIsAromatic(), hybridization=atom_i.GetHybridization(),
                        num_h=atom_i.GetTotalNumHs(), coord=np.array(atom_properties[i][1:4]).astype(np.float),
                        pc=float(atom_properties[i][4]))
+            else:
+                g.add_node(i, a_type=atom_i.GetSymbol(), a_num=atom_i.GetAtomicNum(), acceptor=0, donor=0,
+                       aromatic=atom_i.GetIsAromatic(), hybridization=atom_i.GetHybridization(),
+                       num_h=atom_i.GetTotalNumHs(), coord=np.array(atom_properties[i][1:4]).astype(np.float),
+                           pc=float(0.0))
 
         for i in range(0, len(feats)):
             if feats[i].GetFamily() == 'Donor':
